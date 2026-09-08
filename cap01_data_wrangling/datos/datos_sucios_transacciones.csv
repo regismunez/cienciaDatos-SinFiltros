@@ -1,0 +1,541 @@
+row_num,transaction_id,fecha,vendedor,producto,categoria,cantidad,precio_unitario,monto_total,metodo_pago,estado,ciudad,email_cliente,notas
+1,10237,08-31-24,Diego Hernández,Laptop HP 15,periféricos,3,626.25,1878.75,Tarjeta débito,Cancelada,Caracas,usuario236@gmail.com,Entrega en punto de recogida
+2,10477,20.09.2024,María Rodríguez,Cargador USB-C 65W,Ele,2,381.96,763.92,Tarjeta crédito,Reembolsada,Buenos Aires,usuario476@empresa.pe,Pago pendiente de confirmar
+3,10107,"September 16, 2024",Ana García,Disco SSD Kingston 240GB,Almacenamiento,1,858.78,858.78,Plin,Reembolsada,Quito,usuario106@gmail.com,Envío estándar
+4,10113,2024-12-13,Ana García,Teclado mecánico Redragon,  Audio  ,-2,374.79,-749.58,Efectivo,Pendiente,Bogotá,usuario112@outlook.com,
+5,10238,06-13-24,Sofía Torres,Cable HDMI 2m,ELECTRÓNICA,1,281.27,281.27,Transferencia,Pendiente,Medellín,usuario237@outlook.com,Pago pendiente de confirmar
+6,20023,2024-12-20,Ana García,Mousepad RGB,  Electrónica  ,-1,654.88,3274.4,Tarjeta débito,Pendiente,Medellín,usuario141@outlook.com,Sin observaciones
+7,10314,24/02/2024,Carlos López,Mousepad RGB,Alm,2,755.23,1510.46,Efectivo,Completada,Caracas,usuario313@outlook.com,
+8,10161,06-30-24,Sofía Torres,Mouse Logitech M185,  Periféricos  ,2,563.69,1127.38,Transferencia,Pendiente,Buenos Aires,usuario160@gmail.com,Pedido urgente
+9,10471,11-11-24,Laura Martínez,Webcam Logitech C920,Electrónica,2,453.05,906.1,Yape,Completada,Santiago,usuario470@outlook.com,
+10,10140,05/04/2024,Diego Hernández,Parlantes JBL,Per,1,662.17,662.17,Plin,Pendiente,Santiago,usuario139@empresa.pe,Pago pendiente de confirmar
+11,20036,"August 05, 2024",Sofía Torres,Memoria RAM 8GB,  Electrónica  ,10,664.25,6642.5,Transferencia,Pendiente,Bogotá,usuario431@gmail.com,Producto dañado en tránsito
+12,10275,2024-08-14,Diego Hernández,Parlantes JBL,Aud,2,195.13,390.26,Plin,Pendiente,Buenos Aires,usuario274@hotmail.com,Envío estándar
+13,10303,12-18-24,Sofía Torres,Webcam Logitech C920,ELECTRÓNICA,0,21.86,0.0,Transferencia,Cancelada,Ciudad de México,usuario302@empresa.pe,
+14,10447,03.07.2024,María Rodríguez,Hub USB 3.0,almacenamiento,0,849.93,0.0,Transferencia,Cancelada,Lima,usuario446@outlook.com,Revisar stock
+15,10220,"September 09, 2024",Laura Martínez,Teclado mecánico Redragon,Almacenamiento,-1,141.19,-141.19,Efectivo,Completada,Buenos Aires,usuario219@gmail.com,Pedido urgente
+16,10019,"October 23, 2024",Ana García,Cable HDMI 2m,  Electrónica  ,1,848.33,848.33,Plin,Cancelada,Ciudad de México,usuario18@outlook.com,Producto dañado en tránsito
+17,10056,13/06/2024,María Rodríguez,Webcam Logitech C920,  Almacenamiento  ,1,431.22,431.22,Tarjeta débito,Reembolsada,Montevideo,,
+18,10195,2024-03-09,Carlos López,Impresora Epson L3210,Audio,5,699.62,3498.1,Yape,Pendiente,Caracas,usuario194@hotmail.com,Requiere factura
+19,10295,"April 24, 2024",Sofía Torres,Webcam Logitech C920,  Periféricos  ,0,238.03,0.0,Transferencia,Completada,Montevideo,usuario294@empresa.pe,N/A
+20,10197,"November 03, 2024",Laura Martínez,Parlantes JBL,electrónica,2,585.66,1171.32,Tarjeta crédito,Pendiente,Medellín,usuario196@gmail.com,Entrega en punto de recogida
+21,10041,01-14-24,Sofía Torres,Disco SSD Kingston 240GB,Accesorios,1,868.79,868.79,Yape,Pendiente,Bogotá,usuario40@outlook.com,
+22,10519,"February 22, 2024",Ana García,Impresora Epson L3210,ELECTRÓNICA,1,706.86,706.86,Plin,Completada,Buenos Aires,usuario518@hotmail.com,Revisar stock
+23,20047,04/02/2024,Sofía Torres,Impresora Epson L3210,Alm,3,821.1,2463.3,Tarjeta débito,Cancelada,Montevideo,usuario233@gmail.com,
+24,10155,01.03.2024,Pedro Sánchez,Hub USB 3.0,AUDIO,2,844.41,1688.82,Transferencia,Pendiente,Montevideo,usuario154@outlook.com,Pago pendiente de confirmar
+25,10007,"May 14, 2024",Sofía Torres,Cargador USB-C 65W,  Audio  ,1,233.64,233.64,Tarjeta débito,Pendiente,Santiago,usuario6@gmail.com,Envío estándar
+26,10049,01/09/2024,Carlos López,Disco SSD Kingston 240GB,Almacenamiento,3,178.57,535.71,Yape,Completada,Santiago,usuario48@outlook.com,
+27,10284,"July 02, 2024",Carlos López,Audífonos Sony WH,Per,-1,55.76,-55.76,Efectivo,Cancelada,Caracas,usuario283@gmail.com,Pago pendiente de confirmar
+28,10272,"October 25, 2024",Sofía Torres,Mousepad RGB,audio,1,688.4,688.4,Transferencia,Completada,Montevideo,null,
+29,10080,"November 01, 2024",Laura Martínez,Memoria RAM 8GB,Aud,0,645.39,0.0,Transferencia,Completada,Bogotá,usuario79@hotmail.com,Entrega en punto de recogida
+30,10052,2024-01-17,Laura Martínez,Hub USB 3.0,  Periféricos  ,10,625.24,6252.4,Efectivo,Pendiente,Ciudad de México,usuario51@hotmail.com,Pago pendiente de confirmar
+31,10103,14.01.2024,Ana García,Disco SSD Kingston 240GB,audio,2,737.87,1475.74,Tarjeta crédito,Reembolsada,Bogotá,usuario102@gmail.com,Envío estándar
+32,10325,2024-08-14,María Rodríguez,Impresora Epson L3210,Accesorios,2,218.36,436.72,Efectivo,Cancelada,Quito,usuario324@empresa.pe,Pago pendiente de confirmar
+33,10006,07-24-24,Carlos López,Monitor Samsung 24,audio,2,742.38,1484.76,Tarjeta crédito,Reembolsada,Medellín,usuario5@empresa.pe,
+34,10086,2024-03-20,Ana García,Mousepad RGB,electrónica,-1,542.85,-542.85,Transferencia,Reembolsada,Caracas,usuario85@empresa.pe,Pago pendiente de confirmar
+35,10368,13/09/2024,María Rodríguez,Parlantes JBL,Aud,10,749.53,7495.3,Tarjeta crédito,Reembolsada,Medellín,usuario367@gmail.com,NA
+36,10282,2024-12-17,Ana García,Memoria RAM 8GB,Periféricos,-2,737.91,-1475.82,Efectivo,Completada,Lima,usuario281@outlook.com,
+37,10117,2024-03-12,Javier Ruiz,Laptop HP 15,Per,2,122.84,245.68,Yape,Cancelada,Caracas,usuario116@hotmail.com,Envío estándar
+38,10513,28/04/2024,Ana García,Disco SSD Kingston 240GB,audio,-2,816.03,-1632.06,Yape,Completada,Ciudad de México,usuario512@empresa.pe,Envío estándar
+39,10222,05.12.2024,Carlos López,Webcam Logitech C920,periféricos,3,865.1,2595.3,Tarjeta crédito,Pendiente,Medellín,usuario221@empresa.pe,Requiere factura
+40,10152,03-17-24,Sofía Torres,Teclado mecánico Redragon,  Audio  ,0,297.42,0.0,Tarjeta crédito,Pendiente,Ciudad de México,usuario151@hotmail.com,Pedido urgente
+41,10198,"November 22, 2024",Carlos López,Impresora Epson L3210,electrónica,10,356.81,3568.1,Tarjeta débito,Pendiente,Medellín,usuario197@empresa.pe,Requiere factura
+42,10215,"March 27, 2024",Sofía Torres,Tablet Samsung Tab A,  Almacenamiento  ,1,53.26,53.26,Efectivo,Reembolsada,Medellín,usuario214@hotmail.com,Sin observaciones
+43,10423,2024-08-31,Pedro Sánchez,Teclado mecánico Redragon,Per,2,383.64,767.28,Transferencia,Reembolsada,Buenos Aires,usuario422@gmail.com,Revisar stock
+44,10128,2024-01-20,Diego Hernández,Parlantes JBL,Alm,0,370.52,0.0,Transferencia,Pendiente,La Paz,usuario127@hotmail.com,
+45,10360,"September 23, 2024",Pedro Sánchez,Disco SSD Kingston 240GB,Acc,-2,136.91,-273.82,Tarjeta crédito,Reembolsada,Ciudad de México,usuario359@outlook.com,Requiere factura
+46,10050,"November 06, 2024",Pedro Sánchez,Parlantes JBL,  Audio  ,2,120.27,240.54,Transferencia,Reembolsada,Ciudad de México,usuario49@empresa.pe,
+47,10301,01.01.2024,Sofía Torres,Webcam Logitech C920,Ele,-2,130.77,-261.54,Transferencia,Pendiente,Caracas,usuario300@empresa.pe,
+48,10409,05-25-24,Pedro Sánchez,Laptop HP 15,Ele,1,621.82,621.82,Efectivo,Completada,La Paz,usuario408@hotmail.com,Envío estándar
+49,10171,17.06.2024,Diego Hernández,Disco SSD Kingston 240GB,AUDIO,5,309.34,1546.7,Tarjeta débito,Cancelada,La Paz,usuario170@hotmail.com,Requiere factura
+50,10283,18.08.2024,Sofía Torres,Webcam Logitech C920,  Electrónica  ,2,821.26,1642.52,Plin,Completada,Montevideo,,Envío estándar
+51,10261,22/03/2024,Sofía Torres,Cargador USB-C 65W,  Audio  ,1,132.71,132.71,Yape,Reembolsada,Santiago,usuario260@outlook.com,Requiere factura
+52,10456,"September 29, 2024",Carlos López,Disco SSD Kingston 240GB,Almacenamiento,-1,625.49,-625.49,Efectivo,Pendiente,Lima,usuario455@outlook.com,Requiere factura
+53,10178,28/02/2024,Diego Hernández,Mousepad RGB,ELECTRÓNICA,1,281.08,281.08,Plin,Pendiente,Montevideo,usuario177@hotmail.com,Producto dañado en tránsito
+54,10499,"March 27, 2024",Laura Martínez,Cable HDMI 2m,AUDIO,1,195.7,195.7,Yape,Completada,Montevideo,usuario498@hotmail.com,Envío estándar
+55,10058,27.05.2024,Javier Ruiz,Mouse Logitech M185,Ele,2,251.71,503.42,Tarjeta crédito,Pendiente,Ciudad de México,usuario57@empresa.pe,
+56,10491,20.08.2024,Carlos López,Monitor Samsung 24,ACCESORIOS,0,400.39,0.0,Tarjeta débito,Cancelada,Caracas,usuario490@empresa.pe,
+57,10480,04/08/2024,Pedro Sánchez,Teclado mecánico Redragon,PERIFÉRICOS,10,444.82,4448.2,Efectivo,Cancelada,Ciudad de México,usuario479@hotmail.com,Pedido urgente
+58,10276,02.03.2024,Ana García,Disco SSD Kingston 240GB,Per,1,866.8,866.8,Tarjeta débito,Pendiente,Santiago,usuario275@outlook.com,
+59,10004,2024-01-24,Laura Martínez,Mouse Logitech M185,Accesorios,3,526.16,1578.48,Transferencia,Cancelada,Caracas,usuario3@outlook.com,-
+60,10160,"January 09, 2024",Laura Martínez,Impresora Epson L3210,Periféricos,1,486.24,486.24,Yape,Reembolsada,Santiago,N/A,Entrega en punto de recogida
+61,10394,21/11/2024,María Rodríguez,Mousepad RGB,  Accesorios  ,1,800.27,800.27,Yape,Cancelada,Medellín,usuario393@empresa.pe,Se entregó OK. Cliente satisfecho.
+62,10346,"July 11, 2024",Laura Martínez,Webcam Logitech C920,  Almacenamiento  ,-1,228.42,-228.42,Transferencia,Completada,Lima,usuario345@gmail.com,Sin observaciones
+63,10181,"July 17, 2024",Sofía Torres,Cable HDMI 2m,electrónica,0,869.84,0.0,Tarjeta débito,Reembolsada,La Paz,usuario180@outlook.com,
+64,10186,"August 13, 2024",Pedro Sánchez,Disco SSD Kingston 240GB,ELECTRÓNICA,0,743.09,0.0,Tarjeta débito,Completada,Caracas,usuario185@gmail.com,Envío estándar
+65,10095,28.12.2024,Javier Ruiz,Impresora Epson L3210,Aud,0,586.99,0.0,Tarjeta crédito,Cancelada,Quito,usuario94@empresa.pe,Cliente solicitó cambio
+66,10330,2024-04-03,Laura Martínez,Mouse Logitech M185,Alm,2,380.71,761.42,Transferencia,Cancelada,La Paz,usuario329@outlook.com,
+67,10308,11/12/2024,Diego Hernández,Monitor Samsung 24,ELECTRÓNICA,0,633.27,0.0,Efectivo,Cancelada,Medellín,usuario307@empresa.pe,Entrega en punto de recogida
+68,10144,04/07/2024,Carlos López,Laptop HP 15,Aud,1,480.31,480.31,Tarjeta crédito,Pendiente,Santiago,usuario143@empresa.pe,
+69,10426,"June 20, 2024",Javier Ruiz,Laptop HP 15,Electrónica,3,267.64,802.92,Yape,Pendiente,Santiago,usuario425@empresa.pe,Envío estándar
+70,10188,10-20-24,Carlos López,Teclado mecánico Redragon,Almacenamiento,3,881.42,2644.26,Tarjeta débito,Pendiente,Santiago,usuario187@outlook.com,Producto dañado en tránsito
+71,10473,10-02-24,Ana García,Memoria RAM 8GB,Alm,2,116.75,233.5,Yape,Reembolsada,Ciudad de México,,Pedido urgente
+72,10112,19.12.2024,Diego Hernández,Memoria RAM 8GB,electrónica,10,548.51,5485.1,Yape,Reembolsada,Ciudad de México,usuario111@gmail.com,
+73,10449,20/06/2024,Sofía Torres,Mouse Logitech M185,  Electrónica  ,2,435.29,870.58,Plin,Cancelada,Medellín,usuario448@empresa.pe,Requiere factura
+74,10034,11.06.2024,Sofía Torres,Tablet Samsung Tab A,  Audio  ,-2,485.28,-970.56,Tarjeta crédito,Reembolsada,Caracas,usuario33@hotmail.com,Sin observaciones
+75,10177,06-27-24,Diego Hernández,Memoria RAM 8GB,Acc,1,750.79,750.79,Transferencia,Cancelada,Caracas,nan,Cliente solicitó cambio
+76,10170,02-09-24,Laura Martínez,Monitor Samsung 24,Alm,5,259.59,1297.95,Yape,Pendiente,Caracas,-,
+77,10411,06-14-24,María Rodríguez,Parlantes JBL,electrónica,5,627.76,3138.8,Efectivo,Reembolsada,Medellín,usuario410@gmail.com,Sin observaciones
+78,10460,"May 22, 2024",Diego Hernández,Webcam Logitech C920,Acc,1,144.24,144.24,Plin,Pendiente,Montevideo,usuario459@gmail.com,Pedido urgente
+79,10009,11-24-24,Carlos López,Audífonos Sony WH,ALMACENAMIENTO,-2,798.09,-1596.18,Transferencia,Completada,Ciudad de México,usuario8@hotmail.com,Envío estándar
+80,10176,08-16-24,Sofía Torres,Memoria RAM 8GB,Aud,0,528.96,0.0,Tarjeta crédito,Cancelada,Lima,usuario175@outlook.com,Envío estándar
+81,10269,"August 09, 2024",Javier Ruiz,Cargador USB-C 65W,AUDIO,0,666.67,0.0,Plin,Pendiente,Santiago,nan,Cliente solicitó cambio
+82,10134,05-20-24,Carlos López,Cable HDMI 2m,  Audio  ,10,295.92,2959.2,Transferencia,Cancelada,Santiago,usuario133@outlook.com,Envío estándar
+83,10089,02-09-24,Sofía Torres,Cable HDMI 2m,  Almacenamiento  ,1,401.33,401.33,Tarjeta débito,Completada,Medellín,,
+84,10485,16/12/2024,Pedro Sánchez,Tablet Samsung Tab A,  Almacenamiento  ,2,580.64,1161.28,Efectivo,Reembolsada,Ciudad de México,usuario484@hotmail.com,Requiere factura
+85,10359,"April 30, 2024",Laura Martínez,Parlantes JBL,electrónica,-2,326.76,-653.52,Transferencia,Completada,Montevideo,usuario358@hotmail.com,null
+86,20034,13/07/2024,María Rodríguez,Cargador USB-C 65W,Per,-1,855.55,-855.55,Plin,Pendiente,Santiago,usuario369@hotmail.com,Pedido urgente
+87,10475,"February 08, 2024",Pedro Sánchez,Audífonos Sony WH,Periféricos,10,577.54,5775.4,Tarjeta débito,Reembolsada,Buenos Aires,usuario474@gmail.com,
+88,10393,03-31-24,Sofía Torres,Mouse Logitech M185,Audio,3,506.47,1519.41,Plin,Reembolsada,Quito,usuario392@gmail.com,
+89,10183,"March 29, 2024",María Rodríguez,Memoria RAM 8GB,PERIFÉRICOS,-2,490.81,-981.62,Tarjeta crédito,Cancelada,Caracas,usuario182@outlook.com,Revisar stock
+90,10373,11-30-24,Ana García,Teclado mecánico Redragon,Ele,2,58.77,117.54,Yape,Cancelada,Quito,usuario372@gmail.com,
+91,10387,03.10.2024,Ana García,Teclado mecánico Redragon,  Electrónica  ,1,290.91,290.91,Plin,Completada,Bogotá,usuario386@gmail.com,Requiere factura
+92,10445,09/10/2024,Laura Martínez,Laptop HP 15,Alm,10,811.7,8117.0,Tarjeta crédito,Reembolsada,Quito,N/A,Entrega en punto de recogida
+93,10264,"April 24, 2024",Sofía Torres,Disco SSD Kingston 240GB,Accesorios,3,873.58,2620.74,Transferencia,Reembolsada,La Paz,usuario263@empresa.pe,Envío estándar
+94,10431,2024-05-06,Diego Hernández,Disco SSD Kingston 240GB,AUDIO,2,28.33,56.66,Yape,Pendiente,La Paz,usuario430@empresa.pe,Pedido urgente
+95,10421,19/04/2024,María Rodríguez,Webcam Logitech C920,Electrónica,1,299.94,299.94,Tarjeta débito,Pendiente,Medellín,usuario420@outlook.com,Revisar stock
+96,10260,07-09-24,María Rodríguez,Mouse Logitech M185,  Almacenamiento  ,-1,252.82,-252.82,Transferencia,Cancelada,Medellín,usuario259@empresa.pe,Requiere factura
+97,10223,2024-07-01,María Rodríguez,Disco SSD Kingston 240GB,periféricos,0,628.95,0.0,Tarjeta crédito,Pendiente,Lima,usuario222@empresa.pe,
+98,10436,26/12/2024,Pedro Sánchez,Teclado mecánico Redragon,PERIFÉRICOS,3,339.61,1018.83,Yape,Completada,Caracas,usuario435@hotmail.com,Entrega en punto de recogida
+99,10187,12-18-24,Sofía Torres,Teclado mecánico Redragon,AUDIO,2,201.14,402.28,Tarjeta crédito,Pendiente,Lima,usuario186@outlook.com,Requiere factura
+100,10108,"February 23, 2024",Diego Hernández,Teclado mecánico Redragon,electrónica,3,228.77,686.31,Yape,Cancelada,Santiago,usuario107@empresa.pe,Revisar stock
+101,10390,02-27-24,Javier Ruiz,Memoria RAM 8GB,accesorios,10,446.69,4466.9,Tarjeta débito,Pendiente,Montevideo,nan,Cliente solicitó cambio
+102,10444,09-16-24,Laura Martínez,Memoria RAM 8GB,Per,1,873.59,873.59,Plin,Pendiente,La Paz,usuario443@empresa.pe,Envío estándar
+103,10289,2024-08-07,Ana García,Webcam Logitech C920,ACCESORIOS,-1,516.88,-516.88,Plin,Reembolsada,Ciudad de México,usuario288@hotmail.com,Cliente solicitó cambio
+104,10448,15.08.2024,Javier Ruiz,Audífonos Sony WH,  Accesorios  ,0,92.98,0.0,Plin,Reembolsada,Santiago,usuario447@gmail.com,
+105,10250,20/11/2024,Ana García,Memoria RAM 8GB,PERIFÉRICOS,3,573.64,1720.92,Tarjeta crédito,Pendiente,Caracas,usuario249@gmail.com,
+106,10463,09/09/2024,Sofía Torres,Audífonos Sony WH,Alm,0,654.22,0.0,Plin,Cancelada,Caracas,usuario462@empresa.pe,Producto dañado en tránsito
+107,10417,07.09.2024,Carlos López,Parlantes JBL,audio,1,652.1,652.1,Transferencia,Reembolsada,Lima,,
+108,10358,13.09.2024,Ana García,Laptop HP 15,Acc,-1,485.66,-485.66,Tarjeta débito,Cancelada,Caracas,usuario357@hotmail.com,
+109,10039,08-03-24,Carlos López,Memoria RAM 8GB,Ele,3,688.8,2066.4,Efectivo,Cancelada,Buenos Aires,usuario38@gmail.com,Entrega en punto de recogida
+110,10408,"May 03, 2024",Pedro Sánchez,Impresora Epson L3210,PERIFÉRICOS,5,423.35,2116.75,Tarjeta débito,Completada,Lima,usuario407@gmail.com,Pago pendiente de confirmar
+111,10279,28/11/2024,Carlos López,Mousepad RGB,  Periféricos  ,0,435.51,0.0,Tarjeta crédito,Pendiente,Lima,usuario278@outlook.com,Envío estándar
+112,10221,03-07-24,María Rodríguez,Cargador USB-C 65W,Periféricos,3,827.37,2482.11,Efectivo,Pendiente,La Paz,usuario220@hotmail.com,Pago pendiente de confirmar
+113,10182,05-02-24,Carlos López,Teclado mecánico Redragon,PERIFÉRICOS,1,609.97,609.97,Yape,Reembolsada,Medellín,usuario181@empresa.pe,Revisar stock
+114,10125,16.02.2024,Javier Ruiz,Monitor Samsung 24,Acc,10,793.03,7930.3,Tarjeta débito,Completada,Lima,usuario124@empresa.pe,Pedido urgente
+115,10184,"October 14, 2024",Javier Ruiz,Disco SSD Kingston 240GB,  Almacenamiento  ,1,188.09,188.09,Plin,Reembolsada,Caracas,usuario183@gmail.com,Entrega en punto de recogida
+116,10135,2024-09-02,Pedro Sánchez,Tablet Samsung Tab A,audio,3,832.78,2498.34,Yape,Cancelada,Santiago,nan,Entrega en punto de recogida
+117,10286,04-17-24,Pedro Sánchez,Disco SSD Kingston 240GB,AUDIO,0,499.78,0.0,Tarjeta crédito,Pendiente,Buenos Aires,usuario285@outlook.com,Se entregó OK. Cliente satisfecho.
+118,10355,03-16-24,Ana García,Webcam Logitech C920,electrónica,1,230.47,230.47,Transferencia,Reembolsada,Lima,usuario354@hotmail.com,Pago pendiente de confirmar
+119,10189,17.11.2024,Sofía Torres,Memoria RAM 8GB,Electrónica,10,141.25,1412.5,Transferencia,Cancelada,Quito,usuario188@empresa.pe,Pedido urgente
+120,10432,"August 05, 2024",Sofía Torres,Memoria RAM 8GB,  Electrónica  ,10,664.25,6642.5,Transferencia,Pendiente,Bogotá,usuario431@gmail.com,Producto dañado en tránsito
+121,10468,09.09.2024,Pedro Sánchez,Audífonos Sony WH,  Almacenamiento  ,1,600.22,600.22,Yape,Cancelada,Montevideo,usuario467@gmail.com,Pedido urgente
+122,10294,"February 22, 2024",Laura Martínez,Tablet Samsung Tab A,Per,1,50.8,50.85,Yape,Pendiente,Medellín,usuario293@outlook.com,Envío estándar
+123,10398,06.09.2024,María Rodríguez,Mouse Logitech M185,  Accesorios  ,1,588.99,588.99,Transferencia,Reembolsada,La Paz,usuario397@empresa.pe,Revisar stock
+124,10492,2024-12-12,Sofía Torres,Teclado mecánico Redragon,ALMACENAMIENTO,2,895.75,1791.5,Efectivo,Cancelada,Ciudad de México,usuario491@empresa.pe,Cliente solicitó cambio
+125,10497,"March 18, 2024",Javier Ruiz,Laptop HP 15,ACCESORIOS,1,294.59,294.59,Efectivo,Pendiente,Santiago,,Revisar stock
+126,10344,12.10.2024,Carlos López,Parlantes JBL,audio,-1,568.59,-568.59,Plin,Reembolsada,Medellín,usuario343@hotmail.com,Pago pendiente de confirmar
+127,10454,"February 18, 2024",María Rodríguez,Impresora Epson L3210,periféricos,0,186.93,0.0,Plin,Cancelada,Ciudad de México,usuario453@outlook.com,
+128,10348,04-29-24,Laura Martínez,Mouse Logitech M185,  Audio  ,2,340.18,680.36,Yape,Pendiente,Bogotá,usuario347@empresa.pe,N/A
+129,10437,14.12.2024,Laura Martínez,Laptop HP 15,electrónica,3,327.47,982.41,Tarjeta débito,Reembolsada,Caracas,usuario436@gmail.com,Pago pendiente de confirmar
+130,10148,2024-09-27,Pedro Sánchez,Tablet Samsung Tab A,Electrónica,1,173.36,173.36,Tarjeta débito,Reembolsada,Montevideo,usuario147@empresa.pe,Entrega en punto de recogida
+131,10280,"January 13, 2024",Diego Hernández,Impresora Epson L3210,  Audio  ,5,242.45,1212.25,Transferencia,Completada,Ciudad de México,usuario279@hotmail.com,Envío estándar
+132,10100,"August 15, 2024",Laura Martínez,Parlantes JBL,ALMACENAMIENTO,5,337.72,1688.6,Yape,Pendiente,Ciudad de México,usuario99@empresa.pe,Entrega en punto de recogida
+133,10092,"August 25, 2024",Javier Ruiz,Mousepad RGB,Aud,1,856.91,856.91,Tarjeta débito,Cancelada,Santiago,usuario91@empresa.pe,Sin observaciones
+134,10319,"November 18, 2024",Diego Hernández,Parlantes JBL,almacenamiento,1,388.33,388.33,Tarjeta débito,Completada,Medellín,NA,
+135,10091,2024-09-18,Diego Hernández,Webcam Logitech C920,ACCESORIOS,1,467.02,467.02,Efectivo,Pendiente,Ciudad de México,usuario90@hotmail.com,Envío estándar
+136,20035,08-16-24,María Rodríguez,Mouse Logitech M185,ACCESORIOS,5,287.98,1439.9,Efectivo,Cancelada,Lima,usuario370@empresa.pe,Pedido urgente
+137,10517,14/09/2024,Carlos López,Webcam Logitech C920,Almacenamiento,3,614.24,1842.72,Yape,Pendiente,Bogotá,usuario516@empresa.pe,Cliente solicitó cambio
+138,10241,18/12/2024,Laura Martínez,Laptop HP 15,Almacenamiento,3,160.13,480.39,Tarjeta crédito,Pendiente,Buenos Aires,usuario240@hotmail.com,Producto dañado en tránsito
+139,10462,2024-08-05,Pedro Sánchez,Disco SSD Kingston 240GB,electrónica,1,753.82,753.82,Efectivo,Reembolsada,Bogotá,usuario461@empresa.pe,Sin observaciones
+140,10020,10/06/2024,Ana García,Memoria RAM 8GB,Aud,1,609.6,609.6,Efectivo,Completada,Montevideo,usuario19@outlook.com,
+141,10397,29.03.2024,María Rodríguez,Monitor Samsung 24,  Audio  ,5,400.42,2002.1,Tarjeta débito,Reembolsada,Santiago,usuario396@hotmail.com,
+142,10443,09.07.2024,María Rodríguez,Impresora Epson L3210,Periféricos,-2,295.83,-591.66,Efectivo,Reembolsada,Caracas,usuario442@empresa.pe,Requiere factura
+143,10101,13.08.2024,Laura Martínez,Parlantes JBL,Alm,3,615.46,1846.38,Yape,Reembolsada,Santiago,usuario100@hotmail.com,Pedido urgente
+144,10404,03.12.2024,Diego Hernández,Parlantes JBL,accesorios,1,820.5,820.5,Plin,Pendiente,Caracas,usuario403@gmail.com,Envío estándar
+145,10172,21.12.2024,Pedro Sánchez,Webcam Logitech C920,almacenamiento,5,872.33,4361.65,Transferencia,Cancelada,Bogotá,usuario171@hotmail.com,Pago pendiente de confirmar
+146,10310,16/09/2024,Carlos López,Impresora Epson L3210,periféricos,-1,19.61,-19.61,Efectivo,Cancelada,Montevideo,usuario309@outlook.com,Producto dañado en tránsito
+147,10045,07/04/2024,Pedro Sánchez,Hub USB 3.0,  Almacenamiento  ,2,507.09,1014.18,Yape,Pendiente,Caracas,usuario44@empresa.pe,Pedido urgente
+148,10502,17.02.2024,Laura Martínez,Teclado mecánico Redragon,  Accesorios  ,1,499.45,499.45,Efectivo,Completada,Buenos Aires,usuario501@empresa.pe,Requiere factura
+149,10376,12-27-24,Sofía Torres,Cable HDMI 2m,periféricos,1,443.3,443.3,Yape,Cancelada,Santiago,usuario375@empresa.pe,Revisar stock
+150,10257,"January 21, 2024",Javier Ruiz,Cargador USB-C 65W,  Accesorios  ,3,637.68,1913.04,Tarjeta débito,Pendiente,Lima,,
+151,10307,01/11/2024,María Rodríguez,Mousepad RGB,  Almacenamiento  ,-1,595.88,-595.88,Efectivo,Pendiente,Montevideo,usuario306@gmail.com,Pago pendiente de confirmar
+152,10372,28.10.2024,Javier Ruiz,Disco SSD Kingston 240GB,Almacenamiento,-1,796.24,-796.24,Yape,Completada,Buenos Aires,usuario371@outlook.com,Pago pendiente de confirmar
+153,10420,28.02.2024,Pedro Sánchez,Mouse Logitech M185,  Accesorios  ,-1,72.07,-72.07,Tarjeta débito,Reembolsada,Quito,correo_invalido,Pago pendiente de confirmar
+154,10335,20.11.2024,Diego Hernández,Laptop HP 15,accesorios,-2,208.13,-416.26,Yape,Completada,Medellín,usuario334@gmail.com,
+155,10391,29.09.2024,Sofía Torres,Cable HDMI 2m,ALMACENAMIENTO,0,589.93,0.0,Yape,Pendiente,Montevideo,usuario390@empresa.pe,Cliente solicitó cambio
+156,10118,"September 02, 2024",Sofía Torres,Parlantes JBL,Alm,1,289.06,289.06,Efectivo,Pendiente,Quito,usuario117@empresa.pe,Pago pendiente de confirmar
+157,10169,"October 19, 2024",María Rodríguez,Mousepad RGB,ALMACENAMIENTO,0,816.15,0.0,Tarjeta crédito,Cancelada,Ciudad de México,usuario168@hotmail.com,
+158,10304,14.04.2024,Javier Ruiz,Teclado mecánico Redragon,Per,2,892.74,1785.48,Yape,Reembolsada,Ciudad de México,usuario303@outlook.com,Producto dañado en tránsito
+159,10083,"October 22, 2024",Pedro Sánchez,Teclado mecánico Redragon,ALMACENAMIENTO,2,546.56,1093.12,Efectivo,Cancelada,Montevideo,usuario82@outlook.com,Producto dañado en tránsito
+160,10208,01-05-24,Ana García,Parlantes JBL,almacenamiento,0,321.91,0.0,Efectivo,Pendiente,Montevideo,usuario207@empresa.pe,Pedido urgente
+161,10254,"January 12, 2024",María Rodríguez,Mouse Logitech M185,Periféricos,2,658.67,1317.34,Transferencia,Cancelada,Montevideo,usuario253@gmail.com,Pedido urgente
+162,10204,17/09/2024,Ana García,Tablet Samsung Tab A,ELECTRÓNICA,-1,611.75,-611.75,Efectivo,Reembolsada,Quito,usuario203@hotmail.com,N/A
+163,10419,12/11/2024,Pedro Sánchez,Hub USB 3.0,Accesorios,-2,32.36,-64.72,Tarjeta crédito,Completada,Ciudad de México,usuario418@gmail.com,Requiere factura
+164,10452,"September 03, 2024",Sofía Torres,Tablet Samsung Tab A,  Periféricos  ,1,545.21,545.21,Plin,Completada,Quito,usuario451@gmail.com,Requiere factura
+165,10088,02/03/2024,Javier Ruiz,Hub USB 3.0,ALMACENAMIENTO,1,691.39,691.39,Tarjeta crédito,Reembolsada,Montevideo,usuario87@outlook.com,
+166,10369,2024-11-28,Carlos López,Mouse Logitech M185,  Electrónica  ,10,95.26,952.6,Plin,Cancelada,Bogotá,usuario368@empresa.pe,Pago pendiente de confirmar
+167,10435,16/12/2024,Diego Hernández,Hub USB 3.0,Ele,-1,495.28,-495.28,Plin,Cancelada,Lima,-,Pedido urgente
+168,10381,01-16-24,Sofía Torres,Mousepad RGB,AUDIO,1,873.11,873.11,Yape,Reembolsada,Santiago,usuario380@outlook.com,Cliente solicitó cambio
+169,10470,18.07.2024,Carlos López,Cable HDMI 2m,Alm,10,396.43,3964.3,Plin,Reembolsada,Caracas,usuario469@hotmail.com,Producto dañado en tránsito
+170,10379,04-09-24,Diego Hernández,Cargador USB-C 65W,  Almacenamiento  ,-1,864.71,-864.71,Efectivo,Pendiente,Caracas,usuario378@empresa.pe,Pago pendiente de confirmar
+171,10476,"October 17, 2024",Javier Ruiz,Disco SSD Kingston 240GB,accesorios,1,539.0,539.0,Efectivo,Cancelada,Montevideo,usuario475@empresa.pe,Cliente solicitó cambio
+172,10205,01.12.2024,Pedro Sánchez,Webcam Logitech C920,  Accesorios  ,0,725.85,0.0,Plin,Cancelada,Ciudad de México,usuario204@outlook.com,
+173,10036,26.08.2024,Ana García,Monitor Samsung 24,  Almacenamiento  ,1,382.45,382.45,Yape,Completada,La Paz,usuario35@gmail.com,Sin observaciones
+174,20040,13.06.2024,Javier Ruiz,Memoria RAM 8GB,Acc,5,710.5,3552.5,Transferencia,Pendiente,Bogotá,usuario30@outlook.com,
+175,10102,"February 22, 2024",Carlos López,Audífonos Sony WH,ELECTRÓNICA,-2,440.58,-881.16,Tarjeta débito,Reembolsada,Montevideo,usuario101@empresa.pe,
+176,10371,08-16-24,María Rodríguez,Mouse Logitech M185,ACCESORIOS,5,287.98,1439.9,Efectivo,Cancelada,Lima,usuario370@empresa.pe,Pedido urgente
+177,10352,2024-12-23,María Rodríguez,Memoria RAM 8GB,AUDIO,1,367.99,367.99,Transferencia,Reembolsada,La Paz,usuario351@hotmail.com,Sin observaciones
+178,10018,26.10.2024,María Rodríguez,Laptop HP 15,Audio,1,677.08,677.08,Tarjeta crédito,Completada,La Paz,,Producto dañado en tránsito
+179,10145,18.09.2024,Ana García,Memoria RAM 8GB,Acc,2,649.61,1299.22,Transferencia,Reembolsada,La Paz,,Sin observaciones
+180,10137,30.11.2024,Javier Ruiz,Mousepad RGB,accesorios,0,880.45,0.0,Tarjeta débito,Cancelada,Lima,usuario136@gmail.com,Entrega en punto de recogida
+181,10455,"March 11, 2024",Laura Martínez,Webcam Logitech C920,  Almacenamiento  ,-1,326.51,-326.51,Tarjeta débito,Pendiente,Bogotá,usuario454@hotmail.com,Pago pendiente de confirmar
+182,10467,09/03/2024,Carlos López,Hub USB 3.0,Electrónica,10,455.33,4553.3,Transferencia,Completada,Santiago,usuario466@outlook.com,N/A
+183,10440,02/02/2024,Pedro Sánchez,Tablet Samsung Tab A,audio,10,668.0,668000.0,Transferencia,Cancelada,Quito,usuario439@empresa.pe,
+184,10255,13/07/2024,Laura Martínez,Memoria RAM 8GB,ACCESORIOS,1,625.58,625.58,Plin,Completada,Ciudad de México,usuario254@gmail.com,Sin observaciones
+185,10150,"April 29, 2024",Pedro Sánchez,Parlantes JBL,ELECTRÓNICA,2,670.5,1341.0,Yape,Cancelada,Buenos Aires,usuario149@outlook.com,Cliente solicitó cambio
+186,10055,12-10-24,Ana García,Parlantes JBL,  Accesorios  ,-1,856.46,-856.46,Yape,Reembolsada,Ciudad de México,usuario54@empresa.pe,Revisar stock
+187,10162,31/08/2024,Ana García,Hub USB 3.0,Accesorios,1,373.96,373.96,Transferencia,Reembolsada,Quito,usuario161@gmail.com,Pedido urgente
+188,10090,15.02.2024,Carlos López,Monitor Samsung 24,Alm,10,751.42,7514.2,Transferencia,Completada,Medellín,usuario89@outlook.com,Requiere factura
+189,10098,2024-04-02,Diego Hernández,Parlantes JBL,ALMACENAMIENTO,0,335.53,0.0,Tarjeta crédito,Pendiente,Santiago,,Envío estándar
+190,10496,06.03.2024,Laura Martínez,Hub USB 3.0,  Periféricos  ,2,118.85,237.7,Tarjeta débito,Cancelada,La Paz,usuario495@outlook.com,Producto dañado en tránsito
+191,10065,10.07.2024,María Rodríguez,Monitor Samsung 24,  Audio  ,3,719.68,2159.04,Yape,Pendiente,Santiago,usuario64@empresa.pe,Entrega en punto de recogida
+192,10484,03-15-24,Javier Ruiz,Hub USB 3.0,periféricos,10,619.38,6193.8,Efectivo,Completada,Lima,usuario483@hotmail.com,Producto dañado en tránsito
+193,10070,2024-04-12,Diego Hernández,Impresora Epson L3210,audio,2,304.48,608.96,Tarjeta crédito,Cancelada,Caracas,usuario69@outlook.com,Cliente solicitó cambio
+194,10242,15/12/2024,Javier Ruiz,Cargador USB-C 65W,ACCESORIOS,0,33.24,0.0,Yape,Completada,Buenos Aires,usuario241@outlook.com,Sin observaciones
+195,10520,03-19-24,Diego Hernández,Tablet Samsung Tab A,Accesorios,0,456.32,0.0,Tarjeta crédito,Reembolsada,Medellín,usuario519@gmail.com,Revisar stock
+196,10225,16/08/2024,Laura Martínez,Monitor Samsung 24,Accesorios,-2,580.78,-1161.56,Tarjeta débito,Cancelada,Bogotá,usuario224@gmail.com,Producto dañado en tránsito
+197,10043,2024-12-28,Sofía Torres,Teclado mecánico Redragon,audio,3,577.67,1733.01,Yape,Reembolsada,Caracas,usuario42@outlook.com,Entrega en punto de recogida
+198,10469,08-18-24,Sofía Torres,Memoria RAM 8GB,Almacenamiento,5,793.96,3969.8,Efectivo,Pendiente,Montevideo,usuario468@outlook.com,Requiere factura
+199,10075,01.02.2024,Laura Martínez,Monitor Samsung 24,  Electrónica  ,0,813.04,0.0,Efectivo,Pendiente,La Paz,usuario74@gmail.com,Entrega en punto de recogida
+200,10337,10-12-24,Javier Ruiz,Hub USB 3.0,Accesorios,1,446.99,446.99,Plin,Reembolsada,Quito,usuario336@outlook.com,Revisar stock
+201,10246,04-07-24,Pedro Sánchez,Mousepad RGB,  Audio  ,-1,641.78,-641.78,Plin,Cancelada,Montevideo,usuario245@hotmail.com,Pago pendiente de confirmar
+202,10001,2024-05-05,María Rodríguez,Hub USB 3.0,Ele,-2,113.97,-227.94,Efectivo,Reembolsada,Lima,,Pago pendiente de confirmar
+203,10011,2024-06-06,Ana García,Monitor Samsung 24,Audio,3,792.72,2378.16,Efectivo,Reembolsada,Bogotá,usuario10@hotmail.com,
+204,10116,02-14-24,Diego Hernández,Hub USB 3.0,Ele,1,810.37,810.37,Yape,Cancelada,Ciudad de México,usuario115@hotmail.com,Pago pendiente de confirmar
+205,10414,08.09.2024,Sofía Torres,Disco SSD Kingston 240GB,Ele,5,523.76,2618.8,Tarjeta crédito,Completada,Medellín,usuario413@empresa.pe,
+206,10498,10/09/2024,Javier Ruiz,Webcam Logitech C920,  Audio  ,5,118.12,590.6,Transferencia,Reembolsada,Bogotá,usuario497@hotmail.com,
+207,10138,2024-01-20,Sofía Torres,Cargador USB-C 65W,Accesorios,0,668.86,0.0,Transferencia,Reembolsada,Santiago,usuario137@outlook.com,Pedido urgente
+208,10429,2024-06-20,Ana García,Hub USB 3.0,Audio,-2,332.67,-665.34,Tarjeta débito,Pendiente,Bogotá,usuario428@empresa.pe,Cliente solicitó cambio
+209,10370,13/07/2024,María Rodríguez,Cargador USB-C 65W,Per,-1,855.55,-855.55,Plin,Pendiente,Santiago,usuario369@hotmail.com,Pedido urgente
+210,10306,03.11.2024,Carlos López,Mouse Logitech M185,PERIFÉRICOS,1,743.66,743.66,Tarjeta débito,Completada,La Paz,,Producto dañado en tránsito
+211,10139,06-20-24,Javier Ruiz,Mousepad RGB,Aud,2,517.86,1035.72,Transferencia,Pendiente,Montevideo,usuario138@hotmail.com,Cliente solicitó cambio
+212,20046,2024-12-03,Laura Martínez,Laptop HP 15,Accesorios,0,209.45,0.0,Tarjeta crédito,Reembolsada,Caracas,usuario424@gmail.com,
+213,10037,"August 02, 2024",Pedro Sánchez,Memoria RAM 8GB,accesorios,5,770.37,3851.85,Transferencia,Reembolsada,Lima,usuario36@empresa.pe,Revisar stock
+214,10201,10/08/2024,Javier Ruiz,Cable HDMI 2m,Audio,2,66.72,133.44,Tarjeta débito,Pendiente,Bogotá,,
+215,10053,13/03/2024,Ana García,Teclado mecánico Redragon,Per,2,588.33,1176.66,Plin,Cancelada,Caracas,correo_invalido,Producto dañado en tránsito
+216,10129,"June 02, 2024",Diego Hernández,Impresora Epson L3210,Aud,3,159.23,477.69,Transferencia,Cancelada,Caracas,usuario128@outlook.com,Envío estándar
+217,10239,2024-07-25,Ana García,Teclado mecánico Redragon,ACCESORIOS,1,73.54,73.54,Efectivo,Pendiente,Lima,usuario238@outlook.com,Sin observaciones
+218,10488,12/02/2024,María Rodríguez,Monitor Samsung 24,AUDIO,2,571.22,1142.44,Yape,Reembolsada,Quito,usuario487@hotmail.com,
+219,10022,2024-10-10,Laura Martínez,Audífonos Sony WH,AUDIO,2,117.6,235.2,Plin,Cancelada,Buenos Aires,usuario21@outlook.com,Sin observaciones
+220,10115,"July 17, 2024",Carlos López,Audífonos Sony WH,  Periféricos  ,1,666.2,666.2,Tarjeta crédito,Cancelada,Caracas,usuario114@hotmail.com,Revisar stock
+221,10240,21/11/2024,Ana García,Monitor Samsung 24,  Periféricos  ,3,743.88,2231.64,Yape,Reembolsada,Santiago,usuario239@empresa.pe,Cliente solicitó cambio
+222,10380,"January 29, 2024",Laura Martínez,Cable HDMI 2m,Per,3,424.55,1273.65,Yape,Completada,Buenos Aires,usuario379@outlook.com,Cliente solicitó cambio
+223,10078,"July 04, 2024",Carlos López,Memoria RAM 8GB,AUDIO,1,675.03,675.03,Yape,Completada,Montevideo,usuario77@gmail.com,
+224,10033,18/12/2024,Carlos López,Parlantes JBL,ALMACENAMIENTO,10,368.99,3689.9,Tarjeta crédito,Reembolsada,Lima,usuario32@gmail.com,Revisar stock
+225,10202,"September 24, 2024",Laura Martínez,Teclado mecánico Redragon,PERIFÉRICOS,1,160.41,160.41,Plin,Cancelada,Bogotá,usuario201@gmail.com,Producto dañado en tránsito
+226,10487,10-07-24,Javier Ruiz,Hub USB 3.0,Electrónica,0,74.2,0.0,Plin,Pendiente,Caracas,usuario486@hotmail.com,
+227,10338,2024-09-07,María Rodríguez,Impresora Epson L3210,periféricos,10,509.95,5099.5,Plin,Reembolsada,Ciudad de México,usuario337@hotmail.com,
+228,20027,12-21-24,Laura Martínez,Teclado mecánico Redragon,  Electrónica  ,1,569.8,569.8,Yape,Cancelada,Santiago,,
+229,10329,26.11.2024,Sofía Torres,Monitor Samsung 24,Periféricos,5,364.65,1823.25,Transferencia,Pendiente,Montevideo,usuario328@outlook.com,Pago pendiente de confirmar
+230,10026,2024-05-16,Carlos López,Disco SSD Kingston 240GB,  Electrónica  ,-2,779.76,-1559.52,Tarjeta crédito,Pendiente,Caracas,usuario25@hotmail.com,Entrega en punto de recogida
+231,10364,11-28-24,María Rodríguez,Tablet Samsung Tab A,  Almacenamiento  ,0,763.9,0.0,Transferencia,Pendiente,Santiago,usuario363@gmail.com,Pedido urgente
+232,10389,29.12.2024,Javier Ruiz,Monitor Samsung 24,ACCESORIOS,1,418.46,418.46,Yape,Cancelada,Quito,usuario388@outlook.com,Cliente solicitó cambio
+233,10245,03.11.2024,Diego Hernández,Mousepad RGB,Accesorios,0,692.55,0.0,Plin,Reembolsada,Ciudad de México,usuario244@empresa.pe,Pedido urgente
+234,10510,06/04/2024,Pedro Sánchez,Memoria RAM 8GB,ACCESORIOS,1,737.22,737.22,Transferencia,Pendiente,Bogotá,usuario509@empresa.pe,
+235,10005,15/12/2024,María Rodríguez,Impresora Epson L3210,ACCESORIOS,2,608.26,1216.52,Transferencia,Reembolsada,Ciudad de México,usuario4@hotmail.com,Pedido urgente
+236,10339,10-04-24,Javier Ruiz,Laptop HP 15,  Audio  ,1,412.98,412.98,Plin,Pendiente,Lima,usuario338@outlook.com,Entrega en punto de recogida
+237,10412,"April 12, 2024",Sofía Torres,Teclado mecánico Redragon,Almacenamiento,1,405.18,405.18,Tarjeta crédito,Reembolsada,Buenos Aires,usuario411@gmail.com,Sin observaciones
+238,10060,02-05-24,Sofía Torres,Webcam Logitech C920,audio,0,675.59,0.0,Efectivo,Cancelada,Ciudad de México,usuario59@empresa.pe,Revisar stock
+239,10321,"October 21, 2024",María Rodríguez,Parlantes JBL,periféricos,-2,867.37,-1734.74,Tarjeta débito,Reembolsada,Caracas,usuario320@empresa.pe,Revisar stock
+240,10377,04-29-24,Pedro Sánchez,Laptop HP 15,Electrónica,10,730.15,7301.5,Transferencia,Completada,Buenos Aires,usuario376@empresa.pe,Cliente solicitó cambio
+241,10008,"August 04, 2024",Carlos López,Disco SSD Kingston 240GB,Alm,1,570.47,570.47,Transferencia,Cancelada,Montevideo,usuario7@gmail.com,Envío estándar
+242,10124,"July 15, 2024",Sofía Torres,Monitor Samsung 24,accesorios,1,101.13,101.13,Yape,Cancelada,Buenos Aires,usuario123@empresa.pe,Revisar stock
+243,10410,"July 11, 2024",María Rodríguez,Cargador USB-C 65W,ELECTRÓNICA,1,91.91,91.91,Tarjeta débito,Cancelada,Caracas,usuario409@gmail.com,Sin observaciones
+244,10105,04/08/2024,Laura Martínez,Monitor Samsung 24,Periféricos,0,847.12,0.0,Efectivo,Pendiente,Medellín,usuario104@empresa.pe,
+245,10142,2024-12-20,Ana García,Mousepad RGB,  Electrónica  ,-1,654.88,3274.4,Tarjeta débito,Pendiente,Medellín,usuario141@outlook.com,Sin observaciones
+246,10119,"October 09, 2024",María Rodríguez,Parlantes JBL,  Accesorios  ,3,129.01,387.03,Yape,Completada,Bogotá,usuario118@outlook.com,-
+247,10082,"March 07, 2024",Ana García,Cable HDMI 2m,Aud,5,100.91,504.55,Tarjeta débito,Completada,Medellín,usuario81@empresa.pe,Pedido urgente
+248,10016,08.02.2024,Carlos López,Laptop HP 15,Audio,5,177.79,888.95,Efectivo,Pendiente,Santiago,usuario15@empresa.pe,Producto dañado en tránsito
+249,10069,2024-12-03,Carlos López,Cargador USB-C 65W,electrónica,2,614.98,1229.96,Transferencia,Completada,La Paz,usuario68@hotmail.com,
+250,10333,2024-03-03,Sofía Torres,Parlantes JBL,ALMACENAMIENTO,2,738.35,1476.7,Plin,Completada,Buenos Aires,usuario332@gmail.com,Entrega en punto de recogida
+251,10318,2024-10-21,Carlos López,Hub USB 3.0,PERIFÉRICOS,2,414.17,828.34,Yape,Reembolsada,Medellín,usuario317@hotmail.com,Pedido urgente
+252,10357,12-04-24,Diego Hernández,Tablet Samsung Tab A,Electrónica,-2,851.5,-1703.0,Tarjeta débito,Reembolsada,Buenos Aires,usuario356@gmail.com,Revisar stock
+253,10156,19.09.2024,Javier Ruiz,Mouse Logitech M185,almacenamiento,-2,333.26,-667.19,Tarjeta crédito,Cancelada,Quito,usuario155@hotmail.com,Pedido urgente
+254,10262,29.07.2024,Ana García,Mouse Logitech M185,periféricos,10,829.58,8295.8,Efectivo,Pendiente,Quito,usuario261@gmail.com,Entrega en punto de recogida
+255,10374,"December 04, 2024",María Rodríguez,Memoria RAM 8GB,audio,1,158.2,158.2,Efectivo,Completada,Ciudad de México,usuario373@empresa.pe,Producto dañado en tránsito
+256,10253,09-25-24,Sofía Torres,Cargador USB-C 65W,accesorios,2,418.76,837.52,Transferencia,Cancelada,Buenos Aires,usuario252@empresa.pe,
+257,10122,11-24-24,Javier Ruiz,Monitor Samsung 24,almacenamiento,10,801.81,8018.1,Transferencia,Completada,Lima,usuario121@empresa.pe,Entrega en punto de recogida
+258,10123,06-12-24,Sofía Torres,Teclado mecánico Redragon,Per,3,552.08,1656.24,Yape,Completada,Quito,usuario122@gmail.com,Entrega en punto de recogida
+259,10104,01-20-24,Javier Ruiz,Hub USB 3.0,  Accesorios  ,-2,312.06,-624.12,Transferencia,Completada,Bogotá,,Requiere factura
+260,10027,05-22-24,Sofía Torres,Mousepad RGB,audio,5,305.84,1529.2,Efectivo,Completada,Ciudad de México,usuario26@outlook.com,
+261,10315,09-18-24,Sofía Torres,Monitor Samsung 24,AUDIO,2,449.61,899.22,Efectivo,Reembolsada,Caracas,usuario314@gmail.com,Producto dañado en tránsito
+262,10193,2024-12-24,Sofía Torres,Mousepad RGB,Electrónica,1,366.06,366.06,Efectivo,Pendiente,Caracas,,Pago pendiente de confirmar
+263,10133,12-14-24,Javier Ruiz,Monitor Samsung 24,accesorios,0,328.86,0.0,Yape,Cancelada,Buenos Aires,usuario132@outlook.com,Entrega en punto de recogida
+264,10166,11.07.2024,María Rodríguez,Mousepad RGB,  Audio  ,10,217.29,2172.9,Efectivo,Cancelada,Buenos Aires,usuario165@gmail.com,Producto dañado en tránsito
+265,10212,12-17-24,Ana García,Monitor Samsung 24,PERIFÉRICOS,2,769.51,1539.02,Efectivo,Pendiente,Quito,usuario211@gmail.com,Sin observaciones
+266,10385,08/06/2024,Laura Martínez,Mousepad RGB,accesorios,1,475.95,475.95,Tarjeta crédito,Pendiente,Ciudad de México,usuario384@outlook.com,Envío estándar
+267,20004,05-01-24,Javier Ruiz,Tablet Samsung Tab A,PERIFÉRICOS,1,255.64,255.64,Yape,Cancelada,Santiago,N/A,Envío estándar
+268,10328,09-01-24,Ana García,Parlantes JBL,almacenamiento,0,22.86,0.0,Yape,Pendiente,Lima,usuario327@hotmail.com,Pago pendiente de confirmar
+269,10200,03-19-24,Carlos López,Audífonos Sony WH,Ele,1,582.05,582.05,Tarjeta crédito,Pendiente,Montevideo,usuario199@gmail.com,Producto dañado en tránsito
+270,10505,27.08.2024,Carlos López,Cargador USB-C 65W,almacenamiento,-2,587.96,-1175.92,Tarjeta crédito,Pendiente,Ciudad de México,usuario504@empresa.pe,Pedido urgente
+271,10030,2024-03-06,Sofía Torres,Mousepad RGB,ALMACENAMIENTO,3,371.42,1114.26,Yape,Cancelada,Medellín,usuario29@gmail.com,Entrega en punto de recogida
+272,10014,08.12.2024,Pedro Sánchez,Impresora Epson L3210,Acc,3,78.17,234.51,Yape,Reembolsada,Buenos Aires,usuario13@empresa.pe,Se entregó OK. Cliente satisfecho.
+273,10332,09.07.2024,Ana García,Webcam Logitech C920,ELECTRÓNICA,2,710.47,1420.94,Efectivo,Cancelada,Medellín,,Entrega en punto de recogida
+274,10351,2024-02-16,Sofía Torres,Audífonos Sony WH,ALMACENAMIENTO,10,681.38,6813.8,Tarjeta crédito,Cancelada,Bogotá,usuario350@gmail.com,Sin observaciones
+275,10031,13.06.2024,Javier Ruiz,Memoria RAM 8GB,Acc,5,710.5,3552.5,Transferencia,Pendiente,Bogotá,usuario30@outlook.com,
+276,10285,10-06-24,María Rodríguez,Audífonos Sony WH,Periféricos,2,136.13,272.26,Yape,Pendiente,Bogotá,,Producto dañado en tránsito
+277,10209,"April 28, 2024",Sofía Torres,Hub USB 3.0,  Periféricos  ,1,644.95,644.95,Plin,Completada,La Paz,NA,Producto dañado en tránsito
+278,10158,2024-06-29,María Rodríguez,Hub USB 3.0,  Audio  ,-2,669.66,-1339.32,Tarjeta crédito,Completada,Montevideo,,Pedido urgente
+279,10395,12-13-24,Sofía Torres,Hub USB 3.0,Periféricos,-2,791.57,-1583.14,Yape,Completada,La Paz,usuario394@empresa.pe,Sin observaciones
+280,10336,2024-02-15,María Rodríguez,Memoria RAM 8GB,Ele,10,624.39,6243.9,Tarjeta débito,Completada,Lima,usuario335@hotmail.com,Envío estándar
+281,10131,24/12/2024,Pedro Sánchez,Laptop HP 15,almacenamiento,-2,229.72,-459.44,Transferencia,Pendiente,Medellín,usuario130@empresa.pe,
+282,10472,13/07/2024,Sofía Torres,Webcam Logitech C920,  Periféricos  ,1,692.31,692.31,Tarjeta débito,Completada,Buenos Aires,usuario471@outlook.com,Envío estándar
+283,10386,"January 08, 2024",Carlos López,Monitor Samsung 24,audio,2,147.57,295.14,Yape,Cancelada,Ciudad de México,usuario385@outlook.com,Requiere factura
+284,10147,10.03.2024,Diego Hernández,Cargador USB-C 65W,  Almacenamiento  ,1,269.43,269.43,Transferencia,Reembolsada,Bogotá,usuario146@hotmail.com,Cliente solicitó cambio
+285,10440,02/02/2024,Pedro Sánchez,Tablet Samsung Tab A,audio,10,668.0,668668.0,Transferencia,Cancelada,Quito,usuario439@empresa.pe,
+286,10324,"August 30, 2024",Ana García,Laptop HP 15,Alm,1,100.02,100.02,Efectivo,Completada,Ciudad de México,usuario323@gmail.com,Producto dañado en tránsito
+287,10461,2024-05-24,Ana García,Hub USB 3.0,ELECTRÓNICA,0,207.43,0.0,Yape,Reembolsada,Quito,usuario460@hotmail.com,Envío estándar
+288,10059,19.03.2024,Laura Martínez,Impresora Epson L3210,  Periféricos  ,1,423.65,423.65,Transferencia,Reembolsada,Buenos Aires,usuario58@hotmail.com,
+289,10047,"March 02, 2024",María Rodríguez,Monitor Samsung 24,  Accesorios  ,2,122.22,244.44,Tarjeta débito,Cancelada,Bogotá,usuario46@outlook.com,Requiere factura
+290,10132,2024-02-01,Pedro Sánchez,Impresora Epson L3210,  Periféricos  ,10,787.5,7875.0,Yape,Reembolsada,Quito,usuario131@empresa.pe,Cliente solicitó cambio
+291,10196,21/04/2024,Carlos López,Teclado mecánico Redragon,Ele,5,560.41,2802.05,Plin,Reembolsada,Quito,usuario195@outlook.com,Entrega en punto de recogida
+292,10163,17.10.2024,Laura Martínez,Laptop HP 15,electrónica,2,202.5,405.0,Yape,Completada,Santiago,usuario162@outlook.com,
+293,10416,04-07-24,Sofía Torres,Cargador USB-C 65W,electrónica,0,50.29,0.0,Transferencia,Completada,Caracas,usuario415@hotmail.com,
+294,10509,04.11.2024,Laura Martínez,Cable HDMI 2m,audio,5,783.93,3919.65,Plin,Reembolsada,Ciudad de México,NA,
+295,10213,"August 19, 2024",Pedro Sánchez,Mouse Logitech M185,Almacenamiento,1,42.99,42.99,Tarjeta crédito,Completada,Lima,,Entrega en punto de recogida
+296,10313,10-20-24,María Rodríguez,Hub USB 3.0,  Accesorios  ,1,437.01,437.01,Plin,Pendiente,Buenos Aires,usuario312@outlook.com,Entrega en punto de recogida
+297,10224,2024-11-09,Carlos López,Cargador USB-C 65W,ALMACENAMIENTO,1,176.55,176.55,Tarjeta débito,Completada,Buenos Aires,usuario223@outlook.com,N/A
+298,10175,"November 27, 2024",Ana García,Cable HDMI 2m,almacenamiento,2,597.14,1194.28,Transferencia,Completada,Lima,NA,Pago pendiente de confirmar
+299,10012,"September 27, 2024",Sofía Torres,Monitor Samsung 24,AUDIO,10,852.98,8529.8,Plin,Cancelada,Medellín,usuario11@outlook.com,Pago pendiente de confirmar
+300,10252,12-21-24,Laura Martínez,Teclado mecánico Redragon,  Electrónica  ,1,569.8,569.8,Yape,Cancelada,Santiago,,
+301,10340,02.10.2024,Pedro Sánchez,Impresora Epson L3210,Alm,3,653.22,1959.66,Tarjeta crédito,Cancelada,Quito,usuario339@outlook.com,
+302,10384,19.01.2024,Sofía Torres,Hub USB 3.0,Audio,-2,893.55,-1787.1,Efectivo,Cancelada,Lima,usuario383@gmail.com,Pedido urgente
+303,10206,21/09/2024,Sofía Torres,Mouse Logitech M185,almacenamiento,-2,813.26,-1626.52,Tarjeta débito,Cancelada,Bogotá,usuario205@gmail.com,Sin observaciones
+304,10165,20.02.2024,Pedro Sánchez,Tablet Samsung Tab A,electrónica,0,674.85,0.0,Yape,Reembolsada,Quito,,Revisar stock
+305,10489,07-31-24,María Rodríguez,Disco SSD Kingston 240GB,Alm,3,722.68,2168.04,Tarjeta crédito,Completada,Lima,usuario488@hotmail.com,Revisar stock
+306,10327,06-06-24,Sofía Torres,Audífonos Sony WH,accesorios,0,216.39,0.0,Efectivo,Completada,Montevideo,usuario326@hotmail.com,Revisar stock
+307,10228,21/03/2024,Carlos López,Webcam Logitech C920,ACCESORIOS,-2,161.44,-322.88,Transferencia,Cancelada,Ciudad de México,usuario227@gmail.com,
+308,10297,04/05/2024,María Rodríguez,Cable HDMI 2m,AUDIO,1,587.99,587.99,Tarjeta crédito,Completada,La Paz,usuario296@hotmail.com,Requiere factura
+309,10126,06.07.2024,Diego Hernández,Laptop HP 15,Almacenamiento,1,396.65,396.65,Yape,Pendiente,Quito,usuario125@gmail.com,Revisar stock
+310,10106,03-14-24,Sofía Torres,Laptop HP 15,audio,10,543.31,543310.0,Tarjeta crédito,Reembolsada,Santiago,usuario105@gmail.com,Cliente solicitó cambio
+311,10141,2024-04-04,Javier Ruiz,Webcam Logitech C920,Accesorios,3,92.22,276.66,Tarjeta débito,Reembolsada,Buenos Aires,usuario140@outlook.com,Sin observaciones
+312,10316,"March 02, 2024",Javier Ruiz,Webcam Logitech C920,Electrónica,-2,701.78,-1403.56,Plin,Pendiente,Medellín,usuario315@outlook.com,Sin observaciones
+313,10093,02-07-24,Javier Ruiz,Memoria RAM 8GB,Electrónica,2,538.6,1077.2,Tarjeta débito,Cancelada,Bogotá,usuario92@gmail.com,Pago pendiente de confirmar
+314,10273,03-23-24,Laura Martínez,Teclado mecánico Redragon,electrónica,-2,65.57,-131.14,Tarjeta crédito,Completada,Quito,usuario272@gmail.com,Pago pendiente de confirmar
+315,10401,"June 08, 2024",Ana García,Cargador USB-C 65W,Per,-2,575.99,-1151.98,Efectivo,Reembolsada,Caracas,usuario400@empresa.pe,Cliente solicitó cambio
+316,10010,2024-11-07,María Rodríguez,Webcam Logitech C920,Acc,-2,279.47,-558.94,Yape,Completada,La Paz,usuario9@gmail.com,
+317,10258,17/03/2024,Carlos López,Hub USB 3.0,electrónica,1,754.25,754.25,Plin,Pendiente,Caracas,usuario257@outlook.com,Pedido urgente
+318,10362,2024-06-11,Ana García,Parlantes JBL,  Periféricos  ,0,854.53,0.0,Transferencia,Cancelada,Caracas,usuario361@outlook.com,NA
+319,10097,01.12.2024,María Rodríguez,Cable HDMI 2m,electrónica,-2,140.59,-281.18,Yape,Reembolsada,Quito,usuario96@gmail.com,Producto dañado en tránsito
+320,10396,28/01/2024,Diego Hernández,Mouse Logitech M185,Periféricos,1,342.07,342.07,Tarjeta crédito,Reembolsada,La Paz,usuario395@outlook.com,Producto dañado en tránsito
+321,10292,16.02.2024,Diego Hernández,Impresora Epson L3210,ELECTRÓNICA,2,133.92,267.84,Yape,Pendiente,Montevideo,usuario291@hotmail.com,NA
+322,10028,09.06.2024,Carlos López,Disco SSD Kingston 240GB,AUDIO,-1,399.87,-399.87,Tarjeta débito,Completada,Medellín,,Pago pendiente de confirmar
+323,10296,2024-04-05,Diego Hernández,Cable HDMI 2m,ELECTRÓNICA,0,584.65,0.0,Transferencia,Cancelada,Bogotá,usuario295@empresa.pe,
+324,10278,"July 31, 2024",Sofía Torres,Mouse Logitech M185,PERIFÉRICOS,0,75.8,0.0,Tarjeta crédito,Cancelada,Quito,usuario277@hotmail.com,
+325,10317,"August 29, 2024",Diego Hernández,Webcam Logitech C920,  Accesorios  ,1,500.7,500.7,Transferencia,Pendiente,Medellín,usuario316@outlook.com,Producto dañado en tránsito
+326,10466,25.11.2024,Diego Hernández,Memoria RAM 8GB,  Audio  ,-1,540.58,-540.58,Transferencia,Cancelada,Santiago,usuario465@gmail.com,
+327,10044,"August 25, 2024",Sofía Torres,Webcam Logitech C920,  Electrónica  ,1,262.21,262.21,Tarjeta débito,Pendiente,Caracas,usuario43@outlook.com,
+328,10407,15/12/2024,Carlos López,Cargador USB-C 65W,audio,5,615.62,3078.1,Transferencia,Cancelada,Quito,usuario406@gmail.com,
+329,10507,03.04.2024,Ana García,Mouse Logitech M185,almacenamiento,1,670.48,670.48,Tarjeta débito,Reembolsada,Caracas,usuario506@outlook.com,Requiere factura
+330,10288,02-21-24,Carlos López,Cargador USB-C 65W,accesorios,3,128.91,386.73,Transferencia,Reembolsada,Quito,usuario287@outlook.com,Requiere factura
+331,10479,2024-05-26,Laura Martínez,Mousepad RGB,AUDIO,-2,195.55,-391.1,Transferencia,Pendiente,Bogotá,usuario478@gmail.com,Sin observaciones
+332,10323,08-15-24,Javier Ruiz,Disco SSD Kingston 240GB,ACCESORIOS,2,550.96,1101.92,Efectivo,Pendiente,Buenos Aires,usuario322@gmail.com,Producto dañado en tránsito
+333,10439,16.03.2024,María Rodríguez,Tablet Samsung Tab A,Acc,1,161.23,161.23,Plin,Completada,Ciudad de México,usuario438@hotmail.com,Producto dañado en tránsito
+334,10013,22/06/2024,Pedro Sánchez,Cable HDMI 2m,Accesorios,10,122.53,1225.3,Efectivo,Completada,Buenos Aires,,
+335,10085,13/03/2024,Carlos López,Hub USB 3.0,AUDIO,1,516.41,516.41,Transferencia,Reembolsada,Caracas,usuario84@outlook.com,Cliente solicitó cambio
+336,10350,20.11.2024,Ana García,Audífonos Sony WH,Audio,-2,766.85,-1533.7,Tarjeta débito,Pendiente,Quito,usuario349@hotmail.com,null
+337,10331,05-24-24,María Rodríguez,Hub USB 3.0,Almacenamiento,1,873.2,43660.0,Tarjeta crédito,Completada,Santiago,,Producto dañado en tránsito
+338,10143,09.03.2024,María Rodríguez,Memoria RAM 8GB,audio,3,559.13,1677.39,Transferencia,Reembolsada,Montevideo,usuario142@hotmail.com,
+339,10227,28.03.2024,María Rodríguez,Hub USB 3.0,Ele,2,857.24,1714.48,Efectivo,Cancelada,La Paz,usuario226@empresa.pe,Producto dañado en tránsito
+340,20028,10-12-24,María Rodríguez,Tablet Samsung Tab A,Aud,3,696.0,2088.0,Plin,Completada,Lima,usuario517@empresa.pe,Envío estándar
+341,10277,03-19-24,Ana García,Parlantes JBL,audio,10,643.21,6432.1,Transferencia,Cancelada,Bogotá,usuario276@outlook.com,Requiere factura
+342,10500,17/06/2024,Laura Martínez,Mousepad RGB,  Electrónica  ,2,695.01,1390.02,Tarjeta débito,Completada,Quito,usuario499@gmail.com,Revisar stock
+343,10438,"August 19, 2024",Diego Hernández,Parlantes JBL,ELECTRÓNICA,-2,745.54,-1491.08,Transferencia,Completada,Bogotá,usuario437@hotmail.com,Envío estándar
+344,10486,25.11.2024,Ana García,Audífonos Sony WH,  Electrónica  ,10,573.93,5739.3,Transferencia,Reembolsada,Quito,usuario485@gmail.com,Sin observaciones
+345,10199,"January 09, 2024",Carlos López,Laptop HP 15,PERIFÉRICOS,10,859.7,8597.0,Efectivo,Completada,Medellín,usuario198@empresa.pe,Producto dañado en tránsito
+346,10403,"March 05, 2024",Carlos López,Tablet Samsung Tab A,periféricos,-1,39.64,-39.64,Tarjeta crédito,Cancelada,Ciudad de México,usuario402@gmail.com,
+347,20043,02/03/2024,Javier Ruiz,Hub USB 3.0,ALMACENAMIENTO,1,691.39,691.39,Tarjeta crédito,Reembolsada,Montevideo,usuario87@outlook.com,
+348,10490,26.01.2024,Sofía Torres,Cable HDMI 2m,PERIFÉRICOS,2,247.04,494.08,Efectivo,Cancelada,Santiago,usuario489@gmail.com,
+349,20010,03-23-24,Laura Martínez,Teclado mecánico Redragon,electrónica,-2,65.57,-131.14,Tarjeta crédito,Completada,Quito,usuario272@gmail.com,Pago pendiente de confirmar
+350,10046,05-04-24,Diego Hernández,Memoria RAM 8GB,Aud,1,275.75,275.75,Tarjeta débito,Reembolsada,Montevideo,usuario45@empresa.pe,Sin observaciones
+351,10167,03/07/2024,Carlos López,Laptop HP 15,  Periféricos  ,-2,151.96,-303.92,Tarjeta débito,Cancelada,Bogotá,correo_invalido,Se entregó OK. Cliente satisfecho.
+352,10077,2024-01-14,Ana García,Webcam Logitech C920,Acc,2,721.78,1443.56,Tarjeta débito,Completada,Santiago,usuario76@hotmail.com,Pago pendiente de confirmar
+353,10506,"February 25, 2024",Sofía Torres,Disco SSD Kingston 240GB,  Electrónica  ,0,83.19,0.0,Plin,Cancelada,Quito,usuario505@gmail.com,Pedido urgente
+354,10508,11-05-24,Carlos López,Disco SSD Kingston 240GB,Audio,2,179.21,358.42,Efectivo,Reembolsada,Bogotá,,Revisar stock
+355,10231,04-25-24,Ana García,Teclado mecánico Redragon,Electrónica,1,248.38,248.38,Plin,Cancelada,Montevideo,usuario230@hotmail.com,Producto dañado en tránsito
+356,10236,"October 19, 2024",Javier Ruiz,Laptop HP 15,accesorios,5,249.13,1245.65,Transferencia,Pendiente,La Paz,usuario235@empresa.pe,
+357,10434,08.07.2024,Ana García,Tablet Samsung Tab A,  Electrónica  ,1,788.72,788.72,Plin,Cancelada,Montevideo,,Sin observaciones
+358,10424,06-03-24,Sofía Torres,Laptop HP 15,AUDIO,-1,856.03,-856.03,Tarjeta crédito,Completada,Montevideo,usuario423@outlook.com,Pago pendiente de confirmar
+359,10071,25.04.2024,Diego Hernández,Mouse Logitech M185,Almacenamiento,1,429.73,429.73,Tarjeta débito,Completada,Caracas,usuario70@outlook.com,Cliente solicitó cambio
+360,10068,20/05/2024,Ana García,Cargador USB-C 65W,  Audio  ,1,880.48,880.48,Tarjeta débito,Pendiente,La Paz,usuario67@hotmail.com,
+361,10311,22.06.2024,Javier Ruiz,Cargador USB-C 65W,Audio,-1,443.27,-443.27,Transferencia,Completada,Ciudad de México,,Entrega en punto de recogida
+362,10450,10.10.2024,Ana García,Tablet Samsung Tab A,Per,2,180.02,360.04,Tarjeta débito,Reembolsada,Montevideo,usuario449@hotmail.com,
+363,10474,20/10/2024,Javier Ruiz,Mouse Logitech M185,accesorios,3,349.61,1048.83,Transferencia,Cancelada,Santiago,usuario473@outlook.com,Entrega en punto de recogida
+364,10173,2024-08-24,Javier Ruiz,Parlantes JBL,Periféricos,1,618.47,618.47,Transferencia,Reembolsada,Santiago,usuario172@hotmail.com,Requiere factura
+365,10232,"August 31, 2024",Pedro Sánchez,Memoria RAM 8GB,Periféricos,0,385.78,0.0,Transferencia,Completada,Montevideo,usuario231@hotmail.com,
+366,10495,2024-10-24,Laura Martínez,Teclado mecánico Redragon,  Audio  ,1,871.74,871.74,Tarjeta débito,Reembolsada,Santiago,nan,Requiere factura
+367,10159,28/04/2024,María Rodríguez,Laptop HP 15,Acc,1,380.26,380.26,Transferencia,Cancelada,Lima,usuario158@empresa.pe,Pedido urgente
+368,10478,16/10/2024,Pedro Sánchez,Webcam Logitech C920,ALMACENAMIENTO,-1,769.77,-769.77,Tarjeta crédito,Pendiente,Ciudad de México,usuario477@empresa.pe,Envío estándar
+369,10247,"May 12, 2024",María Rodríguez,Mousepad RGB,Periféricos,1,275.35,275.35,Tarjeta crédito,Cancelada,Buenos Aires,usuario246@outlook.com,Cliente solicitó cambio
+370,10428,26.10.2024,Ana García,Cargador USB-C 65W,ALMACENAMIENTO,5,803.9,4019.5,Tarjeta crédito,Reembolsada,Santiago,usuario427@hotmail.com,Entrega en punto de recogida
+371,10023,21/05/2024,Ana García,Webcam Logitech C920,accesorios,1,97.14,97.14,Tarjeta crédito,Reembolsada,Montevideo,usuario22@gmail.com,
+372,10035,13/08/2024,Laura Martínez,Monitor Samsung 24,periféricos,0,444.12,0.0,Tarjeta débito,Completada,Santiago,usuario34@empresa.pe,Entrega en punto de recogida
+373,10179,2024-04-04,Sofía Torres,Disco SSD Kingston 240GB,Ele,10,220.57,2205.7,Tarjeta crédito,Reembolsada,La Paz,usuario178@gmail.com,Entrega en punto de recogida
+374,10281,"October 02, 2024",Ana García,Mousepad RGB,ELECTRÓNICA,1,163.56,163.56,Plin,Pendiente,Medellín,usuario280@hotmail.com,Producto dañado en tránsito
+375,10063,2024-12-01,Carlos López,Memoria RAM 8GB,periféricos,10,29.07,290.7,Yape,Reembolsada,Bogotá,usuario62@empresa.pe,Revisar stock
+376,10002,"November 28, 2024",Sofía Torres,Monitor Samsung 24,Alm,-1,38.97,-38.97,Tarjeta débito,Completada,Santiago,usuario1@outlook.com,Entrega en punto de recogida
+377,10430,"November 22, 2024",María Rodríguez,Cable HDMI 2m,AUDIO,2,799.52,1599.04,Efectivo,Reembolsada,Montevideo,usuario429@hotmail.com,Revisar stock
+378,10094,22.01.2024,Pedro Sánchez,Webcam Logitech C920,  Audio  ,5,424.76,2123.8,Yape,Pendiente,Lima,usuario93@outlook.com,Envío estándar
+379,10111,12.02.2024,Carlos López,Disco SSD Kingston 240GB,AUDIO,3,833.04,2499.12,Yape,Cancelada,Quito,-,Sin observaciones
+380,10483,04-19-24,Javier Ruiz,Disco SSD Kingston 240GB,Per,5,208.33,1041.65,Efectivo,Reembolsada,Montevideo,usuario482@gmail.com,Producto dañado en tránsito
+381,10392,"August 10, 2024",Diego Hernández,Impresora Epson L3210,ACCESORIOS,2,735.4,1470.8,Plin,Completada,La Paz,usuario391@gmail.com,Revisar stock
+382,10511,19.03.2024,Javier Ruiz,Memoria RAM 8GB,  Electrónica  ,5,34.8,174.0,Yape,Pendiente,Buenos Aires,usuario510@empresa.pe,
+383,10216,"November 10, 2024",Pedro Sánchez,Mousepad RGB,  Periféricos  ,2,409.99,819.98,Transferencia,Reembolsada,Lima,null,
+384,10442,2024-12-28,María Rodríguez,Monitor Samsung 24,Electrónica,0,267.8,0.0,Tarjeta débito,Pendiente,Caracas,usuario441@hotmail.com,Pedido urgente
+385,10073,09/09/2024,Carlos López,Monitor Samsung 24,AUDIO,1,55.61,55.61,Transferencia,Reembolsada,Quito,usuario72@empresa.pe,Requiere factura
+386,10457,2024-06-24,Laura Martínez,Laptop HP 15,ELECTRÓNICA,10,802.45,8024.5,Tarjeta crédito,Pendiente,Buenos Aires,usuario456@hotmail.com,
+387,10015,29.07.2024,Ana García,Mousepad RGB,Electrónica,1,598.36,598.36,Transferencia,Cancelada,Bogotá,usuario14@hotmail.com,Requiere factura
+388,10427,15.06.2024,Pedro Sánchez,Hub USB 3.0,PERIFÉRICOS,2,653.57,1307.14,Efectivo,Cancelada,Buenos Aires,nan,Entrega en punto de recogida
+389,10151,"December 04, 2024",Pedro Sánchez,Disco SSD Kingston 240GB,periféricos,2,282.41,564.82,Efectivo,Pendiente,Medellín,usuario150@gmail.com,Producto dañado en tránsito
+390,10156,19.09.2024,Javier Ruiz,Mouse Logitech M185,almacenamiento,-2,333.26,-666.52,Tarjeta crédito,Cancelada,Quito,usuario155@hotmail.com,Pedido urgente
+391,10192,11-28-24,María Rodríguez,Tablet Samsung Tab A,Periféricos,2,896.18,1792.36,Plin,Cancelada,Ciudad de México,nan,Requiere factura
+392,10157,08-01-24,María Rodríguez,Monitor Samsung 24,PERIFÉRICOS,2,504.9,1009.8,Transferencia,Pendiente,Caracas,usuario156@outlook.com,Revisar stock
+393,10191,09-05-24,Ana García,Laptop HP 15,  Electrónica  ,0,526.68,0.0,Efectivo,Completada,Santiago,usuario190@gmail.com,Producto dañado en tránsito
+394,10405,10.09.2024,Sofía Torres,Monitor Samsung 24,ALMACENAMIENTO,1,542.25,542.25,Tarjeta crédito,Cancelada,Lima,usuario404@gmail.com,
+395,10079,25.02.2024,Javier Ruiz,Mouse Logitech M185,electrónica,10,764.93,7649.3,Yape,Pendiente,Bogotá,correo_invalido,
+396,10268,22/06/2024,Sofía Torres,Laptop HP 15,Audio,10,744.81,7448.1,Transferencia,Reembolsada,La Paz,usuario267@hotmail.com,Pedido urgente
+397,10021,07-08-24,María Rodríguez,Memoria RAM 8GB,audio,3,794.62,2383.86,Yape,Completada,Montevideo,usuario20@gmail.com,Requiere factura
+398,10149,27/02/2024,Sofía Torres,Cable HDMI 2m,ELECTRÓNICA,10,321.67,3216.7,Tarjeta crédito,Completada,Bogotá,usuario148@empresa.pe,Pedido urgente
+399,10293,2024-09-06,Carlos López,Audífonos Sony WH,PERIFÉRICOS,10,846.19,8461.9,Efectivo,Pendiente,Montevideo,usuario292@outlook.com,Revisar stock
+400,10406,2024-09-29,Sofía Torres,Mousepad RGB,  Almacenamiento  ,10,368.19,3681.9,Tarjeta débito,Pendiente,Montevideo,usuario405@gmail.com,Revisar stock
+401,10516,2024-04-12,Javier Ruiz,Mouse Logitech M185,  Almacenamiento  ,1,605.5,605.5,Tarjeta débito,Pendiente,Buenos Aires,usuario515@gmail.com,Sin observaciones
+402,10057,"July 25, 2024",Ana García,Mousepad RGB,  Audio  ,2,301.43,602.86,Transferencia,Completada,Buenos Aires,usuario56@empresa.pe,Pedido urgente
+403,10210,2024-12-05,Pedro Sánchez,Audífonos Sony WH,periféricos,1,539.03,539.03,Transferencia,Cancelada,Quito,usuario209@hotmail.com,
+404,10424,06-03-24,Sofía Torres,Laptop HP 15,AUDIO,-1,856.03,-856.89,Tarjeta crédito,Completada,Montevideo,usuario423@outlook.com,Pago pendiente de confirmar
+405,20029,18.07.2024,Carlos López,Cable HDMI 2m,Alm,10,396.43,3964.3,Plin,Reembolsada,Caracas,usuario469@hotmail.com,Producto dañado en tránsito
+406,10446,2024-05-22,Ana García,Mouse Logitech M185,  Audio  ,-1,481.13,-481.13,Plin,Completada,Montevideo,usuario445@empresa.pe,
+407,10441,2024-05-13,Javier Ruiz,Webcam Logitech C920,Periféricos,1,810.02,810.02,Tarjeta crédito,Cancelada,Ciudad de México,usuario440@hotmail.com,Requiere factura
+408,10081,31/07/2024,Diego Hernández,Disco SSD Kingston 240GB,periféricos,5,315.28,1576.4,Tarjeta débito,Pendiente,Caracas,,Envío estándar
+409,10383,2024-09-13,Pedro Sánchez,Webcam Logitech C920,Alm,10,463.05,4630.5,Tarjeta débito,Cancelada,Santiago,usuario382@gmail.com,Pago pendiente de confirmar
+410,10017,15.05.2024,Laura Martínez,Disco SSD Kingston 240GB,  Audio  ,1,161.12,0.16,Tarjeta crédito,Pendiente,Ciudad de México,usuario16@gmail.com,Pago pendiente de confirmar
+411,10243,08-23-24,Pedro Sánchez,Memoria RAM 8GB,Per,5,807.55,4037.75,Yape,Reembolsada,La Paz,undefined,Cliente solicitó cambio
+412,10234,04/02/2024,Sofía Torres,Impresora Epson L3210,Alm,3,821.1,2463.3,Tarjeta débito,Cancelada,Montevideo,usuario233@gmail.com,
+413,10109,22/08/2024,Laura Martínez,Monitor Samsung 24,ELECTRÓNICA,-2,176.72,-353.44,Efectivo,Cancelada,Ciudad de México,usuario108@empresa.pe,Entrega en punto de recogida
+414,10356,13/03/2024,Sofía Torres,Cable HDMI 2m,Audio,2,500.91,1001.82,Tarjeta débito,Pendiente,Lima,usuario355@outlook.com,
+415,10061,05.10.2024,Javier Ruiz,Cargador USB-C 65W,PERIFÉRICOS,0,443.9,0.0,Plin,Pendiente,La Paz,usuario60@empresa.pe,
+416,10271,2024-11-19,Pedro Sánchez,Monitor Samsung 24,audio,3,645.15,1935.45,Plin,Cancelada,Santiago,usuario270@hotmail.com,Cliente solicitó cambio
+417,10263,2024-07-16,Ana García,Laptop HP 15,Acc,10,321.31,3213.1,Transferencia,Reembolsada,Santiago,,Entrega en punto de recogida
+418,10361,2024-12-16,María Rodríguez,Audífonos Sony WH,AUDIO,2,592.61,1185.22,Transferencia,Pendiente,La Paz,usuario360@outlook.com,
+419,10451,23.11.2024,Carlos López,Mousepad RGB,  Periféricos  ,1,151.73,151.73,Tarjeta crédito,Reembolsada,Buenos Aires,,Revisar stock
+420,10235,2024-07-31,María Rodríguez,Cable HDMI 2m,Aud,-1,477.7,-477.7,Efectivo,Completada,La Paz,usuario234@outlook.com,Cliente solicitó cambio
+421,10459,23/01/2024,Laura Martínez,Mousepad RGB,Electrónica,1,430.4,430.4,Efectivo,Pendiente,La Paz,usuario458@hotmail.com,Pedido urgente
+422,10249,2024-03-18,Pedro Sánchez,Webcam Logitech C920,Alm,0,279.39,0.0,Transferencia,Pendiente,Quito,usuario248@hotmail.com,Revisar stock
+423,10066,08-24-24,Javier Ruiz,Audífonos Sony WH,  Electrónica  ,10,822.89,8228.9,Tarjeta débito,Pendiente,Bogotá,usuario65@outlook.com,Sin observaciones
+424,10259,05-28-24,Diego Hernández,Disco SSD Kingston 240GB,Electrónica,1,734.75,734.75,Efectivo,Completada,Santiago,usuario258@hotmail.com,Revisar stock
+425,10074,11.11.2024,Laura Martínez,Laptop HP 15,PERIFÉRICOS,5,594.77,2973.85,Transferencia,Reembolsada,Buenos Aires,usuario73@gmail.com,Cliente solicitó cambio
+426,10084,"November 10, 2024",Ana García,Cable HDMI 2m,Periféricos,0,877.48,0.0,Tarjeta crédito,Cancelada,Ciudad de México,usuario83@outlook.com,
+427,10465,2024-02-22,Carlos López,Webcam Logitech C920,accesorios,5,369.85,1849.25,Tarjeta crédito,Reembolsada,Bogotá,usuario464@empresa.pe,Sin observaciones
+428,10214,17/12/2024,Laura Martínez,Cargador USB-C 65W,Electrónica,1,190.75,190.75,Efectivo,Pendiente,Caracas,usuario213@gmail.com,Cliente solicitó cambio
+429,10375,03-03-24,Diego Hernández,Impresora Epson L3210,Alm,0,72.93,0.0,Tarjeta crédito,Pendiente,La Paz,,Pago pendiente de confirmar
+430,10251,01.09.2024,Ana García,Laptop HP 15,AUDIO,5,575.81,2879.05,Plin,Cancelada,Lima,usuario250@hotmail.com,
+431,10353,15/02/2024,Sofía Torres,Disco SSD Kingston 240GB,periféricos,5,301.55,1507.75,Tarjeta crédito,Cancelada,Quito,usuario352@gmail.com,Requiere factura
+432,10226,07-12-24,Sofía Torres,Mouse Logitech M185,Alm,1,797.88,797.88,Plin,Pendiente,Santiago,usuario225@gmail.com,Cliente solicitó cambio
+433,10217,"May 07, 2024",Ana García,Disco SSD Kingston 240GB,  Periféricos  ,2,583.92,1167.84,Yape,Reembolsada,Quito,usuario216@outlook.com,Requiere factura
+434,10326,"December 23, 2024",María Rodríguez,Cable HDMI 2m,  Audio  ,2,500.68,1001.36,Plin,Reembolsada,Montevideo,usuario325@outlook.com,Revisar stock
+435,10256,"February 23, 2024",Carlos López,Audífonos Sony WH,Electrónica,-1,551.18,-551.18,Transferencia,Pendiente,La Paz,usuario255@outlook.com,Entrega en punto de recogida
+436,10300,2024-08-02,Carlos López,Teclado mecánico Redragon,Alm,0,775.8,0.0,Yape,Completada,Montevideo,usuario299@gmail.com,
+437,10136,2024-11-22,Ana García,Mouse Logitech M185,almacenamiento,1,607.96,607.96,Plin,Reembolsada,Bogotá,usuario135@hotmail.com,
+438,20010,28.02.2024,Pedro Sánchez,Mouse Logitech M185,  Accesorios  ,-1,72.07,-72.07,Tarjeta débito,Reembolsada,Quito,correo_invalido,Pago pendiente de confirmar
+439,10464,08-31-24,María Rodríguez,Laptop HP 15,Almacenamiento,2,773.31,1546.62,Transferencia,Reembolsada,Montevideo,usuario463@gmail.com,
+440,10514,17.08.2024,Ana García,Teclado mecánico Redragon,PERIFÉRICOS,10,566.27,5662.7,Transferencia,Cancelada,Caracas,usuario513@hotmail.com,Cliente solicitó cambio
+441,10287,"January 28, 2024",Javier Ruiz,Mousepad RGB,Audio,1,608.97,608.97,Tarjeta débito,Completada,Ciudad de México,nan,Cliente solicitó cambio
+442,10302,29/04/2024,Laura Martínez,Cable HDMI 2m,  Audio  ,1,391.84,391.84,Tarjeta débito,Pendiente,Lima,usuario301@gmail.com,Envío estándar
+443,10207,04.05.2024,Diego Hernández,Cable HDMI 2m,ALMACENAMIENTO,-1,709.39,-709.39,Plin,Pendiente,Santiago,,Entrega en punto de recogida
+444,10270,2024-11-07,Laura Martínez,Disco SSD Kingston 240GB,periféricos,0,795.08,0.0,Transferencia,Pendiente,Santiago,usuario269@outlook.com,Pago pendiente de confirmar
+445,10347,10/06/2024,Laura Martínez,Cargador USB-C 65W,Aud,1,281.14,281.14,Yape,Pendiente,Bogotá,,Requiere factura
+446,10190,12-06-24,Carlos López,Parlantes JBL,  Audio  ,1,662.0,662.0,Tarjeta crédito,Reembolsada,Buenos Aires,usuario189@outlook.com,Cliente solicitó cambio
+447,10040,2024-05-02,Javier Ruiz,Mousepad RGB,Ele,2,757.79,1515.58,Tarjeta crédito,Reembolsada,Ciudad de México,usuario39@hotmail.com,Envío estándar
+448,10229,01-28-24,Ana García,Disco SSD Kingston 240GB,electrónica,-1,501.67,-501.67,Plin,Reembolsada,Buenos Aires,NA,-
+449,10110,12-01-24,Laura Martínez,Mouse Logitech M185,  Periféricos  ,2,331.24,662.48,Transferencia,Reembolsada,Medellín,usuario109@hotmail.com,Revisar stock
+450,10244,01/06/2024,Javier Ruiz,Mouse Logitech M185,periféricos,0,588.07,0.0,Plin,Cancelada,Ciudad de México,usuario243@outlook.com,Se entregó OK. Cliente satisfecho.
+451,10067,08-21-24,Pedro Sánchez,Disco SSD Kingston 240GB,Almacenamiento,-2,866.41,-1732.82,Tarjeta crédito,Reembolsada,La Paz,usuario66@outlook.com,Sin observaciones
+452,10493,06.01.2024,María Rodríguez,Tablet Samsung Tab A,  Periféricos  ,-1,620.73,-620.73,Plin,Pendiente,Medellín,usuario492@outlook.com,
+453,10032,2024-04-11,Ana García,Laptop HP 15,  Accesorios  ,2,610.58,1221.16,Yape,Completada,Caracas,usuario31@hotmail.com,Producto dañado en tránsito
+454,10048,20/05/2024,Ana García,Impresora Epson L3210,PERIFÉRICOS,2,28.01,56.02,Plin,Reembolsada,Bogotá,usuario47@outlook.com,Revisar stock
+455,10042,01-22-24,Sofía Torres,Mousepad RGB,Periféricos,1,719.76,719.76,Yape,Cancelada,Lima,usuario41@empresa.pe,
+456,10211,2024-02-25,Carlos López,Teclado mecánico Redragon,  Almacenamiento  ,2,135.89,271.78,Tarjeta débito,Reembolsada,Bogotá,usuario210@hotmail.com,Revisar stock
+457,10425,2024-12-03,Laura Martínez,Laptop HP 15,Accesorios,0,209.45,0.0,Tarjeta crédito,Reembolsada,Caracas,usuario424@gmail.com,
+458,10218,23/05/2024,Javier Ruiz,Impresora Epson L3210,Per,1,297.54,297.54,Tarjeta crédito,Pendiente,Bogotá,usuario217@hotmail.com,Pedido urgente
+459,10365,2024-12-09,Pedro Sánchez,Mouse Logitech M185,  Accesorios  ,2,855.94,1711.88,Yape,Reembolsada,Quito,usuario364@hotmail.com,Pedido urgente
+460,10076,2024-10-10,Pedro Sánchez,Tablet Samsung Tab A,accesorios,1,711.57,711.57,Tarjeta crédito,Completada,Ciudad de México,usuario75@hotmail.com,Pago pendiente de confirmar
+461,10051,2024-04-16,Laura Martínez,Mousepad RGB,ELECTRÓNICA,1,554.71,554.71,Tarjeta crédito,Pendiente,Montevideo,,
+462,10501,02/12/2024,Diego Hernández,Laptop HP 15,  Audio  ,10,571.28,5712.8,Tarjeta débito,Pendiente,Buenos Aires,usuario500@outlook.com,Pedido urgente
+463,10185,2024-05-27,Javier Ruiz,Cable HDMI 2m,Alm,2,44.42,88.84,Yape,Completada,La Paz,undefined,Cliente solicitó cambio
+464,10399,05/11/2024,Javier Ruiz,Tablet Samsung Tab A,Acc,5,329.77,1648.85,Tarjeta débito,Reembolsada,Montevideo,usuario398@gmail.com,
+465,10422,"February 21, 2024",Sofía Torres,Parlantes JBL,Accesorios,2,834.25,1668.5,Transferencia,Completada,Lima,,
+466,10099,26/09/2024,Diego Hernández,Cargador USB-C 65W,AUDIO,0,697.33,0.0,Yape,Reembolsada,Santiago,usuario98@hotmail.com,Pedido urgente
+467,10299,03-26-24,Javier Ruiz,Cable HDMI 2m,Audio,1,566.72,566.72,Tarjeta crédito,Reembolsada,Medellín,correo_invalido,
+468,10350,20.11.2024,Ana García,Audífonos Sony WH,Audio,-2,766.85,-1535.23,Tarjeta débito,Pendiente,Quito,usuario349@hotmail.com,null
+469,10168,22/02/2024,Carlos López,Webcam Logitech C920,Audio,10,508.15,5081.5,Yape,Cancelada,Medellín,,Envío estándar
+470,10054,"February 11, 2024",Ana García,Cargador USB-C 65W,almacenamiento,2,458.16,916.32,Yape,Cancelada,Lima,nan,
+471,10512,09.08.2024,Javier Ruiz,Hub USB 3.0,Aud,1,106.3,106.3,Plin,Cancelada,Lima,usuario511@empresa.pe,
+472,10503,"June 07, 2024",María Rodríguez,Webcam Logitech C920,electrónica,1,279.56,279.56,Yape,Pendiente,Caracas,usuario502@empresa.pe,
+473,10267,2024-01-24,Javier Ruiz,Teclado mecánico Redragon,Almacenamiento,0,477.19,0.0,Tarjeta débito,Pendiente,Buenos Aires,correo_invalido,Entrega en punto de recogida
+474,10194,02.03.2024,María Rodríguez,Memoria RAM 8GB,ELECTRÓNICA,-2,409.16,4091.6,Transferencia,Completada,Bogotá,-,Requiere factura
+475,10494,30.04.2024,Diego Hernández,Cable HDMI 2m,Audio,0,67.47,0.0,Efectivo,Cancelada,Montevideo,usuario493@outlook.com,Cliente solicitó cambio
+476,10072,"November 13, 2024",Diego Hernández,Cargador USB-C 65W,AUDIO,1,612.39,612.39,Plin,Completada,Caracas,usuario71@outlook.com,Envío estándar
+477,10345,"September 30, 2024",Javier Ruiz,Cargador USB-C 65W,periféricos,5,461.9,2309.5,Yape,Cancelada,Quito,usuario344@empresa.pe,Cliente solicitó cambio
+478,10504,"July 07, 2024",María Rodríguez,Disco SSD Kingston 240GB,Almacenamiento,-1,389.7,-389.7,Efectivo,Cancelada,Caracas,usuario503@hotmail.com,Pago pendiente de confirmar
+479,10367,2024-01-26,Laura Martínez,Memoria RAM 8GB,almacenamiento,0,358.15,0.0,Tarjeta débito,Reembolsada,Santiago,usuario366@gmail.com,Requiere factura
+480,10418,"November 30, 2024",Javier Ruiz,Mousepad RGB,AUDIO,1,374.17,374.17,Plin,Pendiente,Bogotá,,
+481,10402,05-30-24,María Rodríguez,Laptop HP 15,audio,5,327.65,1638.25,Plin,Cancelada,Lima,usuario401@hotmail.com,Sin observaciones
+482,10342,2024-07-06,Carlos López,Laptop HP 15,  Accesorios  ,-1,635.81,-635.81,Efectivo,Reembolsada,Lima,usuario341@empresa.pe,Pedido urgente
+483,10146,"April 21, 2024",Carlos López,Laptop HP 15,almacenamiento,1,365.71,365.71,Plin,Completada,Montevideo,usuario145@gmail.com,Revisar stock
+484,10154,04/11/2024,Carlos López,Monitor Samsung 24,Aud,1,252.95,252.95,Tarjeta crédito,Reembolsada,Buenos Aires,usuario153@outlook.com,Pedido urgente
+485,10180,"February 02, 2024",Carlos López,Parlantes JBL,AUDIO,2,680.92,1361.84,Tarjeta débito,Cancelada,Buenos Aires,usuario179@outlook.com,Revisar stock
+486,10120,25/05/2024,Laura Martínez,Monitor Samsung 24,audio,2,321.55,643.1,Tarjeta crédito,Cancelada,La Paz,usuario119@hotmail.com,
+487,10305,27.04.2024,María Rodríguez,Mouse Logitech M185,Acc,1,771.74,771.74,Transferencia,Cancelada,Montevideo,usuario304@gmail.com,N/A
+488,10518,10-12-24,María Rodríguez,Tablet Samsung Tab A,Aud,3,696.0,2088.0,Plin,Completada,Lima,usuario517@empresa.pe,Envío estándar
+489,10274,"May 01, 2024",Laura Martínez,Hub USB 3.0,  Electrónica  ,2,672.16,1344.32,Transferencia,Reembolsada,Quito,usuario273@gmail.com,
+490,10341,2024-03-07,Ana García,Monitor Samsung 24,  Electrónica  ,0,598.28,0.0,Tarjeta crédito,Completada,Lima,usuario340@empresa.pe,Pago pendiente de confirmar
+491,10322,11-23-24,Sofía Torres,Mousepad RGB,Aud,-2,861.6,-1723.2,Transferencia,Completada,Bogotá,usuario321@hotmail.com,Sin observaciones
+492,10481,02-12-24,Laura Martínez,Tablet Samsung Tab A,  Electrónica  ,10,707.38,7073.8,Tarjeta débito,Completada,Medellín,usuario480@hotmail.com,
+493,10458,27/02/2024,Ana García,Parlantes JBL,  Almacenamiento  ,1,391.24,391.24,Efectivo,Pendiente,Bogotá,,
+494,10366,09.06.2024,Ana García,Impresora Epson L3210,  Electrónica  ,-1,665.89,-665.89,Transferencia,Completada,Buenos Aires,usuario365@empresa.pe,Pedido urgente
+495,10290,05.06.2024,Carlos López,Teclado mecánico Redragon,Audio,10,424.88,4248.8,Tarjeta débito,Pendiente,Montevideo,usuario289@gmail.com,Pedido urgente
+496,10298,15/10/2024,Laura Martínez,Mouse Logitech M185,  Accesorios  ,0,863.05,0.0,Yape,Reembolsada,Caracas,usuario297@empresa.pe,
+497,10515,2024-08-27,Laura Martínez,Hub USB 3.0,  Almacenamiento  ,-1,770.37,-770.37,Plin,Cancelada,Caracas,usuario514@hotmail.com,Sin observaciones
+498,10413,08.05.2024,Ana García,Cargador USB-C 65W,ALMACENAMIENTO,1,46.33,46.33,Plin,Completada,Lima,usuario412@outlook.com,-
+499,10121,11-05-24,Ana García,Tablet Samsung Tab A,Electrónica,1,166.93,166.93,Efectivo,Cancelada,Buenos Aires,usuario120@empresa.pe,Pedido urgente
+500,10174,02.11.2024,Sofía Torres,Impresora Epson L3210,  Audio  ,5,713.43,3567.15,Yape,Completada,Quito,usuario173@gmail.com,
+501,10233,2024-04-18,María Rodríguez,Laptop HP 15,Almacenamiento,10,168.41,1684.1,Plin,Reembolsada,Buenos Aires,usuario232@hotmail.com,Sin observaciones
+502,10003,07-02-24,Laura Martínez,Parlantes JBL,  Electrónica  ,3,105.9,317.7,Yape,Completada,Medellín,,
+503,10378,2024-01-06,Laura Martínez,Audífonos Sony WH,electrónica,3,511.18,1533.54,Tarjeta débito,Cancelada,Lima,-,
+504,10294,"February 22, 2024",Laura Martínez,Tablet Samsung Tab A,Per,1,50.8,50.8,Yape,Pendiente,Medellín,usuario293@outlook.com,Envío estándar
+505,10153,2024-09-28,Sofía Torres,Monitor Samsung 24,PERIFÉRICOS,0,380.51,0.0,Tarjeta débito,Completada,Caracas,usuario152@gmail.com,Entrega en punto de recogida
+506,10230,22.07.2024,Javier Ruiz,Cargador USB-C 65W,Periféricos,1,434.37,434.37,Plin,Reembolsada,Santiago,usuario229@empresa.pe,Revisar stock
+507,10064,11-19-24,Pedro Sánchez,Hub USB 3.0,  Electrónica  ,0,47.25,0.0,Efectivo,Completada,Caracas,usuario63@outlook.com,Pedido urgente
+508,10482,"October 24, 2024",Laura Martínez,Memoria RAM 8GB,ELECTRÓNICA,0,840.67,0.0,Yape,Completada,Quito,usuario481@empresa.pe,Entrega en punto de recogida
+509,10334,2024-06-14,Ana García,Hub USB 3.0,Aud,10,359.68,3596.8,Efectivo,Cancelada,Caracas,usuario333@hotmail.com,Pedido urgente
+510,10388,19.12.2024,Diego Hernández,Audífonos Sony WH,PERIFÉRICOS,-1,803.82,-803.82,Plin,Completada,Caracas,usuario387@gmail.com,Revisar stock
+511,10025,"July 27, 2024",María Rodríguez,Cargador USB-C 65W,ACCESORIOS,3,705.51,2116.53,Tarjeta crédito,Reembolsada,Lima,usuario24@outlook.com,Producto dañado en tránsito
+512,10127,"December 14, 2024",Carlos López,Teclado mecánico Redragon,  Electrónica  ,0,262.91,0.0,Tarjeta débito,Cancelada,Montevideo,usuario126@hotmail.com,Se entregó OK. Cliente satisfecho.
+513,10363,"November 06, 2024",Pedro Sánchez,Cable HDMI 2m,ACCESORIOS,1,131.85,-659.25,Plin,Completada,Quito,,Requiere factura
+514,10266,"June 18, 2024",Javier Ruiz,Hub USB 3.0,  Periféricos  ,1,737.76,737.76,Efectivo,Completada,Buenos Aires,,Sin observaciones
+515,10382,05-01-24,Javier Ruiz,Tablet Samsung Tab A,PERIFÉRICOS,1,255.64,255.64,Yape,Cancelada,Santiago,N/A,Envío estándar
+516,10062,2024-07-16,Javier Ruiz,Laptop HP 15,Acc,10,639.27,6392.7,Yape,Cancelada,Bogotá,usuario61@empresa.pe,
+517,10114,07-08-24,Javier Ruiz,Parlantes JBL,Ele,1,550.7,550.7,Tarjeta crédito,Cancelada,Medellín,usuario113@outlook.com,Envío estándar
+518,10433,27/11/2024,Ana García,Memoria RAM 8GB,PERIFÉRICOS,2,132.88,265.76,Plin,Reembolsada,La Paz,usuario432@gmail.com,Revisar stock
+519,10312,07-30-24,Ana García,Hub USB 3.0,PERIFÉRICOS,-2,635.68,-1271.36,Tarjeta débito,Completada,Medellín,usuario311@outlook.com,
+520,10248,01.03.2024,Ana García,Tablet Samsung Tab A,Aud,3,245.96,737.88,Yape,Completada,Caracas,usuario247@gmail.com,Producto dañado en tránsito
+521,10265,30/07/2024,Ana García,Tablet Samsung Tab A,Ele,10,674.66,6.75,Yape,Cancelada,Montevideo,usuario264@empresa.pe,Cliente solicitó cambio
+522,10029,2024-12-09,Diego Hernández,Disco SSD Kingston 240GB,electrónica,-2,651.83,-1303.66,Yape,Cancelada,Bogotá,usuario28@outlook.com,Producto dañado en tránsito
+523,10024,"October 25, 2024",María Rodríguez,Disco SSD Kingston 240GB,Accesorios,1,498.07,498.07,Tarjeta débito,Cancelada,Lima,usuario23@hotmail.com,Envío estándar
+524,10164,30.12.2024,Carlos López,Audífonos Sony WH,Acc,2,534.73,1069.46,Tarjeta crédito,Reembolsada,Montevideo,usuario163@hotmail.com,Envío estándar
+525,10349,22.10.2024,Carlos López,Parlantes JBL,electrónica,-1,583.57,-583.57,Tarjeta débito,Reembolsada,Medellín,usuario348@gmail.com,Entrega en punto de recogida
+526,10320,08-18-24,Laura Martínez,Webcam Logitech C920,Per,2,436.99,873.98,Yape,Cancelada,Quito,,
+527,10176,08-16-24,Sofía Torres,Memoria RAM 8GB,Aud,0,528.96,0.0,Tarjeta crédito,Cancelada,Lima,usuario175@outlook.com,Envío estándar
+528,10096,11-27-24,Carlos López,Webcam Logitech C920,Ele,-2,544.32,-1088.64,Plin,Reembolsada,Ciudad de México,usuario95@hotmail.com,
+529,10219,07-17-24,María Rodríguez,Teclado mecánico Redragon,Acc,2,524.69,1049.38,Tarjeta débito,Cancelada,La Paz,,
+530,10291,23.10.2024,Pedro Sánchez,Cargador USB-C 65W,Ele,0,574.17,0.0,Tarjeta débito,Reembolsada,Santiago,usuario290@hotmail.com,
+531,10130,18/12/2024,Javier Ruiz,Audífonos Sony WH,Aud,5,531.78,2658.9,Tarjeta crédito,Completada,La Paz,usuario129@empresa.pe,
+532,10400,03/09/2024,María Rodríguez,Hub USB 3.0,audio,10,638.96,6389.6,Transferencia,Completada,Montevideo,usuario399@gmail.com,Envío estándar
+533,10343,02-06-24,Carlos López,Monitor Samsung 24,Audio,-1,250.61,-250.61,Efectivo,Pendiente,Montevideo,usuario342@hotmail.com,Entrega en punto de recogida
+534,10038,"July 20, 2024",Ana García,Mouse Logitech M185,ALMACENAMIENTO,1,882.94,882.94,Transferencia,Pendiente,Lima,usuario37@outlook.com,Cliente solicitó cambio
+535,10087,"December 13, 2024",Javier Ruiz,Impresora Epson L3210,Periféricos,1,320.8,320.8,Tarjeta crédito,Reembolsada,La Paz,,Entrega en punto de recogida
+536,10309,"February 16, 2024",Laura Martínez,Hub USB 3.0,Aud,0,29.09,0.0,Tarjeta débito,Cancelada,Ciudad de México,usuario308@hotmail.com,Producto dañado en tránsito
+537,10203,22/10/2024,Javier Ruiz,Memoria RAM 8GB,audio,2,478.84,957.68,Efectivo,Reembolsada,La Paz,usuario202@hotmail.com,Envío estándar
+538,10415,12-15-24,Sofía Torres,Laptop HP 15,electrónica,0,842.54,0.0,Yape,Cancelada,Bogotá,usuario414@outlook.com,Requiere factura
+539,10354,"August 14, 2024",María Rodríguez,Memoria RAM 8GB,ELECTRÓNICA,3,560.54,1681.62,Tarjeta crédito,Cancelada,Santiago,usuario353@gmail.com,
+540,10453,2024-12-20,Diego Hernández,Teclado mecánico Redragon,electrónica,-1,67.25,-67.25,Tarjeta débito,Reembolsada,Quito,,Envío estándar

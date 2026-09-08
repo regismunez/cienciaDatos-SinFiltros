@@ -1,0 +1,21 @@
+year,technology,adoption_rate,market_size_billion,key_companies,risk_level
+2024,LLMs para Código,35,45,GitHub Copilot;Amazon CodeWhisperer;Tabnine,Baja
+2024,Agentes de Atención al Cliente,28,22,Intercom;Zendesk;Freshdesk,Baja
+2024,RAG (Retrieval-Augmented Generation),42,18,LangChain;LlamaIndex;Vectara,Baja
+2024,IA Multimodal,25,65,OpenAI;Google;Anthropic,Media
+2024,AutoML Avanzado,38,12,H2O.ai;DataRobot;Auto-sklearn,Baja
+2025,Agentes de Código Autónomos,55,78,Devin;SWE-Agent;OpenHands,Media
+2025,Agentes Multi-Herramienta,48,35,LangChain;CrewAI;AutoGPT,Media
+2025,IA Agente para Ventas,40,28,Gong;Clari;Outreach,Baja
+2025,Agentes de Datos Autónomos,32,20,Databricks;Snowflake;BigQuery,Media
+2025,IA Generativa para BI,45,42,Tableau AI;Power BI Copilot;Looker,Baja
+2026,Agentes Colaborativos,62,55,CrewAI;LangGraph;Microsoft AutoGen,Alta
+2026,IA Autónoma para Marketing,50,38,Jasper;Copy.ai;Writer,Baja
+2026,Agentes de Ciberseguridad,45,48,CrowdStrike;Darktrace;Vectra AI,Alta
+2026,IA para Ciencia de Datos,38,30,Dataiku;Alteryx;RapidMiner,Media
+2026,Agentes de Investigación,35,25,FutureHouse;Recursion;Isomorphic Labs,Alta
+2027,Agentes con Autonomía Limitada,58,65,OpenAI;Anthropic;Google DeepMind,Muy Alta
+2027,IA para Toma de Decisiones,52,72,Palantir;C3.ai;Aylien,Alta
+2027,Agentes de Código Completo,65,95,Devin;GitHub Copilot Workspace;Cursor,Alta
+2027,IA Autónoma para Logística,48,45,Amazon Robotics;FedEx;UPS,Media
+2027,Sistemas Multi-Agente,42,58,Microsoft AutoGen;CrewAI;LangGraph,Muy Alta

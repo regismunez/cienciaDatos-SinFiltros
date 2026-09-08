@@ -1,0 +1,1501 @@
+employee_id,department,role,monthly_income,years_at_company,job_satisfaction,overtime,attrition_risk,performance_rating,education
+1,Ventas,Ejecutivo de Ventas,6289,8,4,Sí,Medio,4,Maestría
+2,Operations,Inventory Manager,2854,3,3,Sí,Medio,4,Secundaria
+3,Legal,Paralegal,9699,18,4,No,Bajo,1,Maestría
+4,RRHH,Compensation Analyst,4217,5,5,Sí,Medio,3,Licenciatura
+5,Ventas,Account Manager,4930,12,4,No,Bajo,5,Licenciatura
+6,TI,Arquitecto de Software,9146,20,4,No,Bajo,4,Maestría
+7,Ingeniería,Data Scientist,5602,10,3,Sí,Medio,3,Licenciatura
+8,Soporte,Help Desk Analyst,3125,7,4,No,Medio,4,Licenciatura
+9,Ventas,Enterprise Sales Rep,7852,18,5,Sí,Medio,4,Maestría
+10,Legal,Paralegal,6876,2,5,Sí,Medio,4,Maestría
+11,TI,Database Administrator,5357,19,5,No,Bajo,4,Secundaria
+12,RRHH,Director de RRHH,5464,18,4,No,Bajo,3,Licenciatura
+13,Operations,Inventory Manager,3701,5,2,No,Medio,4,Licenciatura
+14,TI,Arquitecto de Software,6770,20,4,No,Bajo,5,Licenciatura
+15,Ingeniería,Data Scientist,8887,18,3,No,Bajo,3,Maestría
+16,Ingeniería,Platform Engineer,9222,9,4,Sí,Medio,2,Doctorado
+17,Finanzas,Cost Accountant,6354,5,4,No,Bajo,4,Maestría
+18,Ingeniería,SRE Engineer,3773,1,5,Sí,Medio,5,Licenciatura
+19,Finanzas,Financial Analyst,5133,19,2,Sí,Alto,4,Secundaria
+20,RRHH,Training Manager,7492,18,3,Sí,Medio,5,Maestría
+21,TI,Network Engineer,9077,7,3,No,Bajo,5,Doctorado
+22,Investigación,Científico de Datos,4767,3,1,No,Medio,4,Licenciatura
+23,Operations,Warehouse Supervisor,2740,2,3,Sí,Alto,4,Secundaria
+24,Finanzas,Internal Auditor,4459,5,3,No,Bajo,3,Licenciatura
+25,TI,Network Engineer,5666,14,4,No,Bajo,4,Licenciatura
+26,Ventas,Ejecutivo de Ventas,4810,11,3,Sí,Medio,3,Licenciatura
+27,Investigación,Research Analyst,5246,9,3,No,Bajo,5,Licenciatura
+28,Legal,Abogado Corporativo,6070,18,5,Sí,Medio,5,Secundaria
+29,Marketing,Gerente de Marketing,5503,16,2,Sí,Alto,1,Licenciatura
+30,TI,Database Administrator,10824,15,3,No,Bajo,5,Doctorado
+31,Legal,IP Attorney,6959,5,4,Sí,Medio,4,Maestría
+32,Soporte,Técnico de Soporte,4278,16,2,Sí,Alto,4,Secundaria
+33,RRHH,Recruiter,6350,8,3,No,Bajo,4,Maestría
+34,Operations,Analista de Operaciones,5377,19,5,No,Bajo,3,Licenciatura
+35,Soporte,Desktop Support,2756,5,5,No,Medio,1,Licenciatura
+36,Operations,Analista de Operaciones,3232,7,2,No,Alto,3,Secundaria
+37,Ventas,Inside Sales Rep,4365,6,4,No,Bajo,5,Licenciatura
+38,Legal,Abogado Corporativo,9220,18,5,No,Bajo,2,Maestría
+39,RRHH,Director de RRHH,3667,4,4,Sí,Medio,3,Licenciatura
+40,Finanzas,Cost Accountant,4486,2,4,Sí,Medio,4,Licenciatura
+41,Ingeniería,Desarrollador Junior,4800,5,4,No,Bajo,4,Licenciatura
+42,Ventas,Account Executive,7750,5,5,Sí,Medio,4,Doctorado
+43,RRHH,Compensation Analyst,4753,10,5,No,Bajo,5,Licenciatura
+44,Marketing,CMO,3524,4,4,No,Bajo,5,Licenciatura
+45,TI,Data Engineer,10213,8,5,Sí,Medio,1,Doctorado
+46,Soporte,Quality Assurance,5188,8,2,No,Medio,4,Maestría
+47,TI,Administrador de Sistemas,9807,8,3,Sí,Medio,4,Doctorado
+48,Marketing,SEO Specialist,3016,7,3,No,Medio,5,Secundaria
+49,Finanzas,Treasury Analyst,7783,13,5,No,Bajo,3,Maestría
+50,Finanzas,Contador Senior,5412,14,4,No,Bajo,3,Licenciatura
+51,Operations,Distribution Manager,4932,19,1,Sí,Alto,5,Licenciatura
+52,Legal,IP Attorney,8034,7,3,No,Bajo,5,Maestría
+53,Soporte,Service Desk Analyst,4316,4,3,No,Bajo,4,Maestría
+54,Legal,Paralegal,6061,13,4,Sí,Medio,3,Licenciatura
+55,Legal,Abogado Corporativo,5385,7,3,No,Bajo,3,Licenciatura
+56,Marketing,Content Strategist,3648,6,3,Sí,Medio,4,Licenciatura
+57,Operations,Supply Chain Analyst,3938,8,1,No,Medio,3,Licenciatura
+58,Investigación,Lab Manager,8558,3,3,No,Bajo,4,Doctorado
+59,Marketing,Product Marketing Manager,4236,8,4,Sí,Medio,4,Licenciatura
+60,Ventas,Account Manager,5259,17,2,No,Medio,3,Licenciatura
+61,Ventas,Business Development,5676,15,4,No,Bajo,4,Licenciatura
+62,Legal,Compliance Officer,11000,18,5,No,Bajo,4,Doctorado
+63,Investigación,Laboratory Technician,5157,8,4,No,Bajo,3,Licenciatura
+64,Ventas,Sales Operations Analyst,4083,9,3,No,Bajo,4,Licenciatura
+65,RRHH,Training Manager,4106,5,4,Sí,Medio,3,Licenciatura
+66,Marketing,Product Marketing Manager,5506,19,5,Sí,Medio,4,Licenciatura
+67,TI,IT Manager,4582,12,5,No,Bajo,3,Secundaria
+68,Legal,Senior Counsel,11000,16,3,Sí,Medio,4,Doctorado
+69,TI,Cloud Architect,8703,13,5,Sí,Medio,4,Maestría
+70,TI,Administrador de Sistemas,5396,14,5,Sí,Medio,3,Licenciatura
+71,Finanzas,Controller,5260,15,3,No,Bajo,5,Licenciatura
+72,TI,Database Administrator,11000,16,4,Sí,Medio,2,Doctorado
+73,Soporte,Desktop Support,4695,2,1,Sí,Alto,3,Maestría
+74,RRHH,Employee Relations Manager,7395,19,3,Sí,Medio,3,Maestría
+75,Soporte,Help Desk Analyst,4900,4,1,Sí,Alto,3,Maestría
+76,TI,Security Analyst,9406,7,4,Sí,Medio,4,Doctorado
+77,Marketing,Content Manager,6481,10,1,Sí,Alto,4,Maestría
+78,Soporte,Líder de Soporte,3585,11,5,Sí,Medio,4,Licenciatura
+79,Ventas,Account Manager,3031,15,5,Sí,Medio,3,Sin título formal
+80,Legal,Compliance Officer,7061,19,3,No,Bajo,3,Licenciatura
+81,Ventas,Sales Manager,7657,8,3,No,Bajo,4,Doctorado
+82,Soporte,Help Desk Analyst,3857,12,3,No,Bajo,5,Licenciatura
+83,Finanzas,Cost Accountant,3743,7,4,Sí,Medio,3,Secundaria
+84,Investigación,Laboratory Technician,4560,1,3,Sí,Medio,3,Licenciatura
+85,Marketing,Brand Manager,6404,12,5,No,Bajo,4,Maestría
+86,Soporte,Technical Writer,3687,9,2,Sí,Alto,3,Licenciatura
+87,Ventas,Sales Operations Analyst,5972,6,4,Sí,Medio,5,Maestría
+88,Legal,Senior Counsel,5238,4,3,Sí,Medio,3,Licenciatura
+89,Finanzas,Contador Senior,6421,5,3,No,Bajo,5,Maestría
+90,Investigación,Científico de Datos,11000,19,3,No,Bajo,3,Doctorado
+91,RRHH,Analista de RRHH,5054,16,2,Sí,Alto,4,Licenciatura
+92,Ingeniería,DevOps Engineer,6046,19,2,No,Medio,3,Licenciatura
+93,Legal,Compliance Officer,10047,20,5,Sí,Medio,3,Maestría
+94,Operations,Inventory Manager,4750,20,4,Sí,Medio,4,Licenciatura
+95,Marketing,CMO,3763,3,2,Sí,Alto,3,Licenciatura
+96,Operations,Operations Manager,4285,8,4,No,Bajo,4,Licenciatura
+97,Investigación,Científico de Datos,7158,9,4,Sí,Medio,5,Maestría
+98,RRHH,Recruiter,3629,10,3,No,Bajo,3,Secundaria
+99,Finanzas,Controller,10422,17,5,No,Bajo,4,Doctorado
+100,Operations,Procurement Specialist,3279,8,5,Sí,Medio,4,Secundaria
+101,Finanzas,Revenue Analyst,3313,6,3,No,Medio,5,Secundaria
+102,TI,IT Manager,4224,16,3,No,Bajo,3,Sin título formal
+103,Ventas,Sales Representative,5022,16,4,No,Bajo,2,Licenciatura
+104,Ventas,Regional Sales Director,3661,4,5,No,Bajo,4,Licenciatura
+105,Ingeniería,Data Scientist,11000,15,4,No,Bajo,4,Doctorado
+106,Investigación,Científico de Datos,6481,18,5,Sí,Medio,3,Licenciatura
+107,Investigación,Científico de Datos,5222,20,1,Sí,Alto,3,Secundaria
+108,Marketing,Content Manager,3591,4,4,Sí,Medio,4,Licenciatura
+109,Legal,IP Attorney,6490,16,3,No,Bajo,5,Licenciatura
+110,Legal,IP Attorney,9236,3,4,No,Bajo,4,Doctorado
+111,Soporte,Escalation Engineer,2979,1,4,No,Medio,4,Licenciatura
+112,RRHH,Employee Relations Manager,5895,12,4,No,Bajo,4,Maestría
+113,Investigación,Bioinformático,9564,8,1,No,Medio,4,Doctorado
+114,TI,Security Analyst,3828,5,5,No,Bajo,2,Sin título formal
+115,Operations,Supply Chain Analyst,8155,15,4,Sí,Medio,3,Doctorado
+116,RRHH,Recruiter,4169,9,4,No,Bajo,3,Licenciatura
+117,Ventas,Regional Sales Director,10414,18,5,No,Bajo,4,Doctorado
+118,Legal,Abogado Corporativo,7630,8,5,No,Bajo,4,Maestría
+119,TI,Arquitecto de Software,6847,4,1,No,Medio,3,Maestría
+120,Ingeniería,QA Engineer,5934,14,3,Sí,Medio,3,Licenciatura
+121,RRHH,Training Manager,5157,20,5,No,Bajo,3,Licenciatura
+122,Investigación,Bioinformático,4102,1,5,No,Medio,4,Licenciatura
+123,RRHH,Recruiter,4319,12,3,No,Bajo,4,Licenciatura
+124,Marketing,Product Marketing Manager,6893,4,3,Sí,Medio,3,Doctorado
+125,Finanzas,Budget Analyst,4881,13,4,No,Bajo,5,Secundaria
+126,Operations,Operations Manager,7636,10,4,Sí,Medio,3,Doctorado
+127,Marketing,Market Research Analyst,4300,5,3,Sí,Medio,3,Licenciatura
+128,Operations,Supply Chain Analyst,4658,3,3,No,Bajo,3,Maestría
+129,Marketing,Gerente de Marketing,6776,12,5,No,Bajo,4,Maestría
+130,Finanzas,Treasury Analyst,7773,15,2,Sí,Alto,5,Maestría
+131,TI,ERP Analyst,5824,13,3,Sí,Medio,4,Licenciatura
+132,Finanzas,Revenue Analyst,5389,12,4,Sí,Medio,3,Licenciatura
+133,Operations,Distribution Manager,4784,20,3,Sí,Medio,4,Licenciatura
+134,TI,Arquitecto de Software,4111,2,5,No,Medio,2,Licenciatura
+135,Marketing,Content Strategist,4737,15,5,No,Bajo,3,Licenciatura
+136,RRHH,Compensation Analyst,6596,16,5,No,Bajo,3,Maestría
+137,Soporte,Desktop Support,4059,8,4,No,Bajo,5,Licenciatura
+138,Soporte,Técnico de Soporte,3867,7,5,Sí,Medio,4,Licenciatura
+139,Ventas,Technical Pre-Sales,5857,20,5,Sí,Medio,4,Licenciatura
+140,Marketing,Content Manager,7630,18,4,Sí,Medio,4,Maestría
+141,Marketing,Marketing Analyst,7693,20,5,Sí,Medio,4,Maestría
+142,RRHH,Recruiter,5743,1,1,Sí,Alto,4,Maestría
+143,Marketing,Market Research Analyst,4515,6,4,No,Bajo,4,Licenciatura
+144,Investigación,Laboratory Technician,9069,17,3,Sí,Medio,3,Maestría
+145,Operations,Supervisor de Operaciones,6048,17,2,No,Medio,3,Maestría
+146,TI,Security Analyst,9082,16,2,No,Medio,2,Maestría
+147,Operations,Logistics Coordinator,2904,9,3,No,Medio,4,Secundaria
+148,TI,Arquitecto de Software,6995,4,3,Sí,Medio,5,Maestría
+149,TI,Cloud Architect,8307,13,3,No,Bajo,3,Maestría
+150,RRHH,Learning & Development Specialist,6473,3,5,Sí,Medio,2,Doctorado
+151,Ventas,Sales Operations Analyst,5420,5,3,Sí,Medio,2,Maestría
+152,Soporte,Quality Assurance,5657,2,4,No,Medio,3,Doctorado
+153,Operations,Distribution Manager,4822,16,4,Sí,Medio,2,Licenciatura
+154,Finanzas,Revenue Analyst,5239,14,4,Sí,Medio,4,Licenciatura
+155,Finanzas,Contador Senior,4892,10,2,No,Medio,4,Licenciatura
+156,Ventas,Sales Representative,5303,1,4,Sí,Medio,3,Maestría
+157,TI,IT Manager,5620,12,4,No,Bajo,2,Licenciatura
+158,Ingeniería,DevOps Engineer,5929,20,4,Sí,Medio,3,Licenciatura
+159,TI,IT Manager,8597,14,3,No,Bajo,2,Maestría
+160,Operations,Operations Manager,4446,10,3,Sí,Medio,5,Licenciatura
+161,Ingeniería,Desarrollador Junior,4892,7,2,Sí,Alto,4,Licenciatura
+162,TI,Data Engineer,6221,18,4,Sí,Medio,4,Licenciatura
+163,Soporte,Líder de Soporte,3825,2,5,No,Medio,4,Licenciatura
+164,Operations,Inventory Manager,6469,14,2,No,Medio,1,Maestría
+165,Soporte,Help Desk Analyst,7132,20,2,No,Medio,4,Maestría
+166,Marketing,Product Marketing Manager,6813,17,3,Sí,Medio,3,Maestría
+167,Soporte,Desktop Support,3363,6,4,Sí,Medio,5,Licenciatura
+168,Soporte,Service Desk Analyst,4878,5,2,Sí,Alto,3,Maestría
+169,RRHH,Talent Acquisition Lead,4027,3,3,Sí,Medio,4,Licenciatura
+170,Operations,Operations Manager,6938,19,5,No,Bajo,4,Maestría
+171,RRHH,Employee Relations Manager,3972,15,3,No,Bajo,2,Secundaria
+172,Investigación,Laboratory Technician,4109,12,2,No,Medio,5,Secundaria
+173,Ventas,Enterprise Sales Rep,6298,13,4,No,Bajo,2,Maestría
+174,Operations,Warehouse Supervisor,4302,16,5,Sí,Medio,3,Licenciatura
+175,Soporte,Líder de Soporte,3515,6,3,Sí,Medio,4,Licenciatura
+176,RRHH,HR Analyst,4644,10,3,No,Bajo,3,Licenciatura
+177,Operations,Supervisor de Operaciones,5801,11,3,Sí,Medio,3,Maestría
+178,Operations,Logistics Coordinator,5282,19,5,Sí,Medio,3,Licenciatura
+179,TI,Data Engineer,6138,3,3,No,Bajo,2,Maestría
+180,Legal,Abogado Corporativo,8719,14,1,No,Medio,3,Maestría
+181,Marketing,Marketing Analyst,9452,16,2,Sí,Alto,4,Doctorado
+182,Ventas,Channel Sales Manager,7711,17,4,Sí,Medio,5,Maestría
+183,Operations,Logistics Coordinator,5369,5,4,Sí,Medio,5,Maestría
+184,Investigación,Científico de Datos,5539,8,4,No,Bajo,4,Licenciatura
+185,Investigación,Research Analyst,7832,10,4,No,Bajo,4,Maestría
+186,Investigación,Laboratory Technician,8089,13,5,No,Bajo,4,Maestría
+187,Operations,Logistics Coordinator,6469,2,2,No,Alto,4,Doctorado
+188,Ventas,Sales Manager,3859,6,3,No,Bajo,4,Licenciatura
+189,TI,Arquitecto de Software,10191,8,3,No,Bajo,3,Doctorado
+190,Soporte,Desktop Support,2783,3,3,No,Medio,3,Licenciatura
+191,Ventas,Sales Operations Analyst,6401,5,4,Sí,Medio,4,Maestría
+192,Investigación,Laboratory Technician,6591,3,3,Sí,Medio,4,Maestría
+193,Legal,IP Attorney,8911,14,2,Sí,Alto,3,Maestría
+194,Operations,Operations Manager,3512,16,4,Sí,Medio,4,Secundaria
+195,RRHH,Director de RRHH,5338,20,4,No,Bajo,2,Licenciatura
+196,Soporte,Líder de Soporte,3452,18,3,Sí,Medio,3,Sin título formal
+197,TI,Cloud Architect,4392,1,4,No,Medio,4,Licenciatura
+198,Operations,Supply Chain Analyst,4016,12,4,No,Bajo,3,Licenciatura
+199,Investigación,Laboratory Technician,6633,5,1,Sí,Alto,3,Maestría
+200,Marketing,Especialista Digital,3756,10,5,No,Bajo,4,Licenciatura
+201,Finanzas,Contador Senior,6330,7,5,No,Bajo,3,Maestría
+202,Ventas,Regional Sales Director,5274,13,5,No,Bajo,3,Licenciatura
+203,RRHH,Employee Relations Manager,6613,12,2,No,Medio,4,Maestría
+204,RRHH,Workforce Planning Analyst,3265,4,3,Sí,Medio,3,Licenciatura
+205,Investigación,Lab Manager,6909,6,5,No,Bajo,3,Maestría
+206,TI,Database Administrator,6431,2,4,Sí,Medio,3,Maestría
+207,Legal,IP Attorney,6700,1,3,Sí,Medio,2,Maestría
+208,Marketing,CMO,4400,13,4,Sí,Medio,4,Licenciatura
+209,Soporte,Service Desk Analyst,2946,3,4,Sí,Medio,3,Licenciatura
+210,Ventas,Ejecutivo de Ventas,7344,16,5,No,Bajo,2,Maestría
+211,Finanzas,Internal Auditor,5784,20,3,No,Bajo,3,Licenciatura
+212,Ventas,Business Development,4052,15,4,Sí,Medio,5,Licenciatura
+213,Soporte,Service Desk Analyst,6999,18,4,No,Bajo,5,Maestría
+214,RRHH,HR Analyst,3354,4,4,Sí,Medio,3,Licenciatura
+215,Investigación,Científico de Datos,5646,19,2,No,Medio,5,Licenciatura
+216,Ventas,Sales Manager,5354,16,4,No,Bajo,4,Licenciatura
+217,Ventas,Sales Representative,2262,3,2,No,Alto,4,Sin título formal
+218,Legal,IP Attorney,7265,5,4,No,Bajo,5,Maestría
+219,Ventas,Channel Sales Manager,3922,6,3,Sí,Medio,5,Licenciatura
+220,Finanzas,Analista Financiero,6352,18,2,No,Medio,3,Licenciatura
+221,Legal,Abogado Corporativo,5362,6,5,Sí,Medio,3,Licenciatura
+222,Operations,Supervisor de Operaciones,5004,1,1,Sí,Alto,4,Maestría
+223,Operations,Procurement Specialist,7010,19,5,No,Bajo,4,Maestría
+224,Finanzas,Internal Auditor,5301,13,3,No,Bajo,4,Licenciatura
+225,RRHH,Employee Relations Manager,4732,15,5,Sí,Medio,3,Licenciatura
+226,Soporte,Quality Assurance,4187,12,3,Sí,Medio,3,Licenciatura
+227,Finanzas,Internal Auditor,4238,4,4,Sí,Medio,3,Licenciatura
+228,RRHH,HR Analyst,8499,11,4,Sí,Medio,4,Doctorado
+229,Legal,Compliance Officer,6403,10,4,No,Bajo,5,Licenciatura
+230,Marketing,Market Research Analyst,3741,2,4,No,Medio,5,Licenciatura
+231,Investigación,Bioinformático,6765,4,3,No,Bajo,3,Maestría
+232,Ingeniería,Frontend Developer,5134,18,3,Sí,Medio,3,Secundaria
+233,TI,ERP Analyst,6659,18,4,No,Bajo,2,Licenciatura
+234,Ventas,Account Manager,4282,11,4,No,Bajo,3,Licenciatura
+235,Legal,Compliance Officer,4813,2,4,Sí,Medio,3,Licenciatura
+236,Operations,Distribution Manager,5245,20,2,No,Medio,5,Licenciatura
+237,Finanzas,Revenue Analyst,5749,17,4,No,Bajo,3,Licenciatura
+238,Ventas,Account Manager,4905,1,3,No,Medio,4,Maestría
+239,Operations,Warehouse Supervisor,7267,19,4,No,Bajo,4,Maestría
+240,RRHH,Learning & Development Specialist,5591,19,3,Sí,Medio,3,Licenciatura
+241,TI,Data Engineer,4670,7,4,No,Bajo,4,Licenciatura
+242,Ingeniería,Platform Engineer,4866,7,5,No,Bajo,3,Licenciatura
+243,TI,Cloud Architect,3745,15,5,No,Bajo,4,Sin título formal
+244,Finanzas,Revenue Analyst,4645,8,4,No,Bajo,3,Licenciatura
+245,Finanzas,Budget Analyst,7758,16,5,No,Bajo,4,Maestría
+246,Finanzas,Analista Financiero,8519,18,5,No,Bajo,3,Maestría
+247,Soporte,Help Desk Analyst,3683,10,3,Sí,Medio,3,Licenciatura
+248,Marketing,Content Strategist,5549,18,2,No,Medio,4,Licenciatura
+249,Operations,Warehouse Supervisor,4693,17,3,Sí,Medio,4,Licenciatura
+250,Ventas,Technical Pre-Sales,5075,1,3,Sí,Medio,5,Maestría
+251,Investigación,Laboratory Technician,7647,10,4,No,Bajo,4,Maestría
+252,Marketing,Content Strategist,5296,2,3,Sí,Medio,4,Maestría
+253,Ingeniería,Frontend Developer,6814,6,4,No,Bajo,2,Maestría
+254,Soporte,Systems Administrator,4553,18,5,No,Bajo,3,Licenciatura
+255,Legal,Compliance Officer,5074,4,3,No,Bajo,3,Licenciatura
+256,Soporte,Systems Administrator,5426,7,4,Sí,Medio,4,Maestría
+257,TI,Security Analyst,4485,3,2,No,Medio,3,Licenciatura
+258,Marketing,Especialista Digital,4086,8,4,No,Bajo,5,Licenciatura
+259,Finanzas,Revenue Analyst,5403,1,2,No,Alto,2,Maestría
+260,Finanzas,CFO Adjunto,5434,17,4,No,Bajo,4,Licenciatura
+261,Finanzas,Treasury Analyst,6493,8,5,Sí,Medio,3,Maestría
+262,Legal,Compliance Officer,7608,7,4,Sí,Medio,4,Maestría
+263,Ventas,Channel Sales Manager,4887,12,5,Sí,Medio,5,Licenciatura
+264,Marketing,Market Research Analyst,5709,6,5,No,Bajo,3,Maestría
+265,Marketing,Market Research Analyst,5298,17,4,No,Bajo,3,Licenciatura
+266,Ingeniería,Machine Learning Engineer,4925,10,3,Sí,Medio,4,Licenciatura
+267,Marketing,Market Research Analyst,3782,14,2,No,Medio,5,Secundaria
+268,Investigación,Científico de Datos,4517,6,4,Sí,Medio,5,Licenciatura
+269,TI,Cloud Architect,4449,13,3,No,Bajo,4,Sin título formal
+270,Legal,Paralegal,8023,12,3,Sí,Medio,4,Maestría
+271,Legal,Paralegal,7782,8,3,Sí,Medio,4,Maestría
+272,TI,ERP Analyst,4377,8,3,Sí,Medio,3,Licenciatura
+273,Marketing,Content Manager,3903,14,4,Sí,Medio,3,Secundaria
+274,Ingeniería,Full Stack Developer,8104,13,3,No,Bajo,3,Maestría
+275,Ingeniería,DevOps Engineer,5428,10,3,Sí,Medio,4,Licenciatura
+276,Soporte,Desktop Support,2976,5,3,Sí,Medio,3,Licenciatura
+277,Legal,Senior Counsel,9500,6,3,No,Bajo,4,Doctorado
+278,TI,ERP Analyst,5932,14,2,No,Medio,3,Licenciatura
+279,Legal,Compliance Officer,5530,8,3,No,Bajo,2,Licenciatura
+280,TI,Security Analyst,6769,5,3,No,Bajo,3,Maestría
+281,Ventas,Business Development,7362,3,4,Sí,Medio,2,Doctorado
+282,Ventas,Inside Sales Rep,7943,19,4,Sí,Medio,5,Maestría
+283,Soporte,Systems Administrator,2810,1,2,Sí,Alto,5,Sin título formal
+284,Investigación,Research Analyst,6844,7,5,No,Bajo,4,Maestría
+285,Finanzas,Controller,5210,12,4,No,Bajo,2,Licenciatura
+286,Investigación,Bioinformático,10790,12,3,No,Bajo,4,Doctorado
+287,Marketing,Gerente de Marketing,4170,18,3,No,Bajo,4,Secundaria
+288,Marketing,Social Media Manager,6707,11,4,No,Bajo,4,Maestría
+289,Investigación,Laboratory Technician,5857,12,3,Sí,Medio,5,Licenciatura
+290,Ingeniería,Machine Learning Engineer,3800,3,4,Sí,Medio,3,Secundaria
+291,Marketing,Content Manager,4757,1,4,Sí,Medio,4,Maestría
+292,Operations,Operations Manager,4625,1,4,Sí,Medio,3,Maestría
+293,Ingeniería,Machine Learning Engineer,9401,18,4,No,Bajo,4,Maestría
+294,RRHH,Recruiter,9383,17,3,Sí,Medio,4,Doctorado
+295,Finanzas,Treasury Analyst,5138,13,4,Sí,Medio,5,Licenciatura
+296,Marketing,Brand Manager,5560,3,2,Sí,Alto,3,Maestría
+297,Legal,Compliance Officer,4108,1,4,Sí,Medio,3,Secundaria
+298,Ventas,Channel Sales Manager,8348,8,5,Sí,Medio,4,Doctorado
+299,Operations,Operations Manager,3745,3,1,No,Medio,5,Licenciatura
+300,Soporte,Técnico de Soporte,2974,19,4,Sí,Medio,4,Sin título formal
+301,TI,Arquitecto de Software,6061,19,4,Sí,Medio,4,Licenciatura
+302,TI,Data Engineer,6302,3,2,No,Medio,3,Maestría
+303,Ventas,Regional Sales Director,8262,20,4,No,Bajo,4,Maestría
+304,Investigación,Laboratory Technician,6308,18,3,No,Bajo,4,Licenciatura
+305,TI,Arquitecto de Software,7771,10,2,Sí,Alto,4,Maestría
+306,RRHH,Compensation Analyst,3603,4,1,Sí,Alto,3,Licenciatura
+307,Soporte,Systems Administrator,2895,3,4,Sí,Medio,2,Licenciatura
+308,Ventas,Regional Sales Director,8161,20,5,No,Bajo,1,Maestría
+309,TI,Security Analyst,9075,18,3,Sí,Medio,3,Maestría
+310,Finanzas,Budget Analyst,4117,3,3,Sí,Medio,3,Licenciatura
+311,Investigación,Científico de Datos,4957,8,2,No,Medio,3,Licenciatura
+312,TI,Cloud Architect,10732,13,3,No,Bajo,3,Doctorado
+313,Operations,Logistics Coordinator,4854,20,3,Sí,Medio,3,Licenciatura
+314,Investigación,Lab Manager,7872,11,3,No,Bajo,4,Maestría
+315,Soporte,Líder de Soporte,6528,7,5,Sí,Medio,3,Doctorado
+316,Marketing,Social Media Manager,4996,3,4,No,Bajo,3,Maestría
+317,Finanzas,Financial Analyst,4456,5,5,No,Bajo,3,Licenciatura
+318,TI,ERP Analyst,5850,14,4,Sí,Medio,3,Licenciatura
+319,Legal,Senior Counsel,6865,3,3,Sí,Medio,4,Maestría
+320,Ingeniería,SRE Engineer,3400,13,5,No,Medio,3,Sin título formal
+321,Ingeniería,Desarrollador Senior,5796,17,4,Sí,Medio,4,Licenciatura
+322,Legal,Paralegal,4606,1,2,No,Alto,3,Licenciatura
+323,Ventas,Account Executive,7350,5,3,No,Bajo,4,Doctorado
+324,Investigación,Científico de Datos,6295,15,2,No,Medio,2,Licenciatura
+325,Ventas,Ejecutivo de Ventas,7726,4,4,Sí,Medio,4,Doctorado
+326,Soporte,Escalation Engineer,4104,15,4,Sí,Medio,4,Licenciatura
+327,RRHH,Learning & Development Specialist,6553,13,3,Sí,Medio,3,Maestría
+328,Ingeniería,Platform Engineer,4492,9,4,Sí,Medio,4,Licenciatura
+329,Legal,Paralegal,5631,7,4,No,Bajo,5,Licenciatura
+330,Soporte,Quality Assurance,6966,19,3,Sí,Medio,4,Maestría
+331,Operations,Logistics Coordinator,5728,10,3,Sí,Medio,2,Maestría
+332,Soporte,Help Desk Analyst,3995,14,4,Sí,Medio,3,Licenciatura
+333,Investigación,Lab Manager,6797,6,3,Sí,Medio,3,Maestría
+334,Ingeniería,Backend Developer,4096,16,3,Sí,Medio,3,Sin título formal
+335,Legal,Senior Counsel,8380,14,4,No,Bajo,2,Maestría
+336,Ingeniería,Full Stack Developer,5402,9,4,Sí,Medio,3,Licenciatura
+337,Investigación,Lab Manager,8519,16,4,Sí,Medio,5,Maestría
+338,Legal,Abogado Corporativo,8958,15,5,Sí,Medio,2,Maestría
+339,Marketing,Brand Manager,6704,2,2,No,Alto,5,Doctorado
+340,Ventas,Inside Sales Rep,6090,19,5,No,Bajo,4,Licenciatura
+341,TI,Data Engineer,7393,7,4,Sí,Medio,4,Maestría
+342,RRHH,HR Analyst,2598,10,4,No,Medio,5,Sin título formal
+343,Legal,IP Attorney,8006,5,5,No,Bajo,2,Maestría
+344,RRHH,HR Business Partner,3964,11,4,Sí,Medio,4,Licenciatura
+345,Investigación,Research Analyst,7409,9,4,No,Bajo,4,Maestría
+346,TI,ERP Analyst,8244,12,5,No,Bajo,3,Maestría
+347,Ingeniería,Platform Engineer,6151,15,3,No,Bajo,5,Licenciatura
+348,Marketing,Social Media Manager,4027,10,4,No,Bajo,3,Licenciatura
+349,Investigación,Bioinformático,8556,2,3,Sí,Medio,2,Doctorado
+350,RRHH,Employee Relations Manager,5029,14,5,Sí,Medio,5,Licenciatura
+351,Finanzas,CFO Adjunto,8952,9,3,Sí,Medio,5,Doctorado
+352,RRHH,Analista de RRHH,4134,10,3,Sí,Medio,2,Licenciatura
+353,Ventas,Ejecutivo de Ventas,3513,3,3,Sí,Medio,1,Licenciatura
+354,Soporte,Líder de Soporte,2695,14,4,Sí,Medio,3,Sin título formal
+355,Ventas,Sales Operations Analyst,5430,4,3,No,Bajo,4,Maestría
+356,RRHH,Learning & Development Specialist,2809,5,4,Sí,Medio,1,Sin título formal
+357,RRHH,Employee Relations Manager,4387,7,3,Sí,Medio,3,Licenciatura
+358,Ventas,Sales Representative,7650,19,3,No,Bajo,3,Maestría
+359,RRHH,HR Business Partner,3241,3,4,Sí,Medio,4,Licenciatura
+360,Ingeniería,Data Scientist,8911,7,4,Sí,Medio,3,Doctorado
+361,Ingeniería,Full Stack Developer,4105,4,4,Sí,Medio,5,Licenciatura
+362,Soporte,Service Desk Analyst,4672,19,3,No,Bajo,4,Licenciatura
+363,Investigación,Científico de Datos,3595,3,2,Sí,Alto,4,Secundaria
+364,Legal,Legal Secretary,9523,17,3,No,Bajo,3,Maestría
+365,Legal,Senior Counsel,7806,9,3,Sí,Medio,4,Maestría
+366,Legal,Legal Secretary,5103,3,4,No,Bajo,4,Licenciatura
+367,Marketing,Especialista Digital,4477,14,3,Sí,Medio,4,Licenciatura
+368,RRHH,Recruiter,3178,5,2,Sí,Alto,5,Secundaria
+369,Legal,Senior Counsel,7591,9,5,Sí,Medio,4,Maestría
+370,Ventas,Ejecutivo de Ventas,5330,14,4,No,Bajo,3,Licenciatura
+371,Operations,Analista de Operaciones,5315,17,2,No,Medio,3,Licenciatura
+372,Ventas,Enterprise Sales Rep,5803,4,4,Sí,Medio,1,Maestría
+373,Ingeniería,Full Stack Developer,4544,12,5,No,Bajo,2,Secundaria
+374,TI,Network Engineer,5873,14,3,No,Bajo,2,Licenciatura
+375,Soporte,Líder de Soporte,3214,2,1,Sí,Alto,3,Licenciatura
+376,Investigación,Bioinformático,8026,10,2,No,Medio,3,Maestría
+377,Soporte,Desktop Support,3476,10,4,Sí,Medio,4,Licenciatura
+378,Marketing,Content Strategist,6166,8,1,Sí,Alto,3,Maestría
+379,Marketing,Content Strategist,3972,1,5,No,Medio,4,Licenciatura
+380,Ventas,Inside Sales Rep,4344,8,4,No,Bajo,2,Licenciatura
+381,RRHH,Director de RRHH,4035,8,5,No,Bajo,2,Licenciatura
+382,Ventas,Channel Sales Manager,4589,13,4,Sí,Medio,2,Licenciatura
+383,RRHH,HR Business Partner,4273,11,3,No,Bajo,3,Licenciatura
+384,Ventas,Inside Sales Rep,5029,19,2,Sí,Alto,3,Licenciatura
+385,Investigación,Bioinformático,6560,18,3,No,Bajo,3,Licenciatura
+386,Ventas,Account Executive,4505,10,3,Sí,Medio,4,Licenciatura
+387,RRHH,Recruiter,6010,12,3,No,Bajo,5,Maestría
+388,Ingeniería,Frontend Developer,11000,18,2,Sí,Alto,2,Doctorado
+389,RRHH,Recruiter,3396,8,4,Sí,Medio,5,Secundaria
+390,Ventas,Enterprise Sales Rep,5738,3,5,Sí,Medio,3,Maestría
+391,Investigación,Research Analyst,5815,11,2,Sí,Alto,4,Licenciatura
+392,TI,IT Manager,4860,14,3,Sí,Medio,5,Secundaria
+393,Finanzas,Budget Analyst,4114,5,4,Sí,Medio,4,Licenciatura
+394,Legal,Compliance Officer,4172,9,2,No,Medio,3,Secundaria
+395,Legal,Paralegal,10147,18,3,Sí,Medio,4,Maestría
+396,Investigación,Bioinformático,11000,17,3,No,Bajo,3,Doctorado
+397,Soporte,Desktop Support,3145,9,3,Sí,Medio,4,Secundaria
+398,Marketing,Gerente de Marketing,3937,8,4,No,Bajo,4,Licenciatura
+399,Ingeniería,Full Stack Developer,8844,13,3,No,Bajo,3,Maestría
+400,Soporte,Service Desk Analyst,5324,1,5,No,Medio,4,Doctorado
+401,Operations,Warehouse Supervisor,8696,16,2,No,Medio,4,Doctorado
+402,Ingeniería,Machine Learning Engineer,5428,11,4,Sí,Medio,3,Licenciatura
+403,RRHH,HR Analyst,3148,5,5,Sí,Medio,5,Secundaria
+404,Soporte,Quality Assurance,5079,11,3,No,Bajo,5,Maestría
+405,TI,IT Manager,7147,6,3,No,Bajo,3,Maestría
+406,Finanzas,CFO Adjunto,4360,1,5,No,Medio,4,Licenciatura
+407,Operations,Supervisor de Operaciones,4100,11,4,Sí,Medio,3,Licenciatura
+408,Ventas,Inside Sales Rep,4547,11,4,Sí,Medio,5,Licenciatura
+409,Soporte,Technical Writer,2782,7,4,Sí,Medio,4,Secundaria
+410,Ingeniería,Frontend Developer,5454,14,5,Sí,Medio,4,Licenciatura
+411,TI,Cloud Architect,6815,4,4,No,Bajo,3,Maestría
+412,Investigación,Científico de Datos,5872,2,1,No,Alto,3,Maestría
+413,Ventas,Account Executive,4822,13,5,Sí,Medio,2,Licenciatura
+414,Operations,Operations Manager,6015,14,4,Sí,Medio,3,Maestría
+415,Ingeniería,Desarrollador Senior,4714,7,4,No,Bajo,3,Licenciatura
+416,Finanzas,Budget Analyst,3627,2,4,No,Medio,4,Licenciatura
+417,RRHH,Analista de RRHH,4599,14,4,Sí,Medio,3,Licenciatura
+418,Ingeniería,Full Stack Developer,5657,10,4,Sí,Medio,2,Licenciatura
+419,TI,IT Manager,5147,9,3,Sí,Medio,3,Licenciatura
+420,RRHH,Employee Relations Manager,3626,15,3,No,Bajo,4,Secundaria
+421,Operations,Supervisor de Operaciones,3260,4,3,Sí,Medio,4,Licenciatura
+422,Marketing,Content Strategist,3340,13,5,No,Medio,4,Secundaria
+423,Investigación,Lab Manager,11000,16,4,No,Bajo,4,Doctorado
+424,Legal,Senior Counsel,10308,20,2,Sí,Alto,4,Maestría
+425,RRHH,Training Manager,2876,7,4,Sí,Medio,3,Sin título formal
+426,RRHH,Talent Acquisition Lead,3656,3,3,Sí,Medio,3,Licenciatura
+427,Soporte,Systems Administrator,3194,1,4,No,Medio,4,Licenciatura
+428,Ventas,Account Executive,5711,4,5,No,Bajo,5,Maestría
+429,TI,Database Administrator,6450,16,2,No,Medio,4,Licenciatura
+430,TI,Administrador de Sistemas,5642,11,1,Sí,Alto,3,Licenciatura
+431,Finanzas,Treasury Analyst,3938,10,4,No,Bajo,2,Secundaria
+432,Marketing,Gerente de Marketing,5316,15,3,No,Bajo,3,Licenciatura
+433,Ventas,Inside Sales Rep,5006,14,5,No,Bajo,4,Licenciatura
+434,RRHH,Recruiter,4419,17,2,No,Medio,4,Licenciatura
+435,Operations,Supervisor de Operaciones,3813,7,5,Sí,Medio,4,Licenciatura
+436,Finanzas,Treasury Analyst,8636,17,4,No,Bajo,2,Maestría
+437,Ingeniería,Full Stack Developer,6707,20,4,No,Bajo,3,Licenciatura
+438,RRHH,Director de RRHH,5722,3,1,No,Medio,2,Maestría
+439,Operations,Warehouse Supervisor,7217,8,1,Sí,Alto,4,Doctorado
+440,Ingeniería,Software Architect,9126,6,3,Sí,Medio,4,Doctorado
+441,Finanzas,Budget Analyst,5148,13,3,No,Bajo,4,Licenciatura
+442,Operations,Inventory Manager,4689,1,4,No,Medio,4,Maestría
+443,Finanzas,Budget Analyst,8015,16,3,Sí,Medio,3,Maestría
+444,Finanzas,Financial Analyst,4981,8,4,Sí,Medio,4,Licenciatura
+445,Operations,Inventory Manager,4594,5,3,Sí,Medio,3,Maestría
+446,TI,Administrador de Sistemas,8561,19,3,Sí,Medio,4,Maestría
+447,Legal,IP Attorney,8824,12,5,No,Bajo,3,Maestría
+448,Ventas,Business Development,3970,9,5,Sí,Medio,5,Licenciatura
+449,Ventas,Inside Sales Rep,4614,10,3,No,Bajo,3,Licenciatura
+450,Ventas,Business Development,4135,19,4,Sí,Medio,3,Secundaria
+451,Ventas,Technical Pre-Sales,5105,10,2,No,Medio,3,Licenciatura
+452,TI,IT Manager,5152,6,4,Sí,Medio,4,Licenciatura
+453,RRHH,HR Analyst,4818,1,2,No,Alto,4,Maestría
+454,Investigación,Científico de Datos,6367,14,3,No,Bajo,5,Licenciatura
+455,TI,Administrador de Sistemas,4668,7,4,No,Bajo,4,Secundaria
+456,Ingeniería,Data Scientist,3797,8,4,Sí,Medio,3,Secundaria
+457,RRHH,Recruiter,5499,19,3,No,Bajo,3,Licenciatura
+458,Legal,Senior Counsel,6697,14,3,Sí,Medio,5,Licenciatura
+459,Soporte,Desktop Support,4201,13,2,Sí,Alto,4,Licenciatura
+460,Operations,Distribution Manager,4763,12,3,Sí,Medio,4,Licenciatura
+461,Legal,Senior Counsel,3676,2,4,Sí,Medio,3,Secundaria
+462,TI,Arquitecto de Software,8831,16,3,Sí,Medio,4,Maestría
+463,Ingeniería,QA Engineer,4174,4,3,No,Bajo,5,Licenciatura
+464,Legal,IP Attorney,7800,10,4,Sí,Medio,4,Maestría
+465,Operations,Warehouse Supervisor,6602,17,2,Sí,Alto,4,Maestría
+466,Marketing,Social Media Manager,3773,1,4,Sí,Medio,5,Licenciatura
+467,Operations,Operations Manager,3411,3,3,Sí,Medio,3,Licenciatura
+468,Finanzas,Budget Analyst,4175,4,5,Sí,Medio,4,Licenciatura
+469,Soporte,Service Desk Analyst,3707,4,1,Sí,Alto,3,Licenciatura
+470,RRHH,HR Analyst,4314,15,5,No,Bajo,2,Licenciatura
+471,Soporte,Help Desk Analyst,4095,13,5,No,Bajo,4,Licenciatura
+472,RRHH,Recruiter,3818,2,2,Sí,Alto,5,Licenciatura
+473,Investigación,Lab Manager,7037,6,5,No,Bajo,5,Maestría
+474,RRHH,Employee Relations Manager,6510,4,3,No,Bajo,2,Doctorado
+475,Soporte,Técnico de Soporte,6860,17,3,Sí,Medio,4,Maestría
+476,Operations,Analista de Operaciones,3844,8,3,No,Bajo,4,Licenciatura
+477,TI,Data Engineer,11000,18,4,Sí,Medio,3,Doctorado
+478,Investigación,Research Analyst,4941,16,3,No,Bajo,5,Secundaria
+479,Ingeniería,Machine Learning Engineer,5645,13,3,No,Bajo,4,Licenciatura
+480,Ventas,Business Development,3809,4,4,No,Bajo,1,Licenciatura
+481,TI,Security Analyst,5418,18,5,Sí,Medio,4,Secundaria
+482,Legal,Senior Counsel,5872,15,3,No,Bajo,2,Licenciatura
+483,Marketing,Social Media Manager,5429,20,3,No,Bajo,2,Licenciatura
+484,Marketing,Especialista Digital,4180,10,4,No,Bajo,2,Licenciatura
+485,RRHH,Employee Relations Manager,4716,14,2,Sí,Alto,4,Licenciatura
+486,Marketing,Social Media Manager,6127,7,2,No,Medio,3,Maestría
+487,Operations,Analista de Operaciones,6117,15,2,No,Medio,4,Maestría
+488,Legal,IP Attorney,4340,14,5,No,Bajo,4,Secundaria
+489,RRHH,Talent Acquisition Lead,3515,5,5,Sí,Medio,4,Licenciatura
+490,TI,Security Analyst,3835,8,3,No,Bajo,3,Sin título formal
+491,Finanzas,Internal Auditor,5825,5,4,No,Bajo,4,Maestría
+492,Legal,Legal Secretary,9249,18,3,Sí,Medio,4,Maestría
+493,Finanzas,Treasury Analyst,7761,5,3,Sí,Medio,2,Doctorado
+494,Soporte,Escalation Engineer,4659,19,4,No,Bajo,5,Licenciatura
+495,Legal,Legal Secretary,11000,14,2,Sí,Alto,4,Doctorado
+496,Marketing,Brand Manager,5772,6,4,No,Bajo,3,Maestría
+497,Ingeniería,Platform Engineer,6750,7,4,Sí,Medio,4,Maestría
+498,Legal,Paralegal,9880,18,3,No,Bajo,4,Maestría
+499,Finanzas,Contador Senior,10727,13,3,No,Bajo,4,Doctorado
+500,Ingeniería,Platform Engineer,6220,20,5,No,Bajo,5,Licenciatura
+501,Soporte,Escalation Engineer,5091,7,4,Sí,Medio,3,Maestría
+502,RRHH,Workforce Planning Analyst,3705,2,3,No,Medio,3,Licenciatura
+503,RRHH,Talent Acquisition Lead,5670,1,1,No,Alto,5,Doctorado
+504,Operations,Supervisor de Operaciones,7348,20,4,No,Bajo,4,Maestría
+505,Soporte,Líder de Soporte,6003,11,4,Sí,Medio,3,Maestría
+506,Legal,Senior Counsel,5853,12,5,Sí,Medio,4,Licenciatura
+507,Soporte,Service Desk Analyst,5319,20,5,No,Bajo,1,Licenciatura
+508,Soporte,Technical Writer,4748,20,5,Sí,Medio,4,Licenciatura
+509,Soporte,Quality Assurance,6168,4,1,No,Medio,4,Doctorado
+510,Soporte,Escalation Engineer,6643,15,1,No,Medio,5,Maestría
+511,Marketing,Marketing Analyst,4350,4,4,Sí,Medio,4,Licenciatura
+512,Marketing,CMO,5837,7,5,No,Bajo,3,Maestría
+513,TI,Arquitecto de Software,6639,5,2,Sí,Alto,2,Maestría
+514,Finanzas,Cost Accountant,3887,8,3,No,Bajo,3,Secundaria
+515,TI,Security Analyst,5419,13,4,Sí,Medio,4,Licenciatura
+516,Operations,Supervisor de Operaciones,4812,3,5,No,Bajo,2,Maestría
+517,Finanzas,Revenue Analyst,5234,15,4,No,Bajo,4,Licenciatura
+518,RRHH,Compensation Analyst,7585,18,5,No,Bajo,3,Maestría
+519,Soporte,Técnico de Soporte,6567,18,4,Sí,Medio,4,Maestría
+520,Ventas,Sales Manager,4781,12,3,Sí,Medio,4,Licenciatura
+521,Legal,Paralegal,5490,8,4,No,Bajo,4,Licenciatura
+522,Legal,Compliance Officer,6991,3,4,No,Bajo,3,Maestría
+523,Marketing,Market Research Analyst,4865,11,2,No,Medio,4,Licenciatura
+524,Marketing,Marketing Analyst,4878,11,4,No,Bajo,3,Licenciatura
+525,Operations,Supply Chain Analyst,6615,14,3,Sí,Medio,4,Maestría
+526,TI,Database Administrator,8977,5,5,No,Bajo,3,Doctorado
+527,Soporte,Systems Administrator,3256,4,3,Sí,Medio,4,Licenciatura
+528,Legal,Paralegal,4670,3,5,Sí,Medio,4,Licenciatura
+529,Ingeniería,SRE Engineer,9343,19,4,Sí,Medio,5,Maestría
+530,Investigación,Research Analyst,4910,8,2,No,Medio,4,Licenciatura
+531,Ventas,Account Manager,3919,1,4,Sí,Medio,3,Licenciatura
+532,Legal,Paralegal,4719,6,4,Sí,Medio,4,Licenciatura
+533,Soporte,Técnico de Soporte,4669,16,1,Sí,Alto,3,Licenciatura
+534,Soporte,Quality Assurance,4425,15,1,Sí,Alto,4,Licenciatura
+535,Ventas,Sales Operations Analyst,2705,9,3,No,Medio,3,Sin título formal
+536,Operations,Analista de Operaciones,4194,13,4,Sí,Medio,3,Licenciatura
+537,Soporte,Technical Writer,6636,20,2,Sí,Alto,2,Maestría
+538,Finanzas,Financial Analyst,4541,6,4,No,Bajo,4,Licenciatura
+539,Marketing,Product Marketing Manager,5333,4,4,No,Bajo,4,Maestría
+540,TI,Administrador de Sistemas,4525,5,2,Sí,Alto,4,Licenciatura
+541,Operations,Logistics Coordinator,2896,9,5,Sí,Medio,4,Secundaria
+542,Finanzas,Analista Financiero,6128,20,5,No,Bajo,3,Licenciatura
+543,TI,Data Engineer,7306,6,5,No,Bajo,4,Maestría
+544,Ventas,Inside Sales Rep,4422,5,1,Sí,Alto,4,Licenciatura
+545,Legal,IP Attorney,5316,5,4,Sí,Medio,5,Licenciatura
+546,Legal,Senior Counsel,7393,3,4,No,Bajo,5,Maestría
+547,Legal,Abogado Corporativo,11000,14,4,No,Bajo,3,Doctorado
+548,Investigación,Laboratory Technician,6549,19,3,Sí,Medio,3,Licenciatura
+549,Marketing,Content Manager,5281,18,4,No,Bajo,1,Licenciatura
+550,Legal,Abogado Corporativo,6113,13,4,Sí,Medio,3,Licenciatura
+551,Soporte,Líder de Soporte,4644,19,4,No,Bajo,4,Licenciatura
+552,TI,Network Engineer,6839,18,3,No,Bajo,4,Licenciatura
+553,Investigación,Bioinformático,4492,19,2,No,Medio,5,Sin título formal
+554,Ventas,Sales Operations Analyst,3831,6,3,Sí,Medio,3,Licenciatura
+555,Soporte,Escalation Engineer,4178,2,4,Sí,Medio,4,Maestría
+556,Investigación,Lab Manager,4775,3,3,No,Bajo,2,Licenciatura
+557,Ingeniería,Platform Engineer,5498,13,5,No,Bajo,4,Licenciatura
+558,Investigación,Laboratory Technician,4596,17,3,No,Bajo,4,Secundaria
+559,Legal,Senior Counsel,9870,20,4,Sí,Medio,5,Maestría
+560,Ventas,Sales Manager,6548,12,3,No,Bajo,3,Maestría
+561,Ingeniería,Platform Engineer,6210,3,4,No,Bajo,3,Maestría
+562,Finanzas,Financial Analyst,6275,7,5,No,Bajo,4,Maestría
+563,Finanzas,CFO Adjunto,4039,4,2,Sí,Alto,4,Licenciatura
+564,Finanzas,Cost Accountant,8630,19,4,No,Bajo,5,Maestría
+565,Operations,Operations Manager,5719,11,5,No,Bajo,4,Maestría
+566,Finanzas,Analista Financiero,4193,8,4,Sí,Medio,3,Licenciatura
+567,Soporte,Escalation Engineer,5327,9,4,Sí,Medio,3,Maestría
+568,Legal,Paralegal,6244,12,5,Sí,Medio,3,Licenciatura
+569,Marketing,Social Media Manager,6218,8,3,Sí,Medio,3,Maestría
+570,Operations,Supply Chain Analyst,3382,4,5,Sí,Medio,4,Licenciatura
+571,Investigación,Lab Manager,5255,18,3,Sí,Medio,5,Secundaria
+572,Operations,Procurement Specialist,4521,17,3,No,Bajo,4,Licenciatura
+573,RRHH,Analista de RRHH,4793,14,3,No,Bajo,5,Licenciatura
+574,RRHH,Employee Relations Manager,3414,17,3,No,Medio,1,Sin título formal
+575,Marketing,Product Marketing Manager,6340,11,4,No,Bajo,3,Maestría
+576,Investigación,Lab Manager,4722,6,3,No,Bajo,3,Licenciatura
+577,Soporte,Service Desk Analyst,7085,9,4,No,Bajo,3,Doctorado
+578,Ventas,Sales Operations Analyst,4484,8,5,No,Bajo,3,Licenciatura
+579,RRHH,Employee Relations Manager,4618,6,5,No,Bajo,4,Maestría
+580,Soporte,Technical Writer,4584,18,3,Sí,Medio,4,Licenciatura
+581,Ingeniería,Full Stack Developer,8253,16,3,Sí,Medio,4,Maestría
+582,Finanzas,Treasury Analyst,3534,4,5,No,Bajo,5,Secundaria
+583,Marketing,Market Research Analyst,7789,18,3,Sí,Medio,4,Maestría
+584,Investigación,Científico de Datos,5337,10,4,No,Bajo,3,Licenciatura
+585,RRHH,Learning & Development Specialist,6052,11,5,No,Bajo,2,Maestría
+586,RRHH,HR Analyst,4135,11,4,No,Bajo,4,Licenciatura
+587,TI,Database Administrator,10444,12,1,No,Medio,4,Doctorado
+588,Finanzas,Analista Financiero,5450,13,2,Sí,Alto,5,Licenciatura
+589,Investigación,Lab Manager,4923,13,2,Sí,Alto,5,Secundaria
+590,TI,Database Administrator,5713,10,4,No,Bajo,3,Licenciatura
+591,RRHH,Analista de RRHH,3839,12,5,No,Bajo,5,Secundaria
+592,Legal,Compliance Officer,6484,18,4,Sí,Medio,3,Licenciatura
+593,Operations,Inventory Manager,5140,18,3,No,Bajo,2,Licenciatura
+594,Finanzas,Treasury Analyst,4241,5,1,No,Medio,4,Licenciatura
+595,RRHH,HR Analyst,4987,18,4,Sí,Medio,3,Licenciatura
+596,TI,Database Administrator,5857,1,3,No,Medio,5,Maestría
+597,TI,Security Analyst,5860,13,4,No,Bajo,4,Licenciatura
+598,Operations,Procurement Specialist,4971,18,3,No,Bajo,4,Licenciatura
+599,RRHH,Training Manager,4763,15,3,No,Bajo,1,Licenciatura
+600,Ingeniería,Machine Learning Engineer,4021,4,3,No,Bajo,4,Secundaria
+601,Ingeniería,Full Stack Developer,4210,1,4,No,Medio,4,Licenciatura
+602,Soporte,Technical Writer,4812,2,2,No,Alto,4,Maestría
+603,RRHH,Analista de RRHH,4439,13,5,Sí,Medio,3,Licenciatura
+604,TI,Administrador de Sistemas,5157,8,4,No,Bajo,3,Licenciatura
+605,Ingeniería,Full Stack Developer,4061,4,3,Sí,Medio,3,Licenciatura
+606,Ingeniería,Platform Engineer,11000,17,3,Sí,Medio,4,Doctorado
+607,Marketing,Marketing Analyst,7736,7,1,Sí,Alto,4,Doctorado
+608,Operations,Analista de Operaciones,4225,8,5,Sí,Medio,4,Licenciatura
+609,Investigación,Lab Manager,4574,3,4,Sí,Medio,5,Licenciatura
+610,Ingeniería,Desarrollador Junior,4739,5,2,Sí,Alto,3,Licenciatura
+611,Legal,IP Attorney,9352,15,4,Sí,Medio,3,Maestría
+612,Ingeniería,Software Architect,8894,18,4,No,Bajo,4,Maestría
+613,Operations,Logistics Coordinator,5895,11,5,No,Bajo,4,Maestría
+614,Ventas,Channel Sales Manager,5109,10,4,No,Bajo,3,Licenciatura
+615,Legal,Compliance Officer,6474,1,4,No,Medio,4,Maestría
+616,Legal,Compliance Officer,6256,16,4,Sí,Medio,3,Licenciatura
+617,Soporte,Líder de Soporte,3323,3,5,Sí,Medio,3,Licenciatura
+618,Investigación,Research Analyst,6348,19,4,No,Bajo,4,Licenciatura
+619,Operations,Procurement Specialist,3799,8,4,Sí,Medio,5,Secundaria
+620,Ventas,Business Development,5356,2,4,No,Medio,5,Maestría
+621,TI,Cloud Architect,5880,2,5,No,Medio,2,Maestría
+622,Marketing,Content Strategist,4165,8,3,No,Bajo,4,Licenciatura
+623,Marketing,Market Research Analyst,5769,6,4,No,Bajo,4,Maestría
+624,TI,Arquitecto de Software,4445,6,4,No,Bajo,4,Licenciatura
+625,Legal,Senior Counsel,4982,12,5,No,Bajo,3,Licenciatura
+626,TI,Cloud Architect,9105,19,3,Sí,Medio,4,Maestría
+627,Finanzas,Treasury Analyst,3908,15,3,No,Bajo,1,Sin título formal
+628,RRHH,Director de RRHH,3298,8,5,Sí,Medio,1,Secundaria
+629,Finanzas,Cost Accountant,6321,19,2,Sí,Alto,3,Licenciatura
+630,Operations,Warehouse Supervisor,4281,10,4,Sí,Medio,4,Licenciatura
+631,Marketing,Content Manager,6611,16,4,Sí,Medio,4,Maestría
+632,Ventas,Enterprise Sales Rep,5347,2,2,No,Alto,2,Maestría
+633,Soporte,Service Desk Analyst,7983,14,4,No,Bajo,4,Doctorado
+634,Operations,Supervisor de Operaciones,6190,13,3,Sí,Medio,2,Maestría
+635,Legal,Senior Counsel,6863,17,5,Sí,Medio,5,Licenciatura
+636,Operations,Distribution Manager,4841,14,4,No,Bajo,3,Licenciatura
+637,Soporte,Líder de Soporte,3130,2,3,No,Medio,4,Licenciatura
+638,RRHH,Employee Relations Manager,7332,16,4,No,Bajo,3,Maestría
+639,Operations,Distribution Manager,3478,3,5,No,Medio,2,Licenciatura
+640,TI,Security Analyst,4821,7,3,No,Bajo,4,Licenciatura
+641,Finanzas,CFO Adjunto,3993,20,5,No,Bajo,3,Sin título formal
+642,Soporte,Help Desk Analyst,4407,3,4,Sí,Medio,3,Maestría
+643,Operations,Logistics Coordinator,7305,10,3,Sí,Medio,3,Doctorado
+644,Soporte,Desktop Support,5594,7,4,Sí,Medio,4,Maestría
+645,Legal,Compliance Officer,6722,5,4,Sí,Medio,3,Maestría
+646,Ingeniería,QA Engineer,6897,20,2,No,Medio,4,Licenciatura
+647,Ingeniería,Desarrollador Senior,5150,9,5,No,Bajo,4,Licenciatura
+648,Marketing,Product Marketing Manager,3797,4,4,No,Bajo,4,Licenciatura
+649,Ventas,Sales Representative,5732,15,3,Sí,Medio,4,Licenciatura
+650,RRHH,Analista de RRHH,4690,12,4,No,Bajo,3,Licenciatura
+651,Legal,Legal Secretary,8363,9,1,No,Medio,4,Maestría
+652,Finanzas,Financial Analyst,5001,13,2,Sí,Alto,3,Licenciatura
+653,Operations,Warehouse Supervisor,4713,19,4,Sí,Medio,3,Licenciatura
+654,RRHH,HR Business Partner,7573,19,5,Sí,Medio,3,Maestría
+655,Legal,Paralegal,4874,5,5,Sí,Medio,2,Licenciatura
+656,Soporte,Help Desk Analyst,6002,11,5,No,Bajo,3,Maestría
+657,Finanzas,CFO Adjunto,6363,4,4,Sí,Medio,3,Maestría
+658,Operations,Warehouse Supervisor,6046,8,3,Sí,Medio,4,Maestría
+659,Investigación,Research Analyst,6539,20,5,No,Bajo,4,Licenciatura
+660,RRHH,Training Manager,3242,2,4,No,Medio,1,Licenciatura
+661,Finanzas,Controller,5287,7,5,Sí,Medio,5,Licenciatura
+662,Investigación,Bioinformático,9788,8,3,No,Bajo,2,Doctorado
+663,TI,Cloud Architect,6268,19,5,Sí,Medio,2,Licenciatura
+664,Marketing,Content Strategist,5151,2,4,No,Medio,4,Maestría
+665,Ingeniería,Full Stack Developer,5631,13,2,No,Medio,3,Licenciatura
+666,Ingeniería,Platform Engineer,4385,5,5,No,Bajo,3,Licenciatura
+667,Legal,Abogado Corporativo,6661,19,1,Sí,Alto,3,Licenciatura
+668,Marketing,Social Media Manager,4727,11,4,Sí,Medio,2,Licenciatura
+669,Ventas,Sales Operations Analyst,4468,12,4,Sí,Medio,4,Licenciatura
+670,RRHH,Compensation Analyst,4991,2,5,Sí,Medio,4,Maestría
+671,RRHH,Training Manager,7061,6,4,Sí,Medio,3,Doctorado
+672,RRHH,Recruiter,7597,7,4,Sí,Medio,3,Doctorado
+673,Investigación,Laboratory Technician,11000,18,3,Sí,Medio,4,Doctorado
+674,Investigación,Laboratory Technician,6388,20,3,Sí,Medio,4,Licenciatura
+675,Operations,Distribution Manager,5485,7,3,Sí,Medio,3,Maestría
+676,Ingeniería,Data Scientist,9293,20,3,No,Bajo,2,Maestría
+677,Ventas,Account Manager,2480,6,4,No,Medio,4,Sin título formal
+678,RRHH,Employee Relations Manager,6164,12,2,Sí,Alto,3,Maestría
+679,Soporte,Quality Assurance,5992,14,4,Sí,Medio,3,Maestría
+680,Legal,Compliance Officer,5449,7,2,Sí,Alto,4,Licenciatura
+681,Legal,Abogado Corporativo,6478,20,3,No,Bajo,4,Licenciatura
+682,Operations,Supply Chain Analyst,9618,20,4,No,Bajo,4,Doctorado
+683,Investigación,Research Analyst,9528,8,1,No,Medio,4,Doctorado
+684,Ventas,Sales Operations Analyst,10398,20,3,No,Bajo,3,Doctorado
+685,Legal,IP Attorney,5291,7,3,No,Bajo,4,Licenciatura
+686,Ingeniería,Desarrollador Senior,7760,11,4,No,Bajo,4,Maestría
+687,Ingeniería,DevOps Engineer,5817,11,4,No,Bajo,4,Licenciatura
+688,Investigación,Lab Manager,10852,15,5,No,Bajo,2,Doctorado
+689,Legal,Legal Secretary,8431,11,4,Sí,Medio,5,Maestría
+690,Soporte,Líder de Soporte,3032,9,3,Sí,Medio,3,Sin título formal
+691,Legal,Paralegal,8192,13,4,Sí,Medio,4,Maestría
+692,Soporte,Técnico de Soporte,2905,3,5,No,Medio,3,Licenciatura
+693,Finanzas,Financial Analyst,4485,6,3,Sí,Medio,2,Licenciatura
+694,Legal,Abogado Corporativo,9496,17,3,Sí,Medio,5,Maestría
+695,Legal,Legal Secretary,7497,5,4,Sí,Medio,3,Maestría
+696,Ingeniería,Software Architect,5442,17,1,Sí,Alto,5,Licenciatura
+697,Operations,Analista de Operaciones,2903,2,3,Sí,Alto,4,Licenciatura
+698,Finanzas,Financial Analyst,4602,7,3,No,Bajo,3,Licenciatura
+699,Investigación,Científico de Datos,5442,6,4,No,Bajo,2,Licenciatura
+700,Legal,Legal Secretary,8436,9,5,Sí,Medio,4,Maestría
+701,Operations,Warehouse Supervisor,4001,10,1,No,Medio,5,Licenciatura
+702,Ingeniería,Desarrollador Senior,4363,3,3,No,Bajo,4,Licenciatura
+703,Operations,Operations Manager,6045,10,4,No,Bajo,4,Maestría
+704,Investigación,Lab Manager,5556,15,3,Sí,Medio,4,Licenciatura
+705,Investigación,Laboratory Technician,5388,8,5,Sí,Medio,3,Licenciatura
+706,Soporte,Service Desk Analyst,2746,1,4,Sí,Alto,3,Licenciatura
+707,Investigación,Research Analyst,5311,12,4,Sí,Medio,2,Licenciatura
+708,Legal,IP Attorney,4535,10,3,No,Bajo,3,Secundaria
+709,Operations,Warehouse Supervisor,6848,16,4,No,Bajo,3,Maestría
+710,TI,Cloud Architect,7523,8,4,Sí,Medio,2,Maestría
+711,Operations,Operations Manager,4978,20,3,No,Bajo,3,Licenciatura
+712,TI,Arquitecto de Software,9721,20,3,No,Bajo,4,Maestría
+713,Ingeniería,Desarrollador Senior,4648,5,3,Sí,Medio,3,Licenciatura
+714,Operations,Operations Manager,3749,11,4,No,Bajo,5,Licenciatura
+715,Finanzas,Controller,7122,12,4,Sí,Medio,4,Maestría
+716,Finanzas,Contador Senior,5724,18,1,Sí,Alto,4,Licenciatura
+717,Soporte,Líder de Soporte,5326,1,4,Sí,Medio,4,Doctorado
+718,TI,Security Analyst,5249,7,4,Sí,Medio,3,Licenciatura
+719,TI,Cloud Architect,9417,5,2,No,Medio,2,Doctorado
+720,Ingeniería,DevOps Engineer,8503,16,5,No,Bajo,3,Maestría
+721,RRHH,Learning & Development Specialist,6651,15,3,No,Bajo,4,Maestría
+722,TI,Cloud Architect,5733,14,4,Sí,Medio,4,Licenciatura
+723,Marketing,Content Strategist,5364,18,4,No,Bajo,3,Licenciatura
+724,Operations,Operations Manager,2372,3,4,Sí,Medio,4,Sin título formal
+725,Finanzas,Internal Auditor,5826,17,4,Sí,Medio,4,Licenciatura
+726,Legal,Senior Counsel,5061,2,4,No,Medio,1,Licenciatura
+727,Investigación,Lab Manager,11000,19,4,No,Bajo,3,Doctorado
+728,Ingeniería,Platform Engineer,10081,10,2,No,Medio,3,Doctorado
+729,RRHH,Talent Acquisition Lead,3429,10,4,Sí,Medio,4,Secundaria
+730,Finanzas,Budget Analyst,5011,9,5,No,Bajo,1,Licenciatura
+731,Ventas,Enterprise Sales Rep,5339,19,3,Sí,Medio,4,Licenciatura
+732,Marketing,Social Media Manager,4937,17,3,Sí,Medio,2,Licenciatura
+733,RRHH,Talent Acquisition Lead,7107,5,3,No,Bajo,4,Doctorado
+734,RRHH,HR Business Partner,6150,12,4,Sí,Medio,4,Maestría
+735,Ventas,Ejecutivo de Ventas,4707,13,4,No,Bajo,4,Licenciatura
+736,TI,Security Analyst,5301,5,1,No,Medio,5,Licenciatura
+737,Investigación,Laboratory Technician,9211,17,3,Sí,Medio,4,Maestría
+738,Operations,Procurement Specialist,4213,9,3,Sí,Medio,4,Licenciatura
+739,Investigación,Research Analyst,8815,19,5,Sí,Medio,3,Maestría
+740,Ingeniería,Data Scientist,3453,3,3,Sí,Medio,4,Secundaria
+741,Investigación,Bioinformático,5392,10,2,No,Medio,5,Licenciatura
+742,Marketing,Market Research Analyst,5550,4,5,Sí,Medio,2,Maestría
+743,Operations,Logistics Coordinator,6781,6,2,No,Medio,3,Doctorado
+744,Finanzas,Controller,7739,11,2,No,Medio,2,Maestría
+745,Ingeniería,Frontend Developer,4493,2,3,No,Medio,4,Licenciatura
+746,Marketing,Market Research Analyst,5012,16,2,Sí,Alto,4,Licenciatura
+747,Marketing,Market Research Analyst,7198,15,4,No,Bajo,3,Maestría
+748,Investigación,Científico de Datos,8891,5,5,Sí,Medio,4,Doctorado
+749,Finanzas,CFO Adjunto,6937,13,4,Sí,Medio,3,Maestría
+750,Ventas,Channel Sales Manager,4796,13,2,No,Medio,4,Licenciatura
+751,Soporte,Service Desk Analyst,5397,13,2,Sí,Alto,4,Maestría
+752,Soporte,Líder de Soporte,6623,10,3,Sí,Medio,2,Doctorado
+753,TI,Network Engineer,5645,13,2,Sí,Alto,4,Licenciatura
+754,Marketing,Gerente de Marketing,2619,1,4,Sí,Alto,2,Secundaria
+755,Legal,IP Attorney,6791,18,3,No,Bajo,3,Licenciatura
+756,Ingeniería,Frontend Developer,6066,17,5,No,Bajo,5,Licenciatura
+757,Legal,Paralegal,7911,8,4,Sí,Medio,3,Maestría
+758,Operations,Supervisor de Operaciones,3661,5,3,Sí,Medio,2,Licenciatura
+759,Finanzas,Analista Financiero,4602,6,4,Sí,Medio,4,Licenciatura
+760,Marketing,Content Manager,6828,14,4,No,Bajo,5,Maestría
+761,TI,Cloud Architect,6257,19,3,Sí,Medio,2,Licenciatura
+762,RRHH,HR Analyst,4077,9,4,Sí,Medio,3,Secundaria
+763,Soporte,Escalation Engineer,4044,8,4,Sí,Medio,3,Licenciatura
+764,RRHH,Analista de RRHH,7125,3,1,Sí,Alto,5,Doctorado
+765,Operations,Procurement Specialist,4779,16,4,Sí,Medio,3,Licenciatura
+766,RRHH,Talent Acquisition Lead,8013,20,4,Sí,Medio,4,Maestría
+767,Ventas,Technical Pre-Sales,6166,10,3,No,Bajo,5,Maestría
+768,Ventas,Enterprise Sales Rep,5577,18,3,Sí,Medio,4,Licenciatura
+769,Marketing,Brand Manager,2761,4,4,Sí,Medio,3,Secundaria
+770,Ingeniería,Desarrollador Junior,6750,10,3,Sí,Medio,3,Maestría
+771,Investigación,Científico de Datos,4418,2,4,Sí,Medio,2,Licenciatura
+772,Marketing,Social Media Manager,6578,11,3,No,Bajo,4,Maestría
+773,Soporte,Desktop Support,6053,11,5,Sí,Medio,3,Maestría
+774,Marketing,Content Manager,5360,16,5,Sí,Medio,3,Licenciatura
+775,Operations,Operations Manager,4094,12,3,Sí,Medio,3,Licenciatura
+776,Soporte,Help Desk Analyst,3788,19,3,Sí,Medio,2,Secundaria
+777,Investigación,Laboratory Technician,5801,11,4,Sí,Medio,4,Licenciatura
+778,Operations,Logistics Coordinator,6663,18,2,Sí,Alto,4,Maestría
+779,Investigación,Research Analyst,8871,15,5,No,Bajo,3,Maestría
+780,TI,Network Engineer,11000,19,5,Sí,Medio,5,Doctorado
+781,TI,Administrador de Sistemas,4705,16,4,Sí,Medio,4,Secundaria
+782,Ventas,Business Development,3950,3,4,Sí,Medio,3,Licenciatura
+783,Marketing,Gerente de Marketing,4697,8,2,Sí,Alto,3,Licenciatura
+784,Operations,Supervisor de Operaciones,3177,15,5,Sí,Medio,3,Sin título formal
+785,Soporte,Technical Writer,4033,1,4,Sí,Medio,3,Maestría
+786,Finanzas,Revenue Analyst,6959,7,4,Sí,Medio,3,Maestría
+787,Ingeniería,Machine Learning Engineer,10385,12,4,Sí,Medio,3,Doctorado
+788,RRHH,Learning & Development Specialist,5361,3,2,Sí,Alto,3,Maestría
+789,Legal,Abogado Corporativo,9823,19,3,Sí,Medio,5,Maestría
+790,Legal,IP Attorney,4130,2,3,Sí,Medio,3,Licenciatura
+791,Legal,Senior Counsel,8976,16,4,No,Bajo,4,Maestría
+792,Ventas,Inside Sales Rep,9510,15,2,Sí,Alto,5,Doctorado
+793,Finanzas,Analista Financiero,4775,9,5,Sí,Medio,4,Licenciatura
+794,Ingeniería,QA Engineer,5866,18,4,Sí,Medio,3,Licenciatura
+795,Ingeniería,QA Engineer,4331,1,3,Sí,Medio,4,Licenciatura
+796,Soporte,Technical Writer,6105,17,3,No,Bajo,4,Maestría
+797,Finanzas,CFO Adjunto,6649,8,5,No,Bajo,3,Maestría
+798,Finanzas,Internal Auditor,4402,20,4,Sí,Medio,3,Sin título formal
+799,RRHH,Learning & Development Specialist,6315,6,4,Sí,Medio,3,Maestría
+800,Soporte,Help Desk Analyst,3794,2,5,No,Medio,3,Licenciatura
+801,Investigación,Lab Manager,4410,18,5,No,Bajo,4,Sin título formal
+802,Investigación,Bioinformático,6407,18,4,No,Bajo,3,Licenciatura
+803,Finanzas,Revenue Analyst,8558,19,4,No,Bajo,2,Maestría
+804,Legal,Abogado Corporativo,6206,13,3,Sí,Medio,2,Licenciatura
+805,Ingeniería,SRE Engineer,9128,19,3,Sí,Medio,2,Maestría
+806,Investigación,Científico de Datos,3434,13,4,Sí,Medio,4,Sin título formal
+807,Legal,Abogado Corporativo,11000,12,3,No,Bajo,3,Doctorado
+808,Finanzas,Treasury Analyst,6054,15,3,Sí,Medio,5,Licenciatura
+809,TI,IT Manager,6219,14,2,No,Medio,3,Licenciatura
+810,Investigación,Lab Manager,3394,3,2,No,Alto,3,Sin título formal
+811,Finanzas,Controller,5760,15,3,Sí,Medio,4,Licenciatura
+812,Finanzas,Revenue Analyst,6467,18,3,No,Bajo,4,Licenciatura
+813,RRHH,Director de RRHH,4561,16,3,Sí,Medio,4,Licenciatura
+814,Marketing,Especialista Digital,3835,9,5,No,Bajo,2,Licenciatura
+815,Soporte,Technical Writer,5944,9,3,No,Bajo,4,Maestría
+816,Ingeniería,QA Engineer,4177,2,3,Sí,Medio,5,Licenciatura
+817,RRHH,HR Analyst,3644,9,3,No,Bajo,3,Licenciatura
+818,Legal,IP Attorney,11000,17,4,Sí,Medio,3,Doctorado
+819,Ventas,Enterprise Sales Rep,8091,18,4,No,Bajo,3,Maestría
+820,Soporte,Líder de Soporte,5376,12,1,Sí,Alto,4,Maestría
+821,Soporte,Technical Writer,3582,6,5,Sí,Medio,4,Licenciatura
+822,Legal,Senior Counsel,9785,17,3,Sí,Medio,5,Maestría
+823,Ventas,Sales Representative,9513,16,4,No,Bajo,5,Doctorado
+824,Operations,Distribution Manager,6249,11,4,Sí,Medio,1,Maestría
+825,Ventas,Inside Sales Rep,3952,5,5,Sí,Medio,3,Licenciatura
+826,Ventas,Account Executive,4337,16,1,No,Medio,2,Secundaria
+827,Legal,Senior Counsel,4165,4,1,No,Medio,2,Secundaria
+828,Ventas,Enterprise Sales Rep,4303,7,4,Sí,Medio,1,Licenciatura
+829,RRHH,Director de RRHH,8586,12,4,No,Bajo,3,Doctorado
+830,Operations,Analista de Operaciones,5245,19,4,Sí,Medio,4,Licenciatura
+831,Finanzas,CFO Adjunto,11000,18,3,Sí,Medio,4,Doctorado
+832,Investigación,Bioinformático,6939,6,4,No,Bajo,2,Maestría
+833,Soporte,Quality Assurance,4068,17,3,Sí,Medio,3,Licenciatura
+834,Legal,Paralegal,6229,12,4,No,Bajo,2,Licenciatura
+835,Soporte,Technical Writer,3658,10,5,No,Bajo,3,Licenciatura
+836,Legal,Compliance Officer,6059,14,5,Sí,Medio,5,Licenciatura
+837,Investigación,Bioinformático,5822,16,4,Sí,Medio,2,Licenciatura
+838,TI,Security Analyst,6941,4,2,Sí,Alto,5,Maestría
+839,Soporte,Desktop Support,5941,13,4,Sí,Medio,4,Maestría
+840,Operations,Procurement Specialist,6569,13,4,No,Bajo,4,Maestría
+841,TI,IT Manager,5007,5,4,No,Bajo,4,Licenciatura
+842,RRHH,Analista de RRHH,3668,2,4,Sí,Medio,1,Licenciatura
+843,RRHH,Compensation Analyst,6181,11,4,Sí,Medio,4,Maestría
+844,Legal,Compliance Officer,7959,7,4,No,Bajo,4,Maestría
+845,Finanzas,Cost Accountant,6002,18,3,Sí,Medio,5,Licenciatura
+846,TI,IT Manager,5816,13,3,No,Bajo,2,Licenciatura
+847,Legal,IP Attorney,10401,10,4,Sí,Medio,4,Doctorado
+848,Ventas,Enterprise Sales Rep,7709,18,4,No,Bajo,4,Maestría
+849,Legal,Abogado Corporativo,6267,16,5,No,Bajo,3,Licenciatura
+850,Ingeniería,SRE Engineer,4192,12,4,No,Bajo,4,Secundaria
+851,Soporte,Quality Assurance,3959,12,3,No,Bajo,3,Licenciatura
+852,Finanzas,Revenue Analyst,4250,3,2,No,Medio,3,Licenciatura
+853,Legal,Legal Secretary,4922,14,4,No,Bajo,5,Secundaria
+854,TI,Security Analyst,5164,4,2,No,Medio,4,Licenciatura
+855,Soporte,Technical Writer,3743,11,3,Sí,Medio,4,Licenciatura
+856,Ventas,Channel Sales Manager,4257,9,3,Sí,Medio,4,Licenciatura
+857,Marketing,Market Research Analyst,5140,3,4,Sí,Medio,4,Maestría
+858,TI,Network Engineer,4447,3,4,No,Bajo,3,Licenciatura
+859,Legal,Legal Secretary,5848,13,4,No,Bajo,3,Licenciatura
+860,Ingeniería,Data Scientist,6552,6,3,No,Bajo,5,Maestría
+861,Investigación,Bioinformático,11000,18,2,No,Medio,3,Doctorado
+862,Investigación,Research Analyst,5176,10,3,No,Bajo,5,Licenciatura
+863,Ventas,Technical Pre-Sales,5163,14,3,No,Bajo,4,Licenciatura
+864,TI,Network Engineer,4695,7,3,Sí,Medio,4,Licenciatura
+865,Investigación,Laboratory Technician,8328,14,2,No,Medio,3,Maestría
+866,Finanzas,Budget Analyst,6424,6,5,Sí,Medio,4,Maestría
+867,Ingeniería,Desarrollador Junior,7664,3,5,No,Bajo,3,Doctorado
+868,Soporte,Líder de Soporte,3062,5,2,Sí,Alto,4,Licenciatura
+869,Ventas,Channel Sales Manager,7720,19,4,No,Bajo,4,Maestría
+870,Soporte,Service Desk Analyst,7683,13,5,Sí,Medio,3,Doctorado
+871,Ventas,Sales Representative,3943,9,2,No,Medio,4,Licenciatura
+872,Ventas,Regional Sales Director,7726,16,5,Sí,Medio,5,Maestría
+873,RRHH,HR Analyst,5298,12,4,No,Bajo,4,Licenciatura
+874,Ingeniería,Platform Engineer,9372,8,4,No,Bajo,3,Doctorado
+875,Soporte,Líder de Soporte,4767,8,3,No,Bajo,5,Maestría
+876,Finanzas,Budget Analyst,5198,8,3,No,Bajo,5,Licenciatura
+877,Investigación,Bioinformático,10873,14,4,Sí,Medio,4,Doctorado
+878,TI,Cloud Architect,6841,4,4,Sí,Medio,4,Maestría
+879,Soporte,Quality Assurance,6477,18,2,No,Medio,4,Maestría
+880,Investigación,Research Analyst,4018,7,3,No,Bajo,2,Secundaria
+881,RRHH,HR Business Partner,3893,5,4,No,Bajo,4,Licenciatura
+882,Finanzas,CFO Adjunto,7061,11,3,No,Bajo,3,Maestría
+883,RRHH,Compensation Analyst,9759,19,4,Sí,Medio,4,Doctorado
+884,Marketing,Content Manager,2854,7,4,No,Medio,3,Sin título formal
+885,TI,Security Analyst,7077,5,4,Sí,Medio,1,Maestría
+886,Legal,Compliance Officer,9015,15,2,No,Medio,4,Maestría
+887,Marketing,Brand Manager,5480,16,4,No,Bajo,5,Licenciatura
+888,Finanzas,Financial Analyst,5898,14,1,Sí,Alto,5,Licenciatura
+889,Marketing,Market Research Analyst,3878,8,2,No,Medio,3,Licenciatura
+890,Soporte,Quality Assurance,5692,13,4,No,Bajo,3,Maestría
+891,Ventas,Channel Sales Manager,3448,11,4,Sí,Medio,4,Secundaria
+892,Operations,Supervisor de Operaciones,3856,17,3,No,Bajo,3,Secundaria
+893,Soporte,Help Desk Analyst,2938,18,4,Sí,Medio,5,Sin título formal
+894,Investigación,Research Analyst,6123,17,2,No,Medio,2,Licenciatura
+895,Ingeniería,DevOps Engineer,5331,9,5,No,Bajo,4,Licenciatura
+896,Finanzas,Cost Accountant,4434,6,4,No,Bajo,4,Licenciatura
+897,RRHH,Workforce Planning Analyst,8991,15,3,Sí,Medio,3,Doctorado
+898,RRHH,Employee Relations Manager,5014,16,3,Sí,Medio,5,Licenciatura
+899,Legal,Compliance Officer,4995,4,5,Sí,Medio,3,Licenciatura
+900,RRHH,Workforce Planning Analyst,7551,19,4,Sí,Medio,5,Maestría
+901,Legal,Senior Counsel,4820,3,5,Sí,Medio,1,Licenciatura
+902,Ventas,Account Manager,3472,4,2,No,Alto,2,Licenciatura
+903,Investigación,Laboratory Technician,7450,9,4,Sí,Medio,3,Maestría
+904,Operations,Logistics Coordinator,3418,2,3,No,Medio,2,Licenciatura
+905,Ventas,Channel Sales Manager,3185,13,5,Sí,Medio,5,Sin título formal
+906,Ventas,Ejecutivo de Ventas,7781,6,4,No,Bajo,3,Doctorado
+907,RRHH,Recruiter,5057,14,3,No,Bajo,2,Licenciatura
+908,Soporte,Escalation Engineer,4082,15,4,No,Bajo,4,Licenciatura
+909,TI,Arquitecto de Software,7871,12,1,Sí,Alto,3,Maestría
+910,Investigación,Research Analyst,6912,5,4,No,Bajo,4,Maestría
+911,Ventas,Sales Manager,3546,3,4,No,Bajo,3,Licenciatura
+912,Marketing,Content Strategist,6206,19,4,Sí,Medio,5,Licenciatura
+913,Legal,Abogado Corporativo,5745,14,4,Sí,Medio,3,Licenciatura
+914,Operations,Analista de Operaciones,4740,1,4,Sí,Medio,3,Maestría
+915,RRHH,Compensation Analyst,3589,14,4,No,Bajo,3,Secundaria
+916,Finanzas,Treasury Analyst,3558,6,3,Sí,Medio,4,Sin título formal
+917,Operations,Procurement Specialist,6520,4,2,No,Medio,3,Doctorado
+918,Investigación,Laboratory Technician,9433,20,3,No,Bajo,4,Maestría
+919,Operations,Supply Chain Analyst,6393,13,3,No,Bajo,4,Maestría
+920,Marketing,Especialista Digital,4029,5,3,Sí,Medio,4,Licenciatura
+921,Legal,Paralegal,6282,15,2,Sí,Alto,3,Licenciatura
+922,Investigación,Laboratory Technician,5999,15,3,Sí,Medio,4,Licenciatura
+923,TI,Administrador de Sistemas,5282,4,4,No,Bajo,4,Licenciatura
+924,Legal,Legal Secretary,4790,13,4,No,Bajo,4,Secundaria
+925,Investigación,Research Analyst,8678,17,2,Sí,Alto,5,Maestría
+926,TI,IT Manager,6843,20,3,No,Bajo,3,Licenciatura
+927,RRHH,Director de RRHH,6700,16,4,No,Bajo,4,Maestría
+928,Operations,Operations Manager,4230,10,5,No,Bajo,4,Licenciatura
+929,Soporte,Technical Writer,4914,6,4,Sí,Medio,2,Maestría
+930,Marketing,Gerente de Marketing,5977,4,5,No,Bajo,4,Maestría
+931,Marketing,SEO Specialist,5254,1,2,No,Alto,4,Maestría
+932,Legal,Abogado Corporativo,8121,11,2,No,Medio,3,Maestría
+933,Legal,Paralegal,5881,11,4,No,Bajo,5,Licenciatura
+934,Legal,Senior Counsel,6114,2,4,No,Medio,5,Maestría
+935,Ventas,Account Executive,8039,20,2,Sí,Alto,4,Maestría
+936,Marketing,Marketing Analyst,4380,10,4,No,Bajo,4,Licenciatura
+937,Ventas,Sales Representative,6794,11,5,Sí,Medio,4,Maestría
+938,Ingeniería,Full Stack Developer,11000,16,3,No,Bajo,3,Doctorado
+939,Finanzas,Treasury Analyst,7655,14,4,No,Bajo,4,Maestría
+940,Marketing,Gerente de Marketing,6794,14,5,No,Bajo,5,Maestría
+941,Legal,IP Attorney,4532,1,4,No,Medio,5,Licenciatura
+942,Ventas,Regional Sales Director,4164,6,2,No,Medio,4,Licenciatura
+943,RRHH,Talent Acquisition Lead,3470,17,4,No,Medio,5,Secundaria
+944,Soporte,Service Desk Analyst,3326,9,4,Sí,Medio,3,Secundaria
+945,Marketing,Content Strategist,7637,20,4,No,Bajo,3,Maestría
+946,Marketing,Brand Manager,4689,18,3,No,Bajo,4,Licenciatura
+947,RRHH,Workforce Planning Analyst,3281,10,4,Sí,Medio,4,Sin título formal
+948,RRHH,Analista de RRHH,4306,18,3,No,Bajo,4,Secundaria
+949,TI,ERP Analyst,4430,2,2,No,Alto,4,Licenciatura
+950,Ventas,Business Development,3961,1,3,No,Medio,3,Licenciatura
+951,Operations,Distribution Manager,7119,8,4,No,Bajo,4,Doctorado
+952,RRHH,Compensation Analyst,4547,8,3,Sí,Medio,4,Licenciatura
+953,Soporte,Technical Writer,4318,14,5,No,Bajo,3,Licenciatura
+954,Investigación,Científico de Datos,6289,17,4,No,Bajo,4,Licenciatura
+955,TI,Database Administrator,8247,14,4,No,Bajo,3,Maestría
+956,RRHH,Training Manager,4245,16,2,No,Medio,4,Licenciatura
+957,Legal,Abogado Corporativo,9234,15,4,No,Bajo,5,Maestría
+958,Ventas,Enterprise Sales Rep,7316,4,3,Sí,Medio,3,Doctorado
+959,Legal,Paralegal,5574,10,4,No,Bajo,3,Licenciatura
+960,Operations,Inventory Manager,3603,10,3,No,Bajo,4,Secundaria
+961,Investigación,Científico de Datos,5831,12,4,Sí,Medio,4,Licenciatura
+962,Soporte,Quality Assurance,4533,20,4,Sí,Medio,4,Licenciatura
+963,Investigación,Laboratory Technician,7141,5,4,No,Bajo,3,Maestría
+964,TI,Cloud Architect,8924,15,4,No,Bajo,5,Maestría
+965,Ingeniería,SRE Engineer,7397,10,5,Sí,Medio,4,Maestría
+966,Ingeniería,SRE Engineer,5858,16,2,Sí,Alto,5,Licenciatura
+967,RRHH,Analista de RRHH,4298,7,4,Sí,Medio,2,Licenciatura
+968,Legal,Senior Counsel,6366,19,4,Sí,Medio,5,Licenciatura
+969,Soporte,Quality Assurance,2968,1,5,No,Medio,4,Licenciatura
+970,Finanzas,CFO Adjunto,4285,3,3,Sí,Medio,3,Licenciatura
+971,RRHH,Analista de RRHH,6420,11,3,Sí,Medio,3,Maestría
+972,TI,Cloud Architect,4722,4,3,Sí,Medio,4,Licenciatura
+973,Operations,Warehouse Supervisor,4982,17,3,No,Bajo,4,Licenciatura
+974,Ventas,Business Development,3398,8,3,Sí,Medio,5,Secundaria
+975,Ventas,Inside Sales Rep,5453,5,5,No,Bajo,4,Maestría
+976,RRHH,HR Analyst,5469,6,4,Sí,Medio,3,Maestría
+977,Legal,Compliance Officer,4971,15,2,No,Medio,5,Secundaria
+978,Finanzas,Revenue Analyst,5203,13,5,No,Bajo,3,Licenciatura
+979,Legal,Legal Secretary,5296,18,2,Sí,Alto,3,Secundaria
+980,Legal,Legal Secretary,10117,7,5,No,Bajo,5,Doctorado
+981,Finanzas,Internal Auditor,5306,11,3,No,Bajo,5,Licenciatura
+982,RRHH,Learning & Development Specialist,10615,20,1,No,Medio,1,Doctorado
+983,RRHH,Compensation Analyst,6517,16,4,No,Bajo,2,Maestría
+984,Ingeniería,Data Scientist,4383,4,5,No,Bajo,3,Licenciatura
+985,Operations,Supply Chain Analyst,2560,1,3,Sí,Alto,3,Licenciatura
+986,Ingeniería,QA Engineer,7983,12,2,Sí,Alto,4,Maestría
+987,Finanzas,Financial Analyst,6038,16,4,No,Bajo,4,Licenciatura
+988,Ingeniería,Full Stack Developer,3917,13,5,Sí,Medio,4,Sin título formal
+989,Investigación,Research Analyst,9407,19,2,Sí,Alto,3,Maestría
+990,Operations,Warehouse Supervisor,7492,9,5,Sí,Medio,1,Doctorado
+991,Legal,Senior Counsel,7054,18,4,No,Bajo,4,Licenciatura
+992,Soporte,Quality Assurance,7849,14,2,No,Medio,4,Doctorado
+993,Investigación,Bioinformático,5020,2,4,Sí,Medio,3,Licenciatura
+994,TI,Network Engineer,6789,19,5,Sí,Medio,3,Licenciatura
+995,TI,Arquitecto de Software,9386,7,4,Sí,Medio,1,Doctorado
+996,TI,Administrador de Sistemas,8075,11,3,No,Bajo,3,Maestría
+997,Soporte,Técnico de Soporte,6904,17,4,Sí,Medio,4,Maestría
+998,Investigación,Lab Manager,4198,2,3,Sí,Medio,5,Licenciatura
+999,Ventas,Sales Representative,3926,15,2,Sí,Alto,4,Secundaria
+1000,Legal,Abogado Corporativo,6480,13,2,No,Medio,4,Licenciatura
+1001,Marketing,Market Research Analyst,7519,20,3,Sí,Medio,4,Maestría
+1002,Ventas,Regional Sales Director,5247,1,4,No,Medio,4,Maestría
+1003,Ventas,Account Executive,3180,3,4,Sí,Medio,3,Secundaria
+1004,Investigación,Lab Manager,5033,8,4,Sí,Medio,2,Licenciatura
+1005,Finanzas,Revenue Analyst,4912,12,2,No,Medio,3,Licenciatura
+1006,Operations,Supply Chain Analyst,3057,1,2,Sí,Alto,4,Licenciatura
+1007,Legal,Abogado Corporativo,5166,7,2,Sí,Alto,3,Licenciatura
+1008,Investigación,Laboratory Technician,7692,11,4,No,Bajo,3,Maestría
+1009,RRHH,Recruiter,3529,2,3,No,Medio,3,Licenciatura
+1010,Operations,Warehouse Supervisor,4215,11,3,No,Bajo,3,Licenciatura
+1011,Ingeniería,Backend Developer,4223,12,3,Sí,Medio,4,Secundaria
+1012,Soporte,Técnico de Soporte,2412,7,3,Sí,Medio,3,Sin título formal
+1013,Finanzas,CFO Adjunto,5956,18,5,Sí,Medio,5,Licenciatura
+1014,Ingeniería,Data Scientist,4564,4,5,No,Bajo,3,Licenciatura
+1015,Marketing,Marketing Analyst,5862,6,2,No,Medio,5,Maestría
+1016,Marketing,SEO Specialist,6588,12,4,No,Bajo,5,Maestría
+1017,Marketing,Especialista Digital,7846,19,2,Sí,Alto,3,Maestría
+1018,Finanzas,CFO Adjunto,11000,19,3,No,Bajo,2,Doctorado
+1019,Investigación,Lab Manager,4993,17,4,No,Bajo,4,Secundaria
+1020,Investigación,Research Analyst,5185,12,4,No,Bajo,4,Licenciatura
+1021,Finanzas,Revenue Analyst,6214,19,3,Sí,Medio,3,Licenciatura
+1022,Marketing,Brand Manager,5382,13,5,Sí,Medio,3,Licenciatura
+1023,Legal,Abogado Corporativo,4506,3,4,No,Bajo,3,Licenciatura
+1024,Operations,Supply Chain Analyst,4663,15,3,No,Bajo,4,Licenciatura
+1025,Soporte,Systems Administrator,3554,6,3,No,Bajo,2,Licenciatura
+1026,Legal,Senior Counsel,7242,3,5,No,Bajo,2,Maestría
+1027,Ventas,Regional Sales Director,3476,7,3,No,Medio,4,Secundaria
+1028,Finanzas,Financial Analyst,6578,5,1,No,Medio,3,Maestría
+1029,Soporte,Quality Assurance,8320,19,4,Sí,Medio,3,Doctorado
+1030,TI,Network Engineer,5145,7,3,No,Bajo,4,Licenciatura
+1031,Legal,Compliance Officer,9130,15,3,No,Bajo,4,Maestría
+1032,TI,Network Engineer,6217,18,3,Sí,Medio,4,Licenciatura
+1033,RRHH,Director de RRHH,6571,1,3,No,Medio,3,Doctorado
+1034,TI,ERP Analyst,6066,19,4,Sí,Medio,2,Licenciatura
+1035,RRHH,Training Manager,3234,11,3,No,Medio,4,Sin título formal
+1036,Marketing,Social Media Manager,5360,19,4,No,Bajo,3,Licenciatura
+1037,RRHH,Recruiter,5794,6,1,Sí,Alto,3,Maestría
+1038,TI,Database Administrator,5098,10,3,Sí,Medio,3,Licenciatura
+1039,Ingeniería,DevOps Engineer,5796,14,4,No,Bajo,3,Licenciatura
+1040,Ventas,Account Manager,3025,7,5,Sí,Medio,3,Sin título formal
+1041,Investigación,Research Analyst,7214,10,3,Sí,Medio,1,Maestría
+1042,RRHH,Employee Relations Manager,3690,13,4,Sí,Medio,5,Secundaria
+1043,Investigación,Laboratory Technician,4232,2,3,Sí,Medio,4,Licenciatura
+1044,Finanzas,Controller,7092,6,3,No,Bajo,5,Maestría
+1045,TI,IT Manager,4388,6,3,Sí,Medio,5,Licenciatura
+1046,Finanzas,Cost Accountant,4646,3,5,Sí,Medio,3,Licenciatura
+1047,Legal,Abogado Corporativo,2749,3,3,Sí,Medio,3,Sin título formal
+1048,Marketing,Content Strategist,2812,1,4,Sí,Alto,4,Secundaria
+1049,Investigación,Laboratory Technician,5706,13,2,Sí,Alto,5,Licenciatura
+1050,Soporte,Technical Writer,3269,3,4,Sí,Medio,3,Licenciatura
+1051,Investigación,Research Analyst,5273,9,2,Sí,Alto,3,Licenciatura
+1052,Legal,IP Attorney,4819,3,4,Sí,Medio,3,Licenciatura
+1053,Soporte,Help Desk Analyst,3066,2,4,Sí,Alto,4,Licenciatura
+1054,Ventas,Account Manager,7283,15,4,Sí,Medio,2,Maestría
+1055,TI,Network Engineer,10625,12,1,Sí,Alto,1,Doctorado
+1056,Marketing,CMO,6127,8,4,Sí,Medio,4,Maestría
+1057,RRHH,Training Manager,4123,17,4,Sí,Medio,4,Secundaria
+1058,Legal,Compliance Officer,8857,4,3,Sí,Medio,3,Doctorado
+1059,RRHH,Analista de RRHH,4167,11,2,Sí,Alto,4,Licenciatura
+1060,Operations,Supply Chain Analyst,3262,7,3,No,Medio,4,Secundaria
+1061,Ventas,Sales Operations Analyst,7848,19,3,Sí,Medio,4,Maestría
+1062,TI,Data Engineer,5720,11,2,No,Medio,1,Licenciatura
+1063,Operations,Operations Manager,3951,8,5,Sí,Medio,3,Licenciatura
+1064,TI,Network Engineer,6773,2,3,Sí,Medio,3,Maestría
+1065,RRHH,Compensation Analyst,3884,2,5,Sí,Medio,4,Licenciatura
+1066,Soporte,Help Desk Analyst,2966,2,4,No,Medio,3,Licenciatura
+1067,Ingeniería,Full Stack Developer,9960,11,5,No,Bajo,4,Doctorado
+1068,Marketing,CMO,6449,8,4,No,Bajo,3,Maestría
+1069,Ingeniería,Desarrollador Senior,9031,3,5,Sí,Medio,2,Doctorado
+1070,RRHH,Talent Acquisition Lead,6047,7,4,Sí,Medio,3,Maestría
+1071,Investigación,Bioinformático,4634,7,3,Sí,Medio,4,Licenciatura
+1072,Marketing,Brand Manager,9616,16,5,Sí,Medio,3,Doctorado
+1073,TI,Data Engineer,6000,14,4,No,Bajo,1,Licenciatura
+1074,TI,Security Analyst,9586,10,4,Sí,Medio,3,Doctorado
+1075,TI,IT Manager,5142,10,3,No,Bajo,4,Licenciatura
+1076,Marketing,Gerente de Marketing,6430,1,5,Sí,Medio,4,Doctorado
+1077,Soporte,Technical Writer,4509,14,4,No,Bajo,4,Licenciatura
+1078,Operations,Analista de Operaciones,3286,2,3,Sí,Alto,4,Licenciatura
+1079,Marketing,Product Marketing Manager,3009,12,2,No,Alto,3,Sin título formal
+1080,TI,Network Engineer,4236,2,4,No,Medio,4,Licenciatura
+1081,RRHH,Director de RRHH,5469,5,4,No,Bajo,3,Maestría
+1082,Ventas,Account Executive,7344,13,4,No,Bajo,5,Maestría
+1083,Ventas,Channel Sales Manager,9340,14,3,Sí,Medio,5,Doctorado
+1084,TI,Database Administrator,6339,3,4,Sí,Medio,4,Maestría
+1085,Soporte,Help Desk Analyst,3589,7,2,No,Medio,4,Licenciatura
+1086,Ventas,Account Executive,7068,14,4,No,Bajo,4,Maestría
+1087,RRHH,Training Manager,3470,5,2,Sí,Alto,4,Licenciatura
+1088,Marketing,Gerente de Marketing,4078,6,3,Sí,Medio,5,Licenciatura
+1089,TI,IT Manager,9722,20,3,Sí,Medio,3,Maestría
+1090,Finanzas,Analista Financiero,5911,19,4,Sí,Medio,4,Licenciatura
+1091,Ventas,Ejecutivo de Ventas,3183,1,1,Sí,Alto,4,Secundaria
+1092,Finanzas,Internal Auditor,5329,11,3,No,Bajo,4,Licenciatura
+1093,Soporte,Service Desk Analyst,5706,12,3,No,Bajo,3,Maestría
+1094,Ventas,Ejecutivo de Ventas,4936,13,1,Sí,Alto,2,Licenciatura
+1095,Legal,Legal Secretary,3284,8,5,No,Medio,4,Sin título formal
+1096,Marketing,Especialista Digital,3264,11,4,Sí,Medio,5,Sin título formal
+1097,Soporte,Technical Writer,4367,16,3,No,Bajo,5,Licenciatura
+1098,Investigación,Científico de Datos,7138,10,4,Sí,Medio,5,Maestría
+1099,Operations,Distribution Manager,3587,16,4,Sí,Medio,5,Secundaria
+1100,RRHH,Employee Relations Manager,3800,16,3,Sí,Medio,3,Sin título formal
+1101,Ventas,Account Executive,3846,1,3,Sí,Medio,3,Licenciatura
+1102,Finanzas,Internal Auditor,2842,4,5,Sí,Medio,4,Sin título formal
+1103,Investigación,Científico de Datos,8312,11,4,Sí,Medio,4,Maestría
+1104,TI,Security Analyst,9027,18,4,No,Bajo,3,Maestría
+1105,Ventas,Sales Manager,3773,3,4,No,Bajo,2,Licenciatura
+1106,Soporte,Help Desk Analyst,6975,13,3,Sí,Medio,4,Doctorado
+1107,Marketing,Product Marketing Manager,3334,11,2,No,Alto,4,Sin título formal
+1108,Operations,Warehouse Supervisor,2576,1,3,No,Medio,4,Licenciatura
+1109,Finanzas,Financial Analyst,5447,15,4,Sí,Medio,4,Licenciatura
+1110,Ingeniería,SRE Engineer,5977,17,3,Sí,Medio,4,Licenciatura
+1111,Operations,Operations Manager,5243,7,2,No,Medio,4,Maestría
+1112,RRHH,HR Business Partner,8412,8,5,Sí,Medio,4,Doctorado
+1113,Investigación,Laboratory Technician,4613,6,4,Sí,Medio,5,Licenciatura
+1114,TI,Security Analyst,4287,10,4,No,Bajo,3,Secundaria
+1115,Legal,Compliance Officer,6096,11,3,Sí,Medio,3,Licenciatura
+1116,RRHH,Employee Relations Manager,5793,10,3,Sí,Medio,4,Maestría
+1117,Marketing,CMO,3918,19,2,Sí,Alto,5,Secundaria
+1118,TI,Data Engineer,7929,4,5,No,Bajo,3,Doctorado
+1119,Ingeniería,Desarrollador Senior,4085,11,3,No,Bajo,2,Sin título formal
+1120,Marketing,Product Marketing Manager,5408,20,4,Sí,Medio,3,Licenciatura
+1121,Ventas,Business Development,8816,13,1,No,Medio,2,Doctorado
+1122,Ventas,Business Development,7309,17,1,Sí,Alto,4,Maestría
+1123,Operations,Operations Manager,2528,4,4,Sí,Medio,3,Licenciatura
+1124,RRHH,Recruiter,6014,18,3,Sí,Medio,4,Licenciatura
+1125,TI,ERP Analyst,9586,17,4,No,Bajo,4,Maestría
+1126,Ventas,Inside Sales Rep,2911,4,5,Sí,Medio,4,Sin título formal
+1127,Ingeniería,Machine Learning Engineer,5734,11,4,Sí,Medio,2,Licenciatura
+1128,Finanzas,Contador Senior,4408,4,3,No,Bajo,4,Licenciatura
+1129,TI,Administrador de Sistemas,4276,2,4,No,Medio,4,Licenciatura
+1130,Legal,Legal Secretary,9164,17,4,Sí,Medio,4,Maestría
+1131,Ingeniería,Full Stack Developer,3832,5,2,No,Medio,4,Secundaria
+1132,Operations,Supply Chain Analyst,4876,20,2,No,Medio,3,Licenciatura
+1133,TI,Data Engineer,4261,3,2,No,Medio,3,Licenciatura
+1134,Finanzas,Financial Analyst,7997,19,3,Sí,Medio,3,Maestría
+1135,TI,Security Analyst,5513,20,2,Sí,Alto,4,Secundaria
+1136,Ventas,Regional Sales Director,6872,12,4,No,Bajo,3,Maestría
+1137,Marketing,Brand Manager,3712,13,5,Sí,Medio,3,Secundaria
+1138,Finanzas,Revenue Analyst,8238,16,4,Sí,Medio,4,Maestría
+1139,Finanzas,Cost Accountant,4659,4,3,Sí,Medio,3,Licenciatura
+1140,Legal,Senior Counsel,9325,13,4,No,Bajo,3,Maestría
+1141,Legal,IP Attorney,4677,5,2,Sí,Alto,4,Licenciatura
+1142,Soporte,Desktop Support,6373,14,3,No,Bajo,5,Maestría
+1143,Investigación,Lab Manager,5663,14,5,Sí,Medio,3,Licenciatura
+1144,Soporte,Líder de Soporte,5190,3,5,Sí,Medio,3,Maestría
+1145,Ingeniería,Desarrollador Senior,8871,18,5,No,Bajo,4,Maestría
+1146,RRHH,Employee Relations Manager,5079,18,3,Sí,Medio,4,Licenciatura
+1147,Ingeniería,Platform Engineer,6216,18,5,No,Bajo,4,Licenciatura
+1148,Legal,IP Attorney,10491,20,5,No,Bajo,4,Maestría
+1149,Legal,Paralegal,5212,12,3,Sí,Medio,3,Licenciatura
+1150,Soporte,Líder de Soporte,3625,8,3,Sí,Medio,4,Licenciatura
+1151,Finanzas,Financial Analyst,4888,19,5,No,Bajo,4,Secundaria
+1152,Ingeniería,Software Architect,11000,16,3,Sí,Medio,4,Doctorado
+1153,Soporte,Systems Administrator,3213,1,3,No,Medio,2,Licenciatura
+1154,Investigación,Research Analyst,6114,17,3,Sí,Medio,5,Licenciatura
+1155,Ingeniería,DevOps Engineer,7017,9,3,Sí,Medio,5,Maestría
+1156,Legal,Legal Secretary,6397,15,2,No,Medio,3,Licenciatura
+1157,TI,Administrador de Sistemas,5114,7,3,Sí,Medio,4,Licenciatura
+1158,Ingeniería,DevOps Engineer,8590,16,2,No,Medio,4,Maestría
+1159,Investigación,Research Analyst,6252,13,4,No,Bajo,2,Licenciatura
+1160,Soporte,Escalation Engineer,3506,8,4,Sí,Medio,3,Secundaria
+1161,Operations,Supervisor de Operaciones,3589,10,3,No,Bajo,3,Licenciatura
+1162,Legal,Paralegal,4945,4,5,No,Bajo,3,Licenciatura
+1163,TI,Network Engineer,4926,4,4,Sí,Medio,3,Licenciatura
+1164,Ventas,Sales Representative,4991,9,5,Sí,Medio,3,Licenciatura
+1165,Operations,Warehouse Supervisor,3125,2,4,No,Medio,3,Licenciatura
+1166,Soporte,Quality Assurance,4633,17,4,No,Bajo,3,Licenciatura
+1167,Finanzas,Treasury Analyst,5248,12,3,No,Bajo,1,Licenciatura
+1168,Soporte,Desktop Support,4415,9,3,Sí,Medio,3,Licenciatura
+1169,Investigación,Bioinformático,4404,4,4,Sí,Medio,3,Licenciatura
+1170,Soporte,Service Desk Analyst,6275,19,3,No,Bajo,3,Maestría
+1171,Operations,Inventory Manager,3248,4,1,Sí,Alto,5,Licenciatura
+1172,Marketing,SEO Specialist,5192,4,5,Sí,Medio,4,Maestría
+1173,Finanzas,Internal Auditor,3383,7,4,Sí,Medio,3,Sin título formal
+1174,Legal,Legal Secretary,11000,15,5,Sí,Medio,2,Doctorado
+1175,TI,ERP Analyst,11000,17,5,Sí,Medio,3,Doctorado
+1176,Operations,Supervisor de Operaciones,5653,7,4,No,Bajo,4,Maestría
+1177,Legal,Abogado Corporativo,6331,17,4,No,Bajo,3,Licenciatura
+1178,Ingeniería,DevOps Engineer,8913,19,5,Sí,Medio,4,Maestría
+1179,Investigación,Lab Manager,8839,17,4,No,Bajo,4,Maestría
+1180,RRHH,HR Business Partner,3498,8,1,No,Alto,3,Secundaria
+1181,Finanzas,CFO Adjunto,4287,2,2,Sí,Alto,4,Licenciatura
+1182,Operations,Supply Chain Analyst,4837,18,4,No,Bajo,3,Licenciatura
+1183,Operations,Procurement Specialist,3434,2,5,Sí,Alto,3,Licenciatura
+1184,Ingeniería,Machine Learning Engineer,8839,19,4,Sí,Medio,4,Maestría
+1185,Finanzas,Revenue Analyst,7884,15,4,Sí,Medio,4,Maestría
+1186,TI,Data Engineer,6145,14,2,No,Medio,3,Licenciatura
+1187,Investigación,Research Analyst,4222,6,3,Sí,Medio,3,Licenciatura
+1188,Finanzas,CFO Adjunto,9634,13,2,Sí,Alto,2,Doctorado
+1189,Marketing,Social Media Manager,8828,13,4,Sí,Medio,1,Doctorado
+1190,Ventas,Account Manager,3759,4,4,Sí,Medio,4,Licenciatura
+1191,Ingeniería,DevOps Engineer,4651,3,1,No,Medio,5,Licenciatura
+1192,Ventas,Channel Sales Manager,6979,11,3,Sí,Medio,4,Maestría
+1193,Operations,Operations Manager,5628,10,4,No,Bajo,3,Maestría
+1194,Legal,Abogado Corporativo,3740,2,4,Sí,Medio,2,Secundaria
+1195,TI,Data Engineer,4210,8,3,Sí,Medio,3,Secundaria
+1196,TI,Arquitecto de Software,4997,4,2,Sí,Alto,5,Licenciatura
+1197,Soporte,Líder de Soporte,5357,4,5,No,Bajo,4,Maestría
+1198,RRHH,Compensation Analyst,7288,20,4,Sí,Medio,3,Maestría
+1199,Finanzas,Revenue Analyst,7433,12,3,Sí,Medio,3,Maestría
+1200,Ventas,Ejecutivo de Ventas,7825,5,3,Sí,Medio,3,Doctorado
+1201,Investigación,Científico de Datos,6027,14,2,No,Medio,4,Licenciatura
+1202,Soporte,Service Desk Analyst,4612,16,4,No,Bajo,4,Licenciatura
+1203,RRHH,Learning & Development Specialist,8228,13,4,No,Bajo,4,Doctorado
+1204,Marketing,Product Marketing Manager,4757,14,4,Sí,Medio,3,Licenciatura
+1205,Ingeniería,Full Stack Developer,2200,1,5,No,Medio,2,Sin título formal
+1206,Soporte,Service Desk Analyst,6083,5,3,No,Bajo,4,Doctorado
+1207,Legal,Compliance Officer,5422,8,4,Sí,Medio,3,Licenciatura
+1208,Ingeniería,Platform Engineer,3604,12,4,Sí,Medio,4,Sin título formal
+1209,Ventas,Business Development,7770,6,3,Sí,Medio,1,Doctorado
+1210,TI,Data Engineer,9012,16,4,Sí,Medio,4,Maestría
+1211,Finanzas,Internal Auditor,5211,11,3,No,Bajo,3,Licenciatura
+1212,Ingeniería,SRE Engineer,8229,17,1,Sí,Alto,4,Maestría
+1213,Investigación,Lab Manager,7413,9,2,No,Medio,5,Maestría
+1214,Legal,Compliance Officer,3145,5,3,Sí,Medio,2,Sin título formal
+1215,TI,Data Engineer,9377,18,3,Sí,Medio,4,Maestría
+1216,TI,Data Engineer,4261,12,3,No,Bajo,2,Secundaria
+1217,Ventas,Regional Sales Director,6662,11,2,Sí,Alto,3,Maestría
+1218,Ingeniería,QA Engineer,5049,7,3,Sí,Medio,2,Licenciatura
+1219,Operations,Supervisor de Operaciones,6787,16,3,Sí,Medio,5,Maestría
+1220,Finanzas,Controller,5160,11,4,No,Bajo,5,Licenciatura
+1221,Ventas,Regional Sales Director,4767,17,1,Sí,Alto,4,Licenciatura
+1222,Investigación,Lab Manager,8123,2,2,No,Alto,4,Doctorado
+1223,Ventas,Technical Pre-Sales,4494,8,4,Sí,Medio,3,Licenciatura
+1224,Legal,Senior Counsel,4391,20,3,No,Bajo,3,Sin título formal
+1225,Finanzas,Treasury Analyst,8210,14,3,Sí,Medio,3,Maestría
+1226,Operations,Analista de Operaciones,3063,19,2,No,Alto,1,Sin título formal
+1227,Finanzas,Cost Accountant,8010,3,5,No,Bajo,3,Doctorado
+1228,Finanzas,Revenue Analyst,4342,3,3,Sí,Medio,4,Licenciatura
+1229,Finanzas,Internal Auditor,4572,15,4,Sí,Medio,3,Sin título formal
+1230,Finanzas,Controller,5864,20,3,Sí,Medio,4,Licenciatura
+1231,Operations,Supply Chain Analyst,4424,14,4,No,Bajo,4,Licenciatura
+1232,Ingeniería,Platform Engineer,9465,18,2,Sí,Alto,2,Maestría
+1233,TI,Data Engineer,6285,3,2,Sí,Alto,3,Maestría
+1234,Legal,Compliance Officer,5378,6,5,Sí,Medio,5,Licenciatura
+1235,TI,Network Engineer,4354,3,3,No,Bajo,4,Licenciatura
+1236,Ventas,Sales Manager,5732,18,5,Sí,Medio,3,Licenciatura
+1237,Marketing,Marketing Analyst,8344,20,4,No,Bajo,5,Maestría
+1238,Marketing,Especialista Digital,3741,1,3,No,Medio,4,Licenciatura
+1239,Ventas,Sales Representative,3750,13,5,Sí,Medio,4,Secundaria
+1240,Finanzas,CFO Adjunto,8245,3,3,No,Bajo,4,Doctorado
+1241,RRHH,HR Business Partner,4269,14,2,No,Medio,4,Licenciatura
+1242,Soporte,Quality Assurance,6615,18,2,Sí,Alto,4,Maestría
+1243,Operations,Logistics Coordinator,4384,11,2,Sí,Alto,5,Licenciatura
+1244,Ventas,Technical Pre-Sales,5555,17,5,Sí,Medio,5,Licenciatura
+1245,RRHH,Learning & Development Specialist,5704,19,3,Sí,Medio,4,Licenciatura
+1246,RRHH,Talent Acquisition Lead,4635,12,5,Sí,Medio,5,Licenciatura
+1247,Operations,Supervisor de Operaciones,4202,12,4,Sí,Medio,2,Licenciatura
+1248,Investigación,Laboratory Technician,5860,12,5,No,Bajo,3,Licenciatura
+1249,Soporte,Líder de Soporte,7745,15,2,No,Medio,3,Doctorado
+1250,Finanzas,Controller,9072,20,5,Sí,Medio,4,Maestría
+1251,Ventas,Account Executive,8397,20,4,No,Bajo,4,Maestría
+1252,Investigación,Lab Manager,6557,2,5,No,Medio,3,Maestría
+1253,Investigación,Lab Manager,5263,7,4,No,Bajo,3,Licenciatura
+1254,TI,Administrador de Sistemas,9587,8,3,No,Bajo,4,Doctorado
+1255,Finanzas,Controller,5733,1,4,No,Medio,4,Maestría
+1256,Legal,IP Attorney,8327,11,5,Sí,Medio,5,Maestría
+1257,Marketing,Content Strategist,3101,7,4,No,Medio,2,Sin título formal
+1258,TI,Data Engineer,5111,11,3,Sí,Medio,2,Licenciatura
+1259,RRHH,Workforce Planning Analyst,5453,19,3,No,Bajo,4,Licenciatura
+1260,Soporte,Desktop Support,2713,1,1,No,Alto,4,Licenciatura
+1261,RRHH,Analista de RRHH,7254,18,4,Sí,Medio,5,Maestría
+1262,Soporte,Help Desk Analyst,3659,8,3,No,Bajo,4,Licenciatura
+1263,TI,Database Administrator,8007,9,4,Sí,Medio,4,Maestría
+1264,Ventas,Account Executive,5433,20,2,Sí,Alto,3,Licenciatura
+1265,RRHH,Recruiter,3348,12,1,Sí,Alto,2,Secundaria
+1266,Ventas,Inside Sales Rep,7171,13,4,No,Bajo,3,Maestría
+1267,RRHH,Training Manager,4127,6,3,Sí,Medio,5,Licenciatura
+1268,Operations,Distribution Manager,3990,17,5,No,Bajo,3,Secundaria
+1269,Ingeniería,Machine Learning Engineer,4922,17,5,Sí,Medio,1,Secundaria
+1270,RRHH,HR Business Partner,4103,5,3,No,Bajo,3,Licenciatura
+1271,Ventas,Regional Sales Director,6489,10,4,No,Bajo,3,Maestría
+1272,Marketing,Brand Manager,4005,9,2,No,Medio,4,Licenciatura
+1273,Operations,Procurement Specialist,3513,7,4,No,Bajo,3,Licenciatura
+1274,Soporte,Líder de Soporte,6167,14,4,Sí,Medio,3,Maestría
+1275,Ventas,Business Development,3496,2,5,No,Medio,4,Licenciatura
+1276,Legal,Legal Secretary,4770,4,4,Sí,Medio,3,Licenciatura
+1277,RRHH,HR Analyst,3661,7,2,No,Medio,3,Licenciatura
+1278,Ingeniería,Platform Engineer,6212,15,5,No,Bajo,4,Licenciatura
+1279,TI,Database Administrator,9253,17,4,Sí,Medio,5,Maestría
+1280,Ventas,Enterprise Sales Rep,9376,14,3,No,Bajo,3,Doctorado
+1281,Marketing,Especialista Digital,7565,16,2,Sí,Alto,3,Maestría
+1282,Soporte,Quality Assurance,3045,1,1,No,Alto,4,Licenciatura
+1283,Operations,Supervisor de Operaciones,7771,10,5,Sí,Medio,5,Doctorado
+1284,Ingeniería,Backend Developer,6012,3,2,No,Medio,4,Maestría
+1285,Finanzas,Budget Analyst,5690,12,4,No,Bajo,2,Licenciatura
+1286,Finanzas,Internal Auditor,4561,4,5,No,Bajo,2,Licenciatura
+1287,Marketing,Especialista Digital,6231,5,4,Sí,Medio,3,Maestría
+1288,Ventas,Inside Sales Rep,6776,12,5,Sí,Medio,5,Maestría
+1289,Finanzas,Contador Senior,4966,10,4,Sí,Medio,3,Licenciatura
+1290,RRHH,Training Manager,5776,4,3,Sí,Medio,3,Maestría
+1291,Operations,Inventory Manager,4650,4,5,Sí,Medio,3,Maestría
+1292,Investigación,Research Analyst,5162,10,3,Sí,Medio,4,Licenciatura
+1293,Marketing,CMO,6241,7,3,Sí,Medio,4,Maestría
+1294,Investigación,Laboratory Technician,4785,4,3,No,Bajo,4,Licenciatura
+1295,Legal,Senior Counsel,10236,10,2,No,Medio,3,Doctorado
+1296,Soporte,Quality Assurance,2782,20,4,Sí,Medio,3,Sin título formal
+1297,Finanzas,Controller,5374,10,4,Sí,Medio,3,Licenciatura
+1298,Investigación,Research Analyst,6602,16,3,No,Bajo,2,Licenciatura
+1299,Legal,Abogado Corporativo,5040,7,3,Sí,Medio,3,Licenciatura
+1300,Soporte,Líder de Soporte,3500,13,3,No,Bajo,3,Secundaria
+1301,RRHH,Talent Acquisition Lead,5177,20,1,No,Medio,3,Licenciatura
+1302,Ventas,Inside Sales Rep,3693,2,3,No,Medio,4,Licenciatura
+1303,Finanzas,Financial Analyst,9773,13,5,No,Bajo,4,Doctorado
+1304,Investigación,Research Analyst,5129,7,4,No,Bajo,4,Licenciatura
+1305,Finanzas,Contador Senior,5773,17,4,No,Bajo,3,Licenciatura
+1306,Ventas,Sales Representative,4489,15,5,Sí,Medio,4,Licenciatura
+1307,TI,Cloud Architect,4509,9,1,Sí,Alto,3,Secundaria
+1308,Investigación,Lab Manager,4542,8,2,No,Medio,4,Secundaria
+1309,Operations,Procurement Specialist,8850,17,2,Sí,Alto,4,Doctorado
+1310,Soporte,Technical Writer,3528,12,4,No,Bajo,3,Licenciatura
+1311,Investigación,Científico de Datos,8072,10,5,No,Bajo,5,Maestría
+1312,Operations,Operations Manager,4430,17,2,Sí,Alto,3,Licenciatura
+1313,Marketing,CMO,3585,12,4,No,Bajo,3,Sin título formal
+1314,Marketing,Content Manager,4844,13,5,Sí,Medio,5,Licenciatura
+1315,Legal,Compliance Officer,4487,17,5,Sí,Medio,3,Sin título formal
+1316,TI,Database Administrator,4902,2,5,No,Medio,2,Licenciatura
+1317,Investigación,Lab Manager,3881,12,5,No,Bajo,3,Sin título formal
+1318,RRHH,Workforce Planning Analyst,3673,20,3,Sí,Medio,3,Sin título formal
+1319,Finanzas,Contador Senior,4729,7,4,No,Bajo,1,Licenciatura
+1320,Soporte,Técnico de Soporte,2600,5,5,No,Medio,4,Secundaria
+1321,Legal,IP Attorney,5074,18,2,Sí,Alto,4,Sin título formal
+1322,TI,Arquitecto de Software,4316,2,5,No,Medio,3,Licenciatura
+1323,TI,Security Analyst,5059,4,3,No,Bajo,3,Licenciatura
+1324,Soporte,Help Desk Analyst,4948,7,2,No,Medio,4,Maestría
+1325,Finanzas,Budget Analyst,5765,19,5,No,Bajo,3,Licenciatura
+1326,RRHH,Workforce Planning Analyst,4340,11,3,No,Bajo,3,Licenciatura
+1327,TI,Security Analyst,6770,18,4,Sí,Medio,4,Licenciatura
+1328,Finanzas,Financial Analyst,7397,12,4,Sí,Medio,5,Maestría
+1329,Finanzas,Contador Senior,7618,13,4,Sí,Medio,5,Maestría
+1330,Investigación,Científico de Datos,5264,9,3,Sí,Medio,2,Licenciatura
+1331,Finanzas,Revenue Analyst,5408,11,4,Sí,Medio,4,Licenciatura
+1332,Marketing,Content Strategist,5351,16,3,Sí,Medio,4,Licenciatura
+1333,RRHH,Director de RRHH,4749,1,2,No,Alto,3,Maestría
+1334,Ventas,Channel Sales Manager,4094,7,4,Sí,Medio,4,Licenciatura
+1335,Investigación,Laboratory Technician,2995,4,5,No,Medio,4,Secundaria
+1336,Legal,Legal Secretary,9545,15,3,Sí,Medio,4,Maestría
+1337,RRHH,Training Manager,5426,8,3,Sí,Medio,4,Maestría
+1338,Finanzas,Analista Financiero,3874,16,4,No,Bajo,3,Sin título formal
+1339,Ventas,Business Development,5296,14,4,Sí,Medio,1,Licenciatura
+1340,Finanzas,Contador Senior,8858,20,1,No,Medio,5,Maestría
+1341,RRHH,Employee Relations Manager,9130,15,4,No,Bajo,5,Doctorado
+1342,Marketing,Marketing Analyst,9629,17,4,No,Bajo,3,Doctorado
+1343,RRHH,HR Analyst,6883,19,2,No,Medio,4,Maestría
+1344,Finanzas,Controller,4708,16,5,No,Bajo,4,Secundaria
+1345,RRHH,Talent Acquisition Lead,7355,17,5,No,Bajo,3,Maestría
+1346,Operations,Inventory Manager,2788,1,3,Sí,Alto,4,Secundaria
+1347,Investigación,Laboratory Technician,5609,8,4,Sí,Medio,3,Licenciatura
+1348,TI,Arquitecto de Software,4648,9,1,Sí,Alto,4,Secundaria
+1349,Investigación,Bioinformático,5876,1,3,Sí,Medio,5,Maestría
+1350,Operations,Distribution Manager,4420,9,3,No,Bajo,3,Licenciatura
+1351,Marketing,Gerente de Marketing,5236,17,5,Sí,Medio,2,Licenciatura
+1352,Ingeniería,DevOps Engineer,10200,12,4,No,Bajo,5,Doctorado
+1353,Soporte,Help Desk Analyst,6493,17,5,No,Bajo,4,Maestría
+1354,Soporte,Escalation Engineer,6213,3,3,No,Bajo,3,Doctorado
+1355,Ventas,Enterprise Sales Rep,4512,17,2,No,Medio,4,Secundaria
+1356,Ingeniería,Full Stack Developer,7684,10,3,No,Bajo,3,Maestría
+1357,RRHH,Director de RRHH,4596,19,4,Sí,Medio,3,Secundaria
+1358,Ingeniería,Machine Learning Engineer,5886,4,5,No,Bajo,5,Maestría
+1359,Ingeniería,Desarrollador Junior,4853,9,2,Sí,Alto,4,Licenciatura
+1360,Soporte,Técnico de Soporte,3683,3,3,Sí,Medio,2,Licenciatura
+1361,TI,Arquitecto de Software,11000,16,1,Sí,Alto,4,Doctorado
+1362,Soporte,Quality Assurance,3776,8,5,Sí,Medio,1,Licenciatura
+1363,Marketing,Content Strategist,6718,13,4,Sí,Medio,4,Maestría
+1364,TI,Security Analyst,6688,4,2,No,Medio,4,Maestría
+1365,Soporte,Service Desk Analyst,4234,14,1,Sí,Alto,3,Licenciatura
+1366,Legal,Senior Counsel,3736,1,4,Sí,Medio,2,Secundaria
+1367,RRHH,Employee Relations Manager,3268,2,3,No,Medio,3,Licenciatura
+1368,Operations,Inventory Manager,3883,4,2,Sí,Alto,5,Licenciatura
+1369,Marketing,Social Media Manager,6425,12,3,Sí,Medio,4,Maestría
+1370,Marketing,Content Strategist,8561,11,2,Sí,Alto,5,Doctorado
+1371,Operations,Operations Manager,4009,7,3,Sí,Medio,4,Licenciatura
+1372,Ventas,Regional Sales Director,5444,5,5,Sí,Medio,4,Maestría
+1373,Investigación,Científico de Datos,3451,2,5,No,Medio,2,Secundaria
+1374,Finanzas,Revenue Analyst,4256,1,3,No,Medio,2,Licenciatura
+1375,Marketing,Product Marketing Manager,4830,14,4,Sí,Medio,5,Licenciatura
+1376,Operations,Supply Chain Analyst,7366,9,4,Sí,Medio,3,Doctorado
+1377,Operations,Inventory Manager,5502,2,5,Sí,Medio,3,Doctorado
+1378,Legal,Compliance Officer,6625,19,2,No,Medio,3,Licenciatura
+1379,Marketing,Gerente de Marketing,8285,9,4,No,Bajo,3,Doctorado
+1380,TI,Administrador de Sistemas,8276,12,4,No,Bajo,4,Maestría
+1381,Operations,Supervisor de Operaciones,5245,19,3,No,Bajo,1,Licenciatura
+1382,Ingeniería,Software Architect,3880,12,4,No,Bajo,4,Secundaria
+1383,TI,Administrador de Sistemas,6843,3,5,No,Bajo,3,Maestría
+1384,Finanzas,Budget Analyst,5469,16,3,Sí,Medio,3,Licenciatura
+1385,Operations,Supervisor de Operaciones,3101,2,4,Sí,Alto,2,Licenciatura
+1386,Marketing,Especialista Digital,2441,9,1,No,Alto,4,Sin título formal
+1387,Soporte,Escalation Engineer,6729,20,3,Sí,Medio,4,Maestría
+1388,Marketing,SEO Specialist,4762,12,2,No,Medio,3,Licenciatura
+1389,Finanzas,CFO Adjunto,4772,20,4,No,Bajo,3,Secundaria
+1390,Finanzas,Revenue Analyst,4453,12,3,Sí,Medio,3,Secundaria
+1391,Operations,Supervisor de Operaciones,3290,7,4,No,Medio,4,Licenciatura
+1392,Soporte,Desktop Support,4635,19,4,Sí,Medio,3,Licenciatura
+1393,Ventas,Account Executive,2828,8,5,No,Medio,4,Sin título formal
+1394,Operations,Operations Manager,6758,17,3,No,Bajo,3,Maestría
+1395,Operations,Procurement Specialist,8031,11,3,Sí,Medio,3,Doctorado
+1396,Ventas,Sales Operations Analyst,4183,14,2,No,Medio,4,Licenciatura
+1397,Ventas,Regional Sales Director,7703,20,4,Sí,Medio,4,Maestría
+1398,RRHH,Workforce Planning Analyst,4820,14,4,Sí,Medio,4,Licenciatura
+1399,Soporte,Service Desk Analyst,4055,14,4,No,Bajo,5,Licenciatura
+1400,Marketing,Gerente de Marketing,6556,1,2,Sí,Alto,3,Doctorado
+1401,Legal,IP Attorney,9488,4,1,Sí,Alto,3,Doctorado
+1402,Ventas,Sales Representative,4869,17,5,No,Bajo,3,Licenciatura
+1403,TI,ERP Analyst,5170,10,3,Sí,Medio,4,Licenciatura
+1404,Ventas,Sales Operations Analyst,4287,12,5,No,Bajo,4,Secundaria
+1405,TI,Database Administrator,6834,5,5,Sí,Medio,4,Maestría
+1406,RRHH,Analista de RRHH,6065,12,3,No,Bajo,3,Maestría
+1407,Legal,IP Attorney,6920,4,4,Sí,Medio,5,Maestría
+1408,Operations,Distribution Manager,8569,14,3,No,Bajo,3,Doctorado
+1409,RRHH,Training Manager,2829,7,4,No,Medio,2,Secundaria
+1410,Finanzas,CFO Adjunto,4842,9,3,No,Bajo,5,Licenciatura
+1411,Finanzas,Budget Analyst,2874,4,3,Sí,Medio,4,Sin título formal
+1412,RRHH,Analista de RRHH,4892,2,1,Sí,Alto,4,Maestría
+1413,Ingeniería,Backend Developer,6278,19,5,No,Bajo,3,Licenciatura
+1414,Ventas,Sales Operations Analyst,5238,4,5,No,Bajo,4,Maestría
+1415,Ventas,Sales Representative,2852,4,3,No,Medio,2,Sin título formal
+1416,RRHH,Workforce Planning Analyst,4354,15,4,Sí,Medio,3,Licenciatura
+1417,Ingeniería,Frontend Developer,6218,17,5,No,Bajo,4,Licenciatura
+1418,Ingeniería,Full Stack Developer,5952,13,4,Sí,Medio,3,Licenciatura
+1419,RRHH,Employee Relations Manager,7318,16,2,No,Medio,4,Maestría
+1420,Marketing,Especialista Digital,5390,16,4,Sí,Medio,2,Licenciatura
+1421,Finanzas,Revenue Analyst,5821,19,4,Sí,Medio,3,Licenciatura
+1422,Finanzas,Financial Analyst,10319,16,4,No,Bajo,3,Doctorado
+1423,Soporte,Escalation Engineer,3803,4,4,Sí,Medio,3,Licenciatura
+1424,Investigación,Bioinformático,6266,14,3,Sí,Medio,5,Licenciatura
+1425,Ventas,Regional Sales Director,6071,5,4,No,Bajo,4,Maestría
+1426,Ingeniería,QA Engineer,4365,7,2,No,Medio,4,Licenciatura
+1427,Finanzas,Treasury Analyst,5050,15,3,No,Bajo,4,Licenciatura
+1428,Soporte,Técnico de Soporte,4618,14,4,Sí,Medio,3,Licenciatura
+1429,Marketing,CMO,5745,20,5,No,Bajo,1,Licenciatura
+1430,TI,Arquitecto de Software,8251,11,4,No,Bajo,4,Maestría
+1431,Ingeniería,Machine Learning Engineer,6769,18,3,Sí,Medio,4,Licenciatura
+1432,Finanzas,CFO Adjunto,9456,11,3,No,Bajo,4,Doctorado
+1433,Ingeniería,Desarrollador Junior,10756,17,1,Sí,Alto,3,Doctorado
+1434,Ingeniería,Full Stack Developer,7125,8,3,Sí,Medio,2,Maestría
+1435,TI,Security Analyst,5649,9,4,Sí,Medio,4,Licenciatura
+1436,Ingeniería,Desarrollador Junior,9019,18,2,Sí,Alto,4,Maestría
+1437,TI,Network Engineer,9699,10,3,No,Bajo,3,Doctorado
+1438,Ventas,Sales Manager,3992,19,3,No,Bajo,3,Sin título formal
+1439,Marketing,Product Marketing Manager,7562,16,3,No,Bajo,1,Maestría
+1440,Investigación,Laboratory Technician,4158,18,3,Sí,Medio,4,Sin título formal
+1441,Ingeniería,Frontend Developer,8195,15,3,No,Bajo,3,Maestría
+1442,Ventas,Account Executive,6071,7,4,No,Bajo,2,Maestría
+1443,TI,IT Manager,6920,19,3,Sí,Medio,4,Licenciatura
+1444,RRHH,Analista de RRHH,5347,19,5,No,Bajo,3,Licenciatura
+1445,Marketing,Content Strategist,7378,18,3,No,Bajo,4,Maestría
+1446,Legal,Senior Counsel,9258,3,3,Sí,Medio,2,Doctorado
+1447,RRHH,Analista de RRHH,3921,4,2,Sí,Alto,5,Licenciatura
+1448,Investigación,Research Analyst,9482,17,2,No,Medio,5,Maestría
+1449,TI,Security Analyst,4242,4,5,No,Bajo,3,Secundaria
+1450,Soporte,Service Desk Analyst,5002,6,3,Sí,Medio,4,Maestría
+1451,Operations,Supply Chain Analyst,3316,9,5,No,Medio,4,Licenciatura
+1452,RRHH,Training Manager,5084,16,3,Sí,Medio,3,Licenciatura
+1453,Investigación,Científico de Datos,2857,1,2,No,Alto,3,Sin título formal
+1454,Ventas,Ejecutivo de Ventas,7809,20,2,Sí,Alto,4,Maestría
+1455,Marketing,Marketing Analyst,5788,7,3,No,Bajo,4,Maestría
+1456,Soporte,Quality Assurance,9154,18,2,Sí,Alto,3,Doctorado
+1457,Marketing,Brand Manager,5640,19,4,Sí,Medio,3,Licenciatura
+1458,Operations,Procurement Specialist,3717,20,3,No,Bajo,1,Sin título formal
+1459,Marketing,SEO Specialist,5700,20,1,Sí,Alto,2,Licenciatura
+1460,Ingeniería,DevOps Engineer,6103,15,4,No,Bajo,3,Licenciatura
+1461,Legal,Abogado Corporativo,6152,13,3,No,Bajo,4,Licenciatura
+1462,Soporte,Escalation Engineer,3344,20,5,Sí,Medio,5,Secundaria
+1463,Finanzas,CFO Adjunto,10483,18,4,No,Bajo,4,Doctorado
+1464,TI,Cloud Architect,5745,12,4,No,Bajo,3,Licenciatura
+1465,TI,Network Engineer,6769,7,5,No,Bajo,3,Maestría
+1466,Soporte,Escalation Engineer,5167,19,3,No,Bajo,5,Licenciatura
+1467,Finanzas,Cost Accountant,11000,20,4,No,Bajo,2,Doctorado
+1468,Finanzas,Budget Analyst,8685,19,5,Sí,Medio,5,Maestría
+1469,Operations,Operations Manager,4732,16,5,Sí,Medio,3,Licenciatura
+1470,RRHH,Training Manager,3741,4,3,Sí,Medio,4,Licenciatura
+1471,Soporte,Líder de Soporte,6741,9,3,Sí,Medio,4,Doctorado
+1472,Soporte,Help Desk Analyst,8268,19,4,No,Bajo,5,Doctorado
+1473,TI,Security Analyst,8446,2,2,Sí,Alto,3,Doctorado
+1474,RRHH,Employee Relations Manager,4732,20,4,Sí,Medio,3,Secundaria
+1475,Ingeniería,QA Engineer,5263,12,4,Sí,Medio,4,Licenciatura
+1476,Investigación,Científico de Datos,4828,3,4,Sí,Medio,3,Licenciatura
+1477,Operations,Supervisor de Operaciones,4419,1,5,Sí,Medio,5,Maestría
+1478,Finanzas,Financial Analyst,6071,5,2,No,Medio,4,Maestría
+1479,RRHH,Director de RRHH,4451,11,5,No,Bajo,3,Licenciatura
+1480,Finanzas,Budget Analyst,7177,9,4,Sí,Medio,4,Maestría
+1481,Soporte,Escalation Engineer,3889,6,2,Sí,Alto,4,Licenciatura
+1482,TI,Cloud Architect,7676,10,3,Sí,Medio,5,Maestría
+1483,Legal,IP Attorney,6795,3,1,Sí,Alto,2,Maestría
+1484,RRHH,Employee Relations Manager,5557,19,3,No,Bajo,3,Licenciatura
+1485,Operations,Supervisor de Operaciones,3554,4,3,No,Bajo,3,Licenciatura
+1486,Ventas,Sales Representative,8422,10,3,Sí,Medio,3,Doctorado
+1487,Ingeniería,Software Architect,8297,15,3,No,Bajo,4,Maestría
+1488,Operations,Supply Chain Analyst,4041,13,1,No,Medio,5,Licenciatura
+1489,Marketing,Content Strategist,5162,14,1,No,Medio,4,Licenciatura
+1490,Finanzas,Revenue Analyst,3900,17,5,Sí,Medio,4,Sin título formal
+1491,RRHH,Training Manager,4849,2,4,Sí,Medio,3,Maestría
+1492,RRHH,Employee Relations Manager,3535,5,5,Sí,Medio,3,Secundaria
+1493,Ventas,Sales Representative,4425,7,4,No,Bajo,4,Licenciatura
+1494,Soporte,Técnico de Soporte,4167,12,4,Sí,Medio,4,Licenciatura
+1495,Marketing,Social Media Manager,7116,15,2,Sí,Alto,4,Maestría
+1496,RRHH,Compensation Analyst,6041,10,4,No,Bajo,4,Maestría
+1497,Soporte,Technical Writer,6745,19,4,Sí,Medio,3,Maestría
+1498,Soporte,Escalation Engineer,7204,20,5,No,Bajo,4,Maestría
+1499,RRHH,Employee Relations Manager,3772,7,4,No,Bajo,3,Licenciatura
+1500,Finanzas,Budget Analyst,5806,16,3,Sí,Medio,5,Licenciatura

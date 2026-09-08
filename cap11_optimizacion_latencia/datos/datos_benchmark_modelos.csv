@@ -1,0 +1,21 @@
+model_name,inference_time_ms,memory_mb,accuracy,model_size_mb,framework
+ResNet-50 FP32,45.2,892.5,76.1,97.8,PyTorch
+ResNet-50 FP16,28.7,456.3,76.0,48.9,PyTorch
+ResNet-50 INT8,18.4,234.1,75.8,24.5,PyTorch
+ResNet-50 ONNX,22.1,312.4,76.1,49.2,ONNX Runtime
+MobileNetV2 FP32,12.3,312.4,71.8,14.0,PyTorch
+MobileNetV2 FP16,8.1,156.2,71.7,7.0,PyTorch
+MobileNetV2 INT8,5.2,89.3,71.5,3.5,PyTorch
+MobileNetV2 ONNX,6.8,112.5,71.8,7.1,ONNX Runtime
+BERT-base FP32,125.4,2340.2,93.2,438.0,PyTorch
+BERT-base FP16,78.9,1170.1,93.1,219.0,PyTorch
+BERT-base INT8,45.2,612.3,92.8,110.0,PyTorch
+BERT-base ONNX,62.3,845.6,93.2,220.0,ONNX Runtime
+GPT-2 FP32,285.6,4520.1,85.4,1244.0,PyTorch
+GPT-2 FP16,156.8,2260.3,85.3,622.0,PyTorch
+GPT-2 INT8,98.4,1180.5,84.9,311.0,PyTorch
+GPT-2 ONNX,125.2,1560.8,85.4,625.0,ONNX Runtime
+XGBoost,8.5,124.6,91.2,24.5,Scikit-learn
+LightGBM,5.2,98.3,90.8,12.3,Scikit-learn
+Random Forest,12.8,256.7,88.5,45.6,Scikit-learn
+Linear Regression,0.8,2.4,72.4,0.5,Scikit-learn
